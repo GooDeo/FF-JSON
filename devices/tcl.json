@@ -1,0 +1,320 @@
+{
+  "data": [
+
+    {
+      "details": [
+        {
+          "name": "TCL 20E",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 98,
+          "x2_scope": 94,
+          "x4_scope": 90,
+          "sniper_scope": 52,
+          "free_look": 53,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "TCL 30 SE",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 92,
+          "x2_scope": 99,
+          "x4_scope": 93,
+          "sniper_scope": 60,
+          "free_look": 45,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "TCL 20 SE",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 92,
+          "x2_scope": 91,
+          "x4_scope": 92,
+          "sniper_scope": 42,
+          "free_look": 48,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "TCL 305",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 91,
+          "x2_scope": 91,
+          "x4_scope": 92,
+          "sniper_scope": 58,
+          "free_look": 46,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "TCL 10",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 90,
+          "x2_scope": 92,
+          "x4_scope": 98,
+          "sniper_scope": 40,
+          "free_look": 53,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "TCL Tab 8",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 94,
+          "x2_scope": 91,
+          "x4_scope": 99,
+          "sniper_scope": 49,
+          "free_look": 39,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "TCL A30",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 98,
+          "x2_scope": 90,
+          "x4_scope": 98,
+          "sniper_scope": 23,
+          "free_look": 33,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "TCL 30 XE",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 95,
+          "x2_scope": 95,
+          "x4_scope": 91,
+          "sniper_scope": 46,
+          "free_look": 36,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "TCL 30 XE 5G",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 88,
+          "x2_scope": 91,
+          "x4_scope": 98,
+          "sniper_scope": 57,
+          "free_look": 39,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "TCL 20 5G",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 96,
+          "x2_scope": 93,
+          "x4_scope": 94,
+          "sniper_scope": 46,
+          "free_look": 33,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "TCL 305i",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 98,
+          "x2_scope": 95,
+          "x4_scope": 90,
+          "sniper_scope": 34,
+          "free_look": 48,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "TCL L10 Plus",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 96,
+          "x2_scope": 91,
+          "x4_scope": 98,
+          "sniper_scope": 57,
+          "free_look": 47,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "TCL 30",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 95,
+          "x2_scope": 98,
+          "x4_scope": 91,
+          "sniper_scope": 40,
+          "free_look": 51,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "TCL L10 Pro",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 95,
+          "x2_scope": 95,
+          "x4_scope": 94,
+          "sniper_scope": 22,
+          "free_look": 41,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "TCL 10 SE",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 97,
+          "x2_scope": 91,
+          "x4_scope": 92,
+          "sniper_scope": 34,
+          "free_look": 36,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "TCL L9 Plus",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 92,
+          "x2_scope": 97,
+          "x4_scope": 97,
+          "sniper_scope": 42,
+          "free_look": 44,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "TCL L7",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 95,
+          "x2_scope": 99,
+          "x4_scope": 93,
+          "sniper_scope": 21,
+          "free_look": 47,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "TCL T Pro",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 91,
+          "x2_scope": 100,
+          "x4_scope": 90,
+          "sniper_scope": 42,
+          "free_look": 49,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "TCL 20B",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 92,
+          "x2_scope": 97,
+          "x4_scope": 91,
+          "sniper_scope": 26,
+          "free_look": 30,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "TCL 30 Z",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 95,
+          "x2_scope": 98,
+          "x4_scope": 97,
+          "sniper_scope": 35,
+          "free_look": 40,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "TCL 10L",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 97,
+          "x2_scope": 99,
+          "x4_scope": 95,
+          "sniper_scope": 58,
+          "free_look": 48,
+          "trigger": 53
+        }
+      ]
+    }
+  ]
+}

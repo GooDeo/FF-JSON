@@ -1,0 +1,1504 @@
+{
+  "data": [
+    {
+      "details": [
+        {
+          "name": "Huawei Y8s + DPI",
+          "dpi": 457,
+          "free_look": 54,
+          "general": 94,
+          "red_dot": 98,
+          "sniper_scope": 30,
+          "trigger": 50,
+          "x2_scope": 93,
+          "x4_scope": 93
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei P10 Plus + DPI",
+          "dpi": 599,
+          "free_look": 43,
+          "general": 96,
+          "red_dot": 97,
+          "sniper_scope": 41,
+          "trigger": 47,
+          "x2_scope": 90,
+          "x4_scope": 98
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Nova 3i + DPI",
+          "dpi": 463,
+          "free_look": 40,
+          "general": 95,
+          "red_dot": 88,
+          "sniper_scope": 26,
+          "trigger": 50,
+          "x2_scope": 98,
+          "x4_scope": 91
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y6 2019 + DPI",
+          "dpi": 468,
+          "free_look": 35,
+          "general": 97,
+          "red_dot": 98,
+          "sniper_scope": 41,
+          "trigger": 51,
+          "x2_scope": 91,
+          "x4_scope": 94
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Mate 10 Lite + DPI",
+          "dpi": 572,
+          "free_look": 52,
+          "general": 95,
+          "red_dot": 97,
+          "sniper_scope": 23,
+          "trigger": 42,
+          "x2_scope": 94,
+          "x4_scope": 93
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y9 2019 + DPI",
+          "dpi": 493,
+          "free_look": 36,
+          "general": 97,
+          "red_dot": 90,
+          "sniper_scope": 21,
+          "trigger": 48,
+          "x2_scope": 90,
+          "x4_scope": 99
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y9 Prime + DPI",
+          "dpi": 500,
+          "free_look": 32,
+          "general": 95,
+          "red_dot": 97,
+          "sniper_scope": 23,
+          "trigger": 42,
+          "x2_scope": 94,
+          "x4_scope": 93
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Nova 3",
+          "dpi": 0,
+          "free_look": 38,
+          "general": 94,
+          "red_dot": 97,
+          "sniper_scope": 25,
+          "trigger": 47,
+          "x2_scope": 92,
+          "x4_scope": 99
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei P20 Lite + DPI",
+          "dpi": 471,
+          "free_look": 35,
+          "general": 98,
+          "red_dot": 94,
+          "sniper_scope": 20,
+          "trigger": 53,
+          "x2_scope": 91,
+          "x4_scope": 93
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Nova Y60 + DPI",
+          "dpi": 669,
+          "free_look": 46,
+          "general": 95,
+          "red_dot": 91,
+          "sniper_scope": 47,
+          "trigger": 40,
+          "x2_scope": 91,
+          "x4_scope": 99
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Smart 2019 + DPI",
+          "dpi": 642,
+          "free_look": 53,
+          "general": 97,
+          "red_dot": 96,
+          "sniper_scope": 54,
+          "trigger": 47,
+          "x2_scope": 97,
+          "x4_scope": 95
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y5 2019 + DPI",
+          "dpi": 523,
+          "free_look": 39,
+          "general": 95,
+          "red_dot": 96,
+          "sniper_scope": 57,
+          "trigger": 52,
+          "x2_scope": 96,
+          "x4_scope": 100
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y9s + DPI",
+          "dpi": 580,
+          "free_look": 53,
+          "general": 95,
+          "red_dot": 91,
+          "sniper_scope": 35,
+          "trigger": 48,
+          "x2_scope": 91,
+          "x4_scope": 99
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Mate 10 + DPI",
+          "dpi": 566,
+          "free_look": 43,
+          "general": 94,
+          "red_dot": 88,
+          "sniper_scope": 37,
+          "trigger": 42,
+          "x2_scope": 96,
+          "x4_scope": 96
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Nova 7 + DPI",
+          "dpi": 619,
+          "free_look": 37,
+          "general": 93,
+          "red_dot": 89,
+          "sniper_scope": 20,
+          "trigger": 40,
+          "x2_scope": 97,
+          "x4_scope": 91
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y5 + DPI",
+          "dpi": 585,
+          "free_look": 37,
+          "general": 93,
+          "red_dot": 98,
+          "sniper_scope": 45,
+          "trigger": 45,
+          "x2_scope": 90,
+          "x4_scope": 90
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei P40 Lite + DPI",
+          "dpi": 579,
+          "free_look": 55,
+          "general": 97,
+          "red_dot": 97,
+          "sniper_scope": 57,
+          "trigger": 45,
+          "x2_scope": 94,
+          "x4_scope": 96
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y6p + DPI",
+          "dpi": 679,
+          "free_look": 47,
+          "general": 93,
+          "red_dot": 90,
+          "sniper_scope": 47,
+          "trigger": 44,
+          "x2_scope": 90,
+          "x4_scope": 96
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y7 2019 + DPI",
+          "dpi": 635,
+          "free_look": 38,
+          "general": 94,
+          "red_dot": 98,
+          "sniper_scope": 60,
+          "trigger": 48,
+          "x2_scope": 93,
+          "x4_scope": 93
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y7 2018 + DPI",
+          "dpi": 458,
+          "free_look": 46,
+          "general": 94,
+          "red_dot": 93,
+          "sniper_scope": 54,
+          "trigger": 40,
+          "x2_scope": 96,
+          "x4_scope": 95
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y20",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 92,
+          "x2_scope": 95,
+          "x4_scope": 91,
+          "sniper_scope": 25,
+          "free_look": 44,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei ANE-LX3",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 98,
+          "x2_scope": 96,
+          "x4_scope": 98,
+          "sniper_scope": 33,
+          "free_look": 46,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei MediaPad T5",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 95,
+          "x2_scope": 90,
+          "x4_scope": 93,
+          "sniper_scope": 19,
+          "free_look": 32,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Mate 20 Lite + DPI",
+          "dpi": 561,
+          "free_look": 31,
+          "general": 98,
+          "red_dot": 88,
+          "sniper_scope": 34,
+          "trigger": 42,
+          "x2_scope": 99,
+          "x4_scope": 90
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei P Smart 2018 + DPI",
+          "dpi": 633,
+          "free_look": 42,
+          "general": 96,
+          "red_dot": 94,
+          "sniper_scope": 19,
+          "trigger": 42,
+          "x2_scope": 96,
+          "x4_scope": 93
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei P30 Pro + DPI",
+          "dpi": 648,
+          "free_look": 39,
+          "general": 94,
+          "red_dot": 91,
+          "sniper_scope": 27,
+          "trigger": 46,
+          "x2_scope": 93,
+          "x4_scope": 91
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Nova 7i + DPI",
+          "dpi": 663,
+          "free_look": 32,
+          "general": 95,
+          "red_dot": 90,
+          "sniper_scope": 30,
+          "trigger": 51,
+          "x2_scope": 100,
+          "x4_scope": 96
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei P20 Pro + DPI",
+          "dpi": 489,
+          "general": 98,
+          "red_dot": 97,
+          "x2_scope": 90,
+          "x4_scope": 94,
+          "sniper_scope": 47,
+          "free_look": 45,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei P60 Pro",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 90,
+          "x2_scope": 100,
+          "x4_scope": 100,
+          "sniper_scope": 21,
+          "free_look": 32,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Price",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 92,
+          "x2_scope": 95,
+          "x4_scope": 99,
+          "sniper_scope": 45,
+          "free_look": 37,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Nova 2i",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 94,
+          "x2_scope": 98,
+          "x4_scope": 96,
+          "sniper_scope": 29,
+          "free_look": 38,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei MatePad T10",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 93,
+          "x2_scope": 100,
+          "x4_scope": 96,
+          "sniper_scope": 30,
+          "free_look": 48,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei MediaPad M1",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 93,
+          "x2_scope": 99,
+          "x4_scope": 95,
+          "sniper_scope": 26,
+          "free_look": 51,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y5 Pro",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 94,
+          "x2_scope": 96,
+          "x4_scope": 97,
+          "sniper_scope": 34,
+          "free_look": 36,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y6 II",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 92,
+          "x2_scope": 98,
+          "x4_scope": 90,
+          "sniper_scope": 54,
+          "free_look": 43,
+          "trigger":49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Mate 9 Lite",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 92,
+          "x2_scope": 100,
+          "x4_scope": 96,
+          "sniper_scope": 57,
+          "free_look": 30,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei P50 Pro",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 91,
+          "x2_scope": 94,
+          "x4_scope": 100,
+          "sniper_scope": 47,
+          "free_look": 30,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Nova 9 SE",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 90,
+          "x2_scope": 95,
+          "x4_scope": 93,
+          "sniper_scope": 20,
+          "free_look": 47,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y7 Pro",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 96,
+          "x2_scope": 99,
+          "x4_scope": 98,
+          "sniper_scope": 29,
+          "free_look": 34,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei G Play Mini",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 93,
+          "x2_scope": 94,
+          "x4_scope": 99,
+          "sniper_scope": 48,
+          "free_look": 39,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y6s",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 92,
+          "x2_scope": 93,
+          "x4_scope": 100,
+          "sniper_scope": 29,
+          "free_look": 43,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei MatePad 10.4",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 97,
+          "x2_scope": 98,
+          "x4_scope": 100,
+          "sniper_scope": 29,
+          "free_look": 35,
+          "trigger":42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y5 2018",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 88,
+          "x2_scope": 96,
+          "x4_scope": 95,
+          "sniper_scope": 18,
+          "free_look": 48,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y5 Lite",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 91,
+          "x2_scope": 95,
+          "x4_scope": 94,
+          "sniper_scope": 57,
+          "free_look": 54,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y5 Lite 2017",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 95,
+          "x2_scope": 95,
+          "x4_scope": 94,
+          "sniper_scope": 36,
+          "free_look": 52,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Nova 9",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 89,
+          "x2_scope": 93,
+          "x4_scope": 96,
+          "sniper_scope": 50,
+          "free_look": 54,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y7 Prime",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 98,
+          "x2_scope": 92,
+          "x4_scope": 92,
+          "sniper_scope": 43,
+          "free_look": 39,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Nova Y70",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 89,
+          "x2_scope": 99,
+          "x4_scope": 91,
+          "sniper_scope": 49,
+          "free_look": 37,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei P Smart 2019",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 92,
+          "x2_scope": 93,
+          "x4_scope": 95,
+          "sniper_scope": 21,
+          "free_look": 33,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Nova 8i",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 98,
+          "x2_scope": 92,
+          "x4_scope": 90,
+          "sniper_scope": 19,
+          "free_look": 50,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Nova Y90",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 90,
+          "x2_scope": 99,
+          "x4_scope": 92,
+          "sniper_scope": 22,
+          "free_look": 47,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y6 I",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 96,
+          "x2_scope": 91,
+          "x4_scope": 97,
+          "sniper_scope": 46,
+          "free_look": 33,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y5 2017",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 88,
+          "x2_scope": 94,
+          "x4_scope": 99,
+          "sniper_scope": 26,
+          "free_look": 37,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei P Smart 2020",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 91,
+          "x2_scope": 100,
+          "x4_scope": 96,
+          "sniper_scope": 45,
+          "free_look": 55,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y7a",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 94,
+          "x2_scope": 96,
+          "x4_scope": 92,
+          "sniper_scope": 58,
+          "free_look": 55,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y9a",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 93,
+          "x2_scope": 90,
+          "x4_scope": 90,
+          "sniper_scope": 60,
+          "free_look": 42,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Mate 10 Pro",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 90,
+          "x2_scope": 97,
+          "x4_scope": 93,
+          "sniper_scope": 45,
+          "free_look": 31,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei GT3",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 93,
+          "x2_scope": 96,
+          "x4_scope": 98,
+          "sniper_scope": 19,
+          "free_look": 43,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Mate S",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 93,
+          "x2_scope": 99,
+          "x4_scope": 94,
+          "sniper_scope": 27,
+          "free_look": 52,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y5 17",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 88,
+          "x2_scope": 95,
+          "x4_scope": 100,
+          "sniper_scope": 49,
+          "free_look": 39,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y7P",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 98,
+          "x2_scope": 90,
+          "x4_scope": 100,
+          "sniper_scope": 56,
+          "free_look": 49,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y9",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 91,
+          "x2_scope": 94,
+          "x4_scope": 95,
+          "sniper_scope": 58,
+          "free_look": 46,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei P10",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 96,
+          "x2_scope": 100,
+          "x4_scope": 99,
+          "sniper_scope": 20,
+          "free_look": 52,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Mate 9",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 98,
+          "x2_scope": 95,
+          "x4_scope": 92,
+          "sniper_scope": 46,
+          "free_look": 50,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Nova 5T",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 94,
+          "x2_scope": 100,
+          "x4_scope": 98,
+          "sniper_scope": 46,
+          "free_look": 44,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei P30 Lite",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 91,
+          "x2_scope": 98,
+          "x4_scope": 91,
+          "sniper_scope": 35,
+          "free_look": 44,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei P9 Lite",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 97,
+          "x2_scope": 93,
+          "x4_scope": 93,
+          "sniper_scope": 39,
+          "free_look": 54,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei P10 Selfie",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 95,
+          "x2_scope": 99,
+          "x4_scope": 100,
+          "sniper_scope": 52,
+          "free_look": 33,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei P Smart POT-LX3",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 96,
+          "x2_scope": 100,
+          "x4_scope": 90,
+          "sniper_scope": 29,
+          "free_look": 35,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei P40 Pro",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 90,
+          "x2_scope": 99,
+          "x4_scope": 93,
+          "sniper_scope": 47,
+          "free_look": 37,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei P Smart 2021",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 89,
+          "x2_scope": 93,
+          "x4_scope": 100,
+          "sniper_scope": 32,
+          "free_look": 33,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei GR5 2017 Pro",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 91,
+          "x2_scope": 90,
+          "x4_scope": 97,
+          "sniper_scope": 21,
+          "free_look": 43,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y6S 2019",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 98,
+          "x2_scope": 96,
+          "x4_scope": 92,
+          "sniper_scope": 38,
+          "free_look": 44,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Mate Pro",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 93,
+          "x2_scope": 95,
+          "x4_scope": 93,
+          "sniper_scope": 42,
+          "free_look": 30,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y8p",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 97,
+          "x2_scope": 92,
+          "x4_scope": 96,
+          "sniper_scope": 41,
+          "free_look": 51,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei 10p Lite",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 88,
+          "x2_scope": 94,
+          "x4_scope": 90,
+          "sniper_scope": 42,
+          "free_look": 34,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y5p 2020",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 89,
+          "x2_scope": 97,
+          "x4_scope": 91,
+          "sniper_scope": 40,
+          "free_look": 33,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y8",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 91,
+          "x2_scope": 97,
+          "x4_scope": 100,
+          "sniper_scope": 30,
+          "free_look": 53,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y9 2018",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 95,
+          "x2_scope": 90,
+          "x4_scope": 93,
+          "sniper_scope": 51,
+          "free_look": 46,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y7",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 93,
+          "x2_scope": 92,
+          "x4_scope": 98,
+          "sniper_scope": 22,
+          "free_look": 45,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y6 2018",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 98,
+          "x2_scope": 99,
+          "x4_scope": 98,
+          "sniper_scope": 36,
+          "free_look": 31,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei GW Metal",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 98,
+          "x2_scope": 93,
+          "x4_scope": 99,
+          "sniper_scope": 59,
+          "free_look": 42,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei P8 Lite",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 93,
+          "x2_scope": 96,
+          "x4_scope": 100,
+          "sniper_scope": 34,
+          "free_look": 33,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Nova Plus",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 88,
+          "x2_scope": 100,
+          "x4_scope": 100,
+          "sniper_scope": 25,
+          "free_look": 37,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei P20",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 96,
+          "x2_scope": 90,
+          "x4_scope": 93,
+          "sniper_scope": 54,
+          "free_look": 41,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei P9",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 94,
+          "x2_scope": 94,
+          "x4_scope": 96,
+          "sniper_scope": 58,
+          "free_look": 51,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y6",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 94,
+          "x2_scope": 95,
+          "x4_scope": 93,
+          "sniper_scope": 49,
+          "free_look": 38,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei P30 Normal",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 93,
+          "x2_scope": 92,
+          "x4_scope": 99,
+          "sniper_scope": 22,
+          "free_look": 51,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei P Lite",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 94,
+          "x2_scope": 99,
+          "x4_scope": 95,
+          "sniper_scope": 20,
+          "free_look": 36,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y9 Prime 2019",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 97,
+          "x2_scope": 96,
+          "x4_scope": 95,
+          "sniper_scope": 39,
+          "free_look": 43,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y7 2017",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 96,
+          "x2_scope": 100,
+          "x4_scope": 92,
+          "sniper_scope": 60,
+          "free_look": 53,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y6s + DPI",
+          "dpi": 548,
+          "general": 95,
+          "red_dot": 90,
+          "x2_scope": 92,
+          "x4_scope": 91,
+          "sniper_scope": 39,
+          "free_look": 44,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y5 2020",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 89,
+          "x2_scope": 97,
+          "x4_scope": 100,
+          "sniper_scope": 24,
+          "free_look": 44,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Mate 8",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 94,
+          "x2_scope": 95,
+          "x4_scope": 90,
+          "sniper_scope": 55,
+          "free_look": 42,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei P10 Lite",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 95,
+          "x2_scope": 90,
+          "x4_scope": 90,
+          "sniper_scope": 44,
+          "free_look": 36,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y3",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 90,
+          "x2_scope": 100,
+          "x4_scope": 94,
+          "sniper_scope": 30,
+          "free_look": 47,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Mate 20 Pro",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 97,
+          "x2_scope": 94,
+          "x4_scope": 92,
+          "sniper_scope": 30,
+          "free_look": 45,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Mate 20",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 90,
+          "x2_scope": 100,
+          "x4_scope": 95,
+          "sniper_scope": 49,
+          "free_look": 34,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y8 Prime 2019",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 88,
+          "x2_scope": 96,
+          "x4_scope": 93,
+          "sniper_scope": 23,
+          "free_look": 48,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Huawei Y5 Lite 2018",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 92,
+          "x2_scope": 93,
+          "x4_scope": 94,
+          "sniper_scope": 24,
+          "free_look": 52,
+          "trigger": 43
+        }
+      ]
+    }
+  ]
+}

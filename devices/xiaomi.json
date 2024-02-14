@@ -1,0 +1,574 @@
+{
+  "data": [
+    {
+      "details": [
+        {
+          "name": "Xiaomi 9T Pro + DPI",
+          "dpi": 613,
+          "free_look": 55,
+          "general": 95,
+          "red_dot": 90,
+          "sniper_scope": 32,
+          "trigger": 48,
+          "x2_scope": 90,
+          "x4_scope": 90
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi 6 + DPI",
+          "dpi": 619,
+          "free_look": 35,
+          "general": 95,
+          "red_dot": 89,
+          "sniper_scope": 20,
+          "trigger": 39,
+          "x2_scope": 100,
+          "x4_scope": 97
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi Mi 11 Lite",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 88,
+          "x2_scope": 98,
+          "x4_scope": 95,
+          "sniper_scope": 55,
+          "free_look": 30,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi Mi 11 Ultra",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 91,
+          "x2_scope": 93,
+          "x4_scope": 93,
+          "sniper_scope": 52,
+          "free_look": 35,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi Mi 9SE",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 96,
+          "x2_scope": 98,
+          "x4_scope": 96,
+          "sniper_scope": 58,
+          "free_look": 52,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi Mi 11",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 94,
+          "x2_scope": 98,
+          "x4_scope": 100,
+          "sniper_scope": 20,
+          "free_look": 35,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi Note 10",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 98,
+          "x2_scope": 91,
+          "x4_scope": 96,
+          "sniper_scope": 51,
+          "free_look": 38,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi Mi 10T Lite",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 90,
+          "x2_scope": 90,
+          "x4_scope": 91,
+          "sniper_scope": 21,
+          "free_look": 31,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi 9S",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 92,
+          "x2_scope": 92,
+          "x4_scope": 92,
+          "sniper_scope": 53,
+          "free_look": 48,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi A1 + DPI",
+          "dpi": 584,
+          "free_look": 36,
+          "general": 96,
+          "red_dot": 90,
+          "sniper_scope": 23,
+          "trigger": 46,
+          "x2_scope": 100,
+          "x4_scope": 100
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi A2 Lite + DPI",
+          "dpi": 460,
+          "free_look": 55,
+          "general": 97,
+          "red_dot": 95,
+          "sniper_scope": 49,
+          "trigger": 52,
+          "x2_scope": 91,
+          "x4_scope": 98
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi A3 + DPI",
+          "dpi": 513,
+          "free_look": 33,
+          "general": 95,
+          "red_dot": 89,
+          "sniper_scope": 55,
+          "trigger": 49,
+          "x2_scope": 99,
+          "x4_scope": 90
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi 8 SE + DPI",
+          "dpi": 597,
+          "free_look": 33,
+          "general": 94,
+          "red_dot": 93,
+          "sniper_scope": 41,
+          "trigger": 48,
+          "x2_scope": 91,
+          "x4_scope": 99
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi 8 Lite + DPI",
+          "dpi": 562,
+          "free_look": 54,
+          "general": 94,
+          "red_dot": 88,
+          "sniper_scope": 29,
+          "trigger": 52,
+          "x2_scope": 100,
+          "x4_scope": 92
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi Mi A2 Lite",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 98,
+          "x2_scope": 91,
+          "x4_scope": 94,
+          "sniper_scope": 44,
+          "free_look": 55,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi Mi 5",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 94,
+          "x2_scope": 98,
+          "x4_scope": 99,
+          "sniper_scope": 37,
+          "free_look": 31,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi Mi Max 3",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 92,
+          "x2_scope": 98,
+          "x4_scope": 90,
+          "sniper_scope": 35,
+          "free_look": 53,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi Mi 9 lite",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 96,
+          "x2_scope": 96,
+          "x4_scope": 96,
+          "sniper_scope": 24,
+          "free_look": 49,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi Mi 8 Lite",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 97,
+          "x2_scope": 99,
+          "x4_scope": 96,
+          "sniper_scope": 32,
+          "free_look": 48,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi Mi 9T",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 90,
+          "x2_scope": 92,
+          "x4_scope": 95,
+          "sniper_scope": 50,
+          "free_look": 47,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi Mi 9T Pro",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 89,
+          "x2_scope": 94,
+          "x4_scope": 92,
+          "sniper_scope": 30,
+          "free_look": 47,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi Mi A2 Lite",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 93,
+          "x2_scope": 90,
+          "x4_scope": 96,
+          "sniper_scope": 30,
+          "free_look": 35,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi Mi A2 Lite + DPI",
+          "dpi": 563,
+          "general": 98,
+          "red_dot": 96,
+          "x2_scope": 99,
+          "x4_scope": 91,
+          "sniper_scope": 37,
+          "free_look": 42,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi Mi 6 + DPI",
+          "dpi": 544,
+          "general": 98,
+          "red_dot": 98,
+          "x2_scope": 96,
+          "x4_scope": 96,
+          "sniper_scope": 37,
+          "free_look": 44,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi Mi A3 + DPI",
+          "dpi": 642,
+          "general": 97,
+          "red_dot": 89,
+          "x2_scope": 93,
+          "x4_scope": 93,
+          "sniper_scope": 33,
+          "free_look": 55,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi Mi 8 Lite + DPI",
+          "dpi": 556,
+          "general": 98,
+          "red_dot": 95,
+          "x2_scope": 93,
+          "x4_scope": 98,
+          "sniper_scope": 22,
+          "free_look": 36,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi Mi Note 10 Lite + DPI",
+          "dpi": 601,
+          "general": 97,
+          "red_dot": 91,
+          "x2_scope": 97,
+          "x4_scope": 97,
+          "sniper_scope": 54,
+          "free_look": 31,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi Mi A1 + DPI",
+          "dpi": 526,
+          "general": 98,
+          "red_dot": 96,
+          "x2_scope": 95,
+          "x4_scope": 98,
+          "sniper_scope": 28,
+          "free_look": 44,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi Mi 9T Pro + DPI",
+          "dpi": 582,
+          "general": 96,
+          "red_dot": 92,
+          "x2_scope": 95,
+          "x4_scope": 99,
+          "sniper_scope": 30,
+          "free_look": 32,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi Mi 8 SE + DPI",
+          "dpi": 462,
+          "general": 95,
+          "red_dot": 96,
+          "x2_scope": 96,
+          "x4_scope": 93,
+          "sniper_scope": 47,
+          "free_look": 39,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi Mi 6",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 98,
+          "x2_scope": 94,
+          "x4_scope": 96,
+          "sniper_scope": 25,
+          "free_look": 55,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi Pixel 4 XI",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 95,
+          "x2_scope": 96,
+          "x4_scope": 91,
+          "sniper_scope": 34,
+          "free_look": 39,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi Note 9 Pro",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 89,
+          "x2_scope": 91,
+          "x4_scope": 95,
+          "sniper_scope": 28,
+          "free_look": 36,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi Mi A3",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 98,
+          "x2_scope": 90,
+          "x4_scope": 90,
+          "sniper_scope": 24,
+          "free_look": 34,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi T9",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 91,
+          "x2_scope": 99,
+          "x4_scope": 93,
+          "sniper_scope": 33,
+          "free_look": 35,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi Mi 10T Pro",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 94,
+          "x2_scope": 99,
+          "x4_scope": 90,
+          "sniper_scope": 51,
+          "free_look": 46,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi Mi A2",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 97,
+          "x2_scope": 92,
+          "x4_scope": 96,
+          "sniper_scope": 19,
+          "free_look": 32,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Xiaomi A8",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 88,
+          "x2_scope": 100,
+          "x4_scope": 93,
+          "sniper_scope": 57,
+          "free_look": 49,
+          "trigger": 41
+        }
+      ]
+    }
+  ]
+}

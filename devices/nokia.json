@@ -1,0 +1,469 @@
+{
+  "data": [
+    {
+      "details": [
+        {
+          "name": "Nokia C30",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 91,
+          "x2_scope": 95,
+          "x4_scope": 93,
+          "sniper_scope": 40,
+          "free_look": 30,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Nokia G21",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 98,
+          "x2_scope": 92,
+          "x4_scope": 96,
+          "sniper_scope": 45,
+          "free_look": 50,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Nokia C2",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 90,
+          "x2_scope": 95,
+          "x4_scope": 92,
+          "sniper_scope": 54,
+          "free_look": 31,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Nokia X100",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 97,
+          "x2_scope": 95,
+          "x4_scope": 99,
+          "sniper_scope": 53,
+          "free_look": 38,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Nokia G20",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 96,
+          "x2_scope": 90,
+          "x4_scope": 97,
+          "sniper_scope": 19,
+          "free_look": 34,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Nokia 3.5",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 98,
+          "x2_scope": 95,
+          "x4_scope": 99,
+          "sniper_scope": 46,
+          "free_look": 41,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Nokia 1.5",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 96,
+          "x2_scope": 91,
+          "x4_scope": 90,
+          "sniper_scope": 51,
+          "free_look": 37,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Nokia C3",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 96,
+          "x2_scope": 94,
+          "x4_scope": 92,
+          "sniper_scope": 43,
+          "free_look": 50,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Nokia C01 Plus",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 89,
+          "x2_scope": 98,
+          "x4_scope": 97,
+          "sniper_scope": 54,
+          "free_look": 35,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Nokia C20",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 94,
+          "x2_scope": 100,
+          "x4_scope": 94,
+          "sniper_scope": 35,
+          "free_look": 33,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Nokia G10",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 91,
+          "x2_scope": 99,
+          "x4_scope": 98,
+          "sniper_scope": 47,
+          "free_look": 38,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Nokia 2.4",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 98,
+          "x2_scope": 93,
+          "x4_scope": 100,
+          "sniper_scope": 39,
+          "free_look": 52,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Nokia 1.4",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 92,
+          "x2_scope": 98,
+          "x4_scope": 100,
+          "sniper_scope": 20,
+          "free_look": 52,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Nokia 3.4",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 93,
+          "x2_scope": 99,
+          "x4_scope": 90,
+          "sniper_scope": 20,
+          "free_look": 51,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Nokia 7.1",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 96,
+          "x2_scope": 98,
+          "x4_scope": 100,
+          "sniper_scope": 42,
+          "free_look": 55,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Nokia 8",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 91,
+          "x2_scope": 93,
+          "x4_scope": 100,
+          "sniper_scope": 58,
+          "free_look": 45,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Nokia 6.2",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 96,
+          "x2_scope": 91,
+          "x4_scope": 98,
+          "sniper_scope": 56,
+          "free_look": 36,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Nokia 9",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 97,
+          "x2_scope": 95,
+          "x4_scope": 96,
+          "sniper_scope": 54,
+          "free_look": 45,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Nokia 5.4",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 89,
+          "x2_scope": 100,
+          "x4_scope": 95,
+          "sniper_scope": 32,
+          "free_look": 55,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Nokia 4.2",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 88,
+          "x2_scope": 95,
+          "x4_scope": 100,
+          "sniper_scope": 60,
+          "free_look": 49,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Nokia C1",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 92,
+          "x2_scope": 97,
+          "x4_scope": 96,
+          "sniper_scope": 26,
+          "free_look": 54,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Nokia 3.1 Plus",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 97,
+          "x2_scope": 100,
+          "x4_scope": 92,
+          "sniper_scope": 42,
+          "free_look": 36,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Nokia C3",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 88,
+          "x2_scope": 96,
+          "x4_scope": 100,
+          "sniper_scope": 39,
+          "free_look": 37,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Nokia 5.3",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 94,
+          "x2_scope": 97,
+          "x4_scope": 92,
+          "sniper_scope": 34,
+          "free_look": 40,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Nokia 7.2",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 97,
+          "x2_scope": 95,
+          "x4_scope": 100,
+          "sniper_scope": 42,
+          "free_look": 52,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Nokia 6",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 93,
+          "x2_scope": 98,
+          "x4_scope": 96,
+          "sniper_scope": 56,
+          "free_look": 49,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Nokia 2.3",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 92,
+          "x2_scope": 92,
+          "x4_scope": 92,
+          "sniper_scope": 28,
+          "free_look": 46,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Nokia 6.1",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 90,
+          "x2_scope": 92,
+          "x4_scope": 90,
+          "sniper_scope": 50,
+          "free_look": 49,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Nokia 3.1",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 97,
+          "x2_scope": 96,
+          "x4_scope": 96,
+          "sniper_scope": 53,
+          "free_look": 31,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Nokia 2.2",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 88,
+          "x2_scope": 93,
+          "x4_scope": 91,
+          "sniper_scope": 60,
+          "free_look": 50,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Nokia 5.1 Plus",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 92,
+          "x2_scope": 95,
+          "x4_scope": 98,
+          "sniper_scope": 58,
+          "free_look": 42,
+          "trigger": 51
+        }
+      ]
+    }
+  ]
+}

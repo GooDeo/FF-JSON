@@ -1,0 +1,1084 @@
+{
+  "data": [
+    {
+      "details": [
+        {
+          "name": "Tecno Spark 8 + DPI",
+          "dpi": 550,
+          "trigger": 50,
+          "general": 100,
+          "red_dot": 95,
+          "x2_scope": 100,
+          "x4_scope": 42,
+          "sniper_scope": 96,
+          "free_look": 100
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Spark 7 Pro + DPI",
+          "dpi": 700,
+          "trigger": 44,
+          "general": 100,
+          "red_dot": 100,
+          "x2_scope": 95,
+          "x4_scope": 85,
+          "sniper_scope": 60,
+          "free_look": 100
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Spark 7 + DPI",
+          "dpi": 490,
+          "trigger": 49,
+          "general": 100,
+          "red_dot": 55,
+          "x2_scope": 90,
+          "x4_scope": 50,
+          "sniper_scope": 14,
+          "free_look": 57
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Spark 6 Go + DPI",
+          "dpi": 540,
+          "trigger": 42,
+          "general": 100,
+          "red_dot": 85,
+          "x2_scope": 32,
+          "x4_scope": 100,
+          "sniper_scope": 100,
+          "free_look": 100
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Pova Neo 2 + DPI",
+          "dpi": 440,
+          "trigger": 64,
+          "general": 100,
+          "red_dot": 100,
+          "x2_scope": 100,
+          "x4_scope": 100,
+          "sniper_scope": 100,
+          "free_look": 100
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Pop 7 Pro BF7",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 91,
+          "x2_scope": 98,
+          "x4_scope": 95,
+          "sniper_scope": 27,
+          "free_look": 48,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Camon 18T",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 91,
+          "x2_scope": 92,
+          "x4_scope": 92,
+          "sniper_scope": 21,
+          "free_look": 52,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Camon 30",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 99,
+          "x2_scope": 90,
+          "x4_scope": 94,
+          "sniper_scope": 41,
+          "free_look": 54,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Camon 11 Pro",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 89,
+          "x2_scope": 98,
+          "x4_scope": 99,
+          "sniper_scope": 29,
+          "free_look": 39,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno KG5k",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 95,
+          "x2_scope": 95,
+          "x4_scope": 93,
+          "sniper_scope": 56,
+          "free_look": 33,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Camon 15 Air",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 97,
+          "x2_scope": 90,
+          "x4_scope": 91,
+          "sniper_scope": 59,
+          "free_look": 33,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Pop 7",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 89,
+          "x2_scope": 98,
+          "x4_scope": 97,
+          "sniper_scope": 21,
+          "free_look": 45,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Camon 20",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 91,
+          "x2_scope": 97,
+          "x4_scope": 91,
+          "sniper_scope": 44,
+          "free_look": 35,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Camon 18 Premier",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 92,
+          "x2_scope": 93,
+          "x4_scope": 95,
+          "sniper_scope": 49,
+          "free_look": 48,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno KG5 Go 2022",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 97,
+          "x2_scope": 100,
+          "x4_scope": 93,
+          "sniper_scope": 38,
+          "free_look": 43,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Pova 5",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 97,
+          "x2_scope": 96,
+          "x4_scope": 99,
+          "sniper_scope": 23,
+          "free_look": 45,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Camon 16 Pro",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 99,
+          "x2_scope": 94,
+          "x4_scope": 94,
+          "sniper_scope": 27,
+          "free_look": 49,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Pop 3",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 88,
+          "x2_scope": 97,
+          "x4_scope": 95,
+          "sniper_scope": 28,
+          "free_look": 36,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Camon 20 Pro",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 89,
+          "x2_scope": 95,
+          "x4_scope": 93,
+          "sniper_scope": 46,
+          "free_look": 45,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Pop 6 Pro",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 88,
+          "x2_scope": 90,
+          "x4_scope": 92,
+          "sniper_scope": 24,
+          "free_look": 49,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Pova Neo LE6",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 93,
+          "x2_scope": 92,
+          "x4_scope": 99,
+          "sniper_scope": 39,
+          "free_look": 30,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Pop 4 BC1s",
+          "dpi": 0,
+          "general": 88,
+          "red_dot": 94,
+          "x2_scope": 93,
+          "x4_scope": 91,
+          "sniper_scope": 43,
+          "free_look": 44,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Camon 19",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 88,
+          "x2_scope": 98,
+          "x4_scope": 92,
+          "sniper_scope": 51,
+          "free_look": 55,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Spark 6 Air",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 95,
+          "x2_scope": 92,
+          "x4_scope": 100,
+          "sniper_scope": 40,
+          "free_look": 50,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Spark 10c",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 93,
+          "x2_scope": 98,
+          "x4_scope": 90,
+          "sniper_scope": 20,
+          "free_look": 33,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Spark 9 Pro",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 90,
+          "x2_scope": 90,
+          "x4_scope": 91,
+          "sniper_scope": 26,
+          "free_look": 38,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Spark 10 Pro",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 95,
+          "x2_scope": 96,
+          "x4_scope": 93,
+          "sniper_scope": 32,
+          "free_look": 45,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Spark 10",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 93,
+          "x2_scope": 98,
+          "x4_scope": 97,
+          "sniper_scope": 55,
+          "free_look": 39,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Spark 8T",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 97,
+          "x2_scope": 94,
+          "x4_scope": 99,
+          "sniper_scope": 24,
+          "free_look": 39,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Spark Go 2023",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 91,
+          "x2_scope": 98,
+          "x4_scope": 99,
+          "sniper_scope": 28,
+          "free_look": 51,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Spark 7",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 89,
+          "x2_scope": 55,
+          "x4_scope": 99,
+          "sniper_scope": 55,
+          "free_look": 40,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Spark 8P",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 98,
+          "x2_scope": 90,
+          "x4_scope": 99,
+          "sniper_scope": 36,
+          "free_look": 33,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Spark 7T",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 88,
+          "x2_scope": 96,
+          "x4_scope": 97,
+          "sniper_scope": 18,
+          "free_look": 48,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Saprk 8c",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 97,
+          "x2_scope": 98,
+          "x4_scope": 95,
+          "sniper_scope": 56,
+          "free_look": 37,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Spark Go 2022",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 98,
+          "x2_scope": 100,
+          "x4_scope": 98,
+          "sniper_scope": 58,
+          "free_look": 35,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Spark 7 Pro",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 93,
+          "x2_scope": 92,
+          "x4_scope": 98,
+          "sniper_scope": 27,
+          "free_look": 40,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Spark 5 Air",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 88,
+          "x2_scope": 92,
+          "x4_scope": 95,
+          "sniper_scope": 24,
+          "free_look": 54,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Saprk 6 Go",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 94,
+          "x2_scope": 100,
+          "x4_scope": 100,
+          "sniper_scope": 33,
+          "free_look": 45,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Spark 6",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 95,
+          "x2_scope": 94,
+          "x4_scope": 92,
+          "sniper_scope": 50,
+          "free_look": 41,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Spark 5 Pro",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 97,
+          "x2_scope": 96,
+          "x4_scope": 97,
+          "sniper_scope": 51,
+          "free_look": 32,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Spark 4",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 92,
+          "x2_scope": 95,
+          "x4_scope": 100,
+          "sniper_scope": 55,
+          "free_look": 41,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Spark 9T",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 98,
+          "x2_scope": 96,
+          "x4_scope": 100,
+          "sniper_scope": 31,
+          "free_look": 47,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Camon 19 Pro",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 92,
+          "x2_scope": 92,
+          "x4_scope": 98,
+          "sniper_scope": 25,
+          "free_look": 55,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Camon 18P",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 97,
+          "x2_scope": 93,
+          "x4_scope": 97,
+          "sniper_scope": 21,
+          "free_look": 52,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Pova 2",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 96,
+          "x2_scope": 97,
+          "x4_scope": 99,
+          "sniper_scope": 38,
+          "free_look": 50,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Pova LD7",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 97,
+          "x2_scope": 97,
+          "x4_scope": 95,
+          "sniper_scope": 52,
+          "free_look": 39,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Pova",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 97,
+          "x2_scope": 99,
+          "x4_scope": 91,
+          "sniper_scope": 55,
+          "free_look": 37,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Pova Neo 2",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 90,
+          "x2_scope": 98,
+          "x4_scope": 97,
+          "sniper_scope": 47,
+          "free_look": 45,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Pova 4",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 94,
+          "x2_scope": 91,
+          "x4_scope": 100,
+          "sniper_scope": 22,
+          "free_look": 54,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Pop 5s",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 88,
+          "x2_scope": 96,
+          "x4_scope": 100,
+          "sniper_scope": 44,
+          "free_look": 46,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Pop 6",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 88,
+          "x2_scope": 91,
+          "x4_scope": 91,
+          "sniper_scope": 21,
+          "free_look": 31,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Camon 19 Neo",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 88,
+          "x2_scope": 92,
+          "x4_scope": 97,
+          "sniper_scope": 60,
+          "free_look": 33,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Camon 17",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 91,
+          "x2_scope": 95,
+          "x4_scope": 93,
+          "sniper_scope": 45,
+          "free_look": 46,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Camon 18",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 92,
+          "x2_scope": 99,
+          "x4_scope": 97,
+          "sniper_scope": 55,
+          "free_look": 42,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Camon 12",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 95,
+          "x2_scope": 92,
+          "x4_scope": 92,
+          "sniper_scope": 52,
+          "free_look": 43,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Camon 15",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 92,
+          "x2_scope": 96,
+          "x4_scope": 97,
+          "sniper_scope": 34,
+          "free_look": 45,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Camon 17 Pro",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 93,
+          "x2_scope": 94,
+          "x4_scope": 92,
+          "sniper_scope": 40,
+          "free_look": 51,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Camon 16",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 90,
+          "x2_scope": 92,
+          "x4_scope": 91,
+          "sniper_scope": 20,
+          "free_look": 50,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Camon 16 Premier",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 91,
+          "x2_scope": 91,
+          "x4_scope": 97,
+          "sniper_scope": 54,
+          "free_look": 31,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Pop 5 LTE",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 97,
+          "x2_scope": 94,
+          "x4_scope": 99,
+          "sniper_scope": 58,
+          "free_look": 39,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Pop 2",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 90,
+          "x2_scope": 95,
+          "x4_scope": 91,
+          "sniper_scope": 47,
+          "free_look": 31,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno F1",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 94,
+          "x2_scope": 91,
+          "x4_scope": 91,
+          "sniper_scope": 44,
+          "free_look": 48,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Pop 2F",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 93,
+          "x2_scope": 94,
+          "x4_scope": 96,
+          "sniper_scope": 35,
+          "free_look": 51,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Pop 4",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 92,
+          "x2_scope": 93,
+          "x4_scope": 98,
+          "sniper_scope": 28,
+          "free_look": 43,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Pouvoir 4 Pro",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 91,
+          "x2_scope": 91,
+          "x4_scope": 92,
+          "sniper_scope": 27,
+          "free_look": 37,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Pop 4 LTE",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 97,
+          "x2_scope": 95,
+          "x4_scope": 90,
+          "sniper_scope": 29,
+          "free_look": 48,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Pova Neo",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 91,
+          "x2_scope": 98,
+          "x4_scope": 100,
+          "sniper_scope": 34,
+          "free_look": 40,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Camon 15 Pro",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 92,
+          "x2_scope": 96,
+          "x4_scope": 97,
+          "sniper_scope": 60,
+          "free_look": 31,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Pova 3",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 89,
+          "x2_scope": 94,
+          "x4_scope": 98,
+          "sniper_scope": 43,
+          "free_look": 46,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Pop 5",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 98,
+          "x2_scope": 94,
+          "x4_scope": 96,
+          "sniper_scope": 21,
+          "free_look": 54,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Pova 4 Pro",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 94,
+          "x2_scope": 94,
+          "x4_scope": 97,
+          "sniper_scope": 21,
+          "free_look": 31,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Tecno Spark 15 Air + DPI",
+          "dpi": 527,
+          "general": 97,
+          "red_dot": 95,
+          "x2_scope": 95,
+          "x4_scope": 96,
+          "sniper_scope": 34,
+          "free_look": 48,
+          "trigger": 41
+        }
+      ]
+    }
+  ]
+}

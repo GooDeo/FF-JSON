@@ -1,0 +1,889 @@
+{
+  "data": [
+    {
+      "details": [
+        {
+          "name": "ZTE V30 Vita + DPI",
+          "dpi": 471,
+          "trigger": 43,
+          "general": 99,
+          "red_dot": 91,
+          "x2_scope": 90,
+          "x4_scope": 99,
+          "sniper_scope": 26,
+          "free_look": 33
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE V10 Vita + DPI",
+          "dpi": 558,
+          "trigger": 41,
+          "general": 95,
+          "red_dot": 98,
+          "x2_scope": 90,
+          "x4_scope": 95,
+          "sniper_scope": 22,
+          "free_look": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE V9 Vita + DPI",
+          "dpi": 671,
+          "trigger": 45,
+          "general": 96,
+          "red_dot": 98,
+          "x2_scope": 97,
+          "x4_scope": 92,
+          "sniper_scope": 37,
+          "free_look": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Axon 30",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 94,
+          "x2_scope": 90,
+          "x4_scope": 92,
+          "sniper_scope": 21,
+          "free_look": 48,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Axon 40 Lite",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 97,
+          "x2_scope": 97,
+          "x4_scope": 96,
+          "sniper_scope": 59,
+          "free_look": 40,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade A31 Plus",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 95,
+          "x2_scope": 97,
+          "x4_scope": 90,
+          "sniper_scope": 53,
+          "free_look": 46,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blase A52",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 96,
+          "x2_scope": 100,
+          "x4_scope": 95,
+          "sniper_scope": 37,
+          "free_look": 43,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade V6 Plus",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 93,
+          "x2_scope": 93,
+          "x4_scope": 100,
+          "sniper_scope": 54,
+          "free_look": 34,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE A3 2020",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 96,
+          "x2_scope": 93,
+          "x4_scope": 95,
+          "sniper_scope": 25,
+          "free_look": 47,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade V40 Smart",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 97,
+          "x2_scope": 94,
+          "x4_scope": 99,
+          "sniper_scope": 33,
+          "free_look": 49,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Axon 40 SE",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 91,
+          "x2_scope": 97,
+          "x4_scope": 99,
+          "sniper_scope": 35,
+          "free_look": 35,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Axon V40 Ultra",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 91,
+          "x2_scope": 92,
+          "x4_scope": 99,
+          "sniper_scope": 54,
+          "free_look": 46,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade V40 Pro",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 97,
+          "x2_scope": 90,
+          "x4_scope": 91,
+          "sniper_scope": 52,
+          "free_look": 43,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade V40",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 96,
+          "x2_scope": 91,
+          "x4_scope": 95,
+          "sniper_scope": 48,
+          "free_look": 39,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade A5 2020",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 96,
+          "x2_scope": 92,
+          "x4_scope": 100,
+          "sniper_scope": 60,
+          "free_look": 39,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade V40 Vita",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 97,
+          "x2_scope": 94,
+          "x4_scope": 97,
+          "sniper_scope": 44,
+          "free_look": 35,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade V30 Vita",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 88,
+          "x2_scope": 90,
+          "x4_scope": 92,
+          "sniper_scope": 31,
+          "free_look": 35,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade L2",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 97,
+          "x2_scope": 100,
+          "x4_scope": 100,
+          "sniper_scope": 20,
+          "free_look": 53,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade A71",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 95,
+          "x2_scope": 91,
+          "x4_scope": 92,
+          "sniper_scope": 28,
+          "free_look": 38,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade V9",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 97,
+          "x2_scope": 97,
+          "x4_scope": 96,
+          "sniper_scope": 37,
+          "free_look": 47,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE V20 Smart",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 92,
+          "x2_scope": 98,
+          "x4_scope": 91,
+          "sniper_scope": 44,
+          "free_look": 31,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade A71",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 94,
+          "x2_scope": 91,
+          "x4_scope": 98,
+          "sniper_scope": 56,
+          "free_look": 42,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade A7s",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 89,
+          "x2_scope": 96,
+          "x4_scope": 99,
+          "sniper_scope": 23,
+          "free_look": 48,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade V8Q",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 88,
+          "x2_scope": 100,
+          "x4_scope": 91,
+          "sniper_scope": 58,
+          "free_look": 50,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade A51",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 88,
+          "x2_scope": 95,
+          "x4_scope": 100,
+          "sniper_scope": 56,
+          "free_look": 52,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade A5 2019",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 98,
+          "x2_scope": 94,
+          "x4_scope": 97,
+          "sniper_scope": 59,
+          "free_look": 45,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade V6",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 97,
+          "x2_scope": 100,
+          "x4_scope": 100,
+          "sniper_scope": 34,
+          "free_look": 36,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade V8 SE",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 94,
+          "x2_scope": 92,
+          "x4_scope": 99,
+          "sniper_scope": 22,
+          "free_look": 37,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade A0",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 96,
+          "x2_scope": 95,
+          "x4_scope": 99,
+          "sniper_scope": 28,
+          "free_look": 52,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade L210",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 93,
+          "x2_scope": 96,
+          "x4_scope": 99,
+          "sniper_scope": 57,
+          "free_look": 39,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade Z00c",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 96,
+          "x2_scope": 94,
+          "x4_scope": 97,
+          "sniper_scope": 25,
+          "free_look": 51,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade A7 2020",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 93,
+          "x2_scope": 95,
+          "x4_scope": 95,
+          "sniper_scope": 19,
+          "free_look": 35,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade A5",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 92,
+          "x2_scope": 91,
+          "x4_scope": 91,
+          "sniper_scope": 34,
+          "free_look": 51,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade A7s 2020",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 90,
+          "x2_scope": 99,
+          "x4_scope": 96,
+          "sniper_scope": 56,
+          "free_look": 50,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade V Ultra",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 88,
+          "x2_scope": 99,
+          "x4_scope": 97,
+          "sniper_scope": 47,
+          "free_look": 43,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade V8 Lite",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 98,
+          "x2_scope": 95,
+          "x4_scope": 93,
+          "sniper_scope": 29,
+          "free_look": 45,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade A3 Lite",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 92,
+          "x2_scope": 94,
+          "x4_scope": 94,
+          "sniper_scope": 36,
+          "free_look": 54,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade A475",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 89,
+          "x2_scope": 91,
+          "x4_scope": 91,
+          "sniper_scope": 56,
+          "free_look": 54,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade Z Max X2",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 95,
+          "x2_scope": 94,
+          "x4_scope": 98,
+          "sniper_scope": 44,
+          "free_look": 30,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade L8",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 92,
+          "x2_scope": 90,
+          "x4_scope": 91,
+          "sniper_scope": 40,
+          "free_look": 42,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade V10 Vita",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 89,
+          "x2_scope": 99,
+          "x4_scope": 90,
+          "sniper_scope": 42,
+          "free_look": 47,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade A530",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 90,
+          "x2_scope": 94,
+          "x4_scope": 94,
+          "sniper_scope": 46,
+          "free_look": 31,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE V9",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 88,
+          "x2_scope": 92,
+          "x4_scope": 92,
+          "sniper_scope": 59,
+          "free_look": 53,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade V10",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 90,
+          "x2_scope": 95,
+          "x4_scope": 95,
+          "sniper_scope": 49,
+          "free_look": 50,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade V8 Mini",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 90,
+          "x2_scope": 90,
+          "x4_scope": 98,
+          "sniper_scope": 35,
+          "free_look": 44,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade V Smart",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 97,
+          "x2_scope": 90,
+          "x4_scope": 100,
+          "sniper_scope": 21,
+          "free_look": 30,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE V6 Plus",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 92,
+          "x2_scope": 90,
+          "x4_scope": 99,
+          "sniper_scope": 47,
+          "free_look": 37,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE A5",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 96,
+          "x2_scope": 94,
+          "x4_scope": 95,
+          "sniper_scope": 57,
+          "free_look": 48,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade A3 2020",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 96,
+          "x2_scope": 96,
+          "x4_scope": 92,
+          "sniper_scope": 36,
+          "free_look": 35,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade V 2020",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 97,
+          "x2_scope": 95,
+          "x4_scope": 100,
+          "sniper_scope": 39,
+          "free_look": 33,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade A7 2019",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 96,
+          "x2_scope": 100,
+          "x4_scope": 100,
+          "sniper_scope": 54,
+          "free_look": 49,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade L9",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 91,
+          "x2_scope": 91,
+          "x4_scope": 97,
+          "sniper_scope": 27,
+          "free_look": 43,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade V30",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 94,
+          "x2_scope": 99,
+          "x4_scope": 100,
+          "sniper_scope": 47,
+          "free_look": 53,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade V20 Smart",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 98,
+          "x2_scope": 92,
+          "x4_scope": 91,
+          "sniper_scope": 42,
+          "free_look": 34,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade L210 + DPI",
+          "dpi": 655,
+          "general": 94,
+          "red_dot": 91,
+          "x2_scope": 98,
+          "x4_scope": 100,
+          "sniper_scope": 45,
+          "free_look": 65,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade V10 Vita + DPI",
+          "dpi": 585,
+          "general": 98,
+          "red_dot": 98,
+          "x2_scope": 98,
+          "x4_scope": 92,
+          "sniper_scope": 37,
+          "free_look": 46,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade V30 Vita + DPI",
+          "dpi": 548,
+          "general": 94,
+          "red_dot": 90,
+          "x2_scope": 90,
+          "x4_scope": 100,
+          "sniper_scope": 23,
+          "free_look": 39,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade V9 Vita + DPI",
+          "dpi": 483,
+          "general": 94,
+          "red_dot": 94,
+          "x2_scope": 90,
+          "x4_scope": 98,
+          "sniper_scope": 43,
+          "free_look": 53,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "ZTE Blade A9 + DPI",
+          "dpi": 584,
+          "general": 98,
+          "red_dot": 92,
+          "x2_scope": 99,
+          "x4_scope": 96,
+          "sniper_scope": 35,
+          "free_look": 30,
+          "trigger": 44
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "data": [
+    {
+      "details": [
+        {
+          "name": "iPhone 14 Pro Max",
+          "dpi": 0,
+          "free_look": 40,
+          "general": 67,
+          "red_dot": 54,
+          "sniper_scope": 0,
+          "trigger": 50,
+          "x2_scope": 60,
+          "x4_scope": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "iPhone 13 Pro Max",
+          "dpi": 0,
+          "free_look": 50,
+          "general": 95,
+          "red_dot": 98,
+          "sniper_scope": 50,
+          "trigger": 39,
+          "x2_scope": 95,
+          "x4_scope": 99
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "iPhone 13",
+          "dpi": 0,
+          "free_look": 50,
+          "general": 95,
+          "red_dot": 95,
+          "sniper_scope": 31,
+          "trigger": 53,
+          "x2_scope": 94,
+          "x4_scope": 93
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "iPhone 12 Pro Max",
+          "dpi": 0,
+          "free_look": 27,
+          "general": 100,
+          "red_dot": 100,
+          "sniper_scope": 57,
+          "trigger": 60,
+          "x2_scope": 100,
+          "x4_scope": 100
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "iPhone 11 Pro Max",
+          "dpi": 0,
+          "free_look": 55,
+          "general": 93,
+          "red_dot": 98,
+          "sniper_scope": 24,
+          "trigger": 49,
+          "x2_scope": 98,
+          "x4_scope": 93
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "iPhone 11",
+          "dpi": 0,
+          "free_look": 38,
+          "general": 97,
+          "red_dot": 92,
+          "sniper_scope": 54,
+          "trigger": 46,
+          "x2_scope": 97,
+          "x4_scope": 96
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "iPhone X",
+          "dpi": 0,
+          "free_look": 15,
+          "general": 97,
+          "red_dot": 94,
+          "sniper_scope": 0,
+          "trigger": 54,
+          "x2_scope": 36,
+          "x4_scope": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "iPhone XR",
+          "dpi": 420,
+          "free_look": 53,
+          "general": 96,
+          "red_dot": 96,
+          "sniper_scope": 57,
+          "trigger": 51,
+          "x2_scope": 96,
+          "x4_scope": 95
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "iPhone SE",
+          "dpi": 0,
+          "free_look": 43,
+          "general": 94,
+          "red_dot": 90,
+          "sniper_scope": 57,
+          "trigger": 46,
+          "x2_scope": 97,
+          "x4_scope": 97
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "iPhone 8 Plus",
+          "dpi": 0,
+          "free_look": 50,
+          "general": 93,
+          "red_dot": 94,
+          "sniper_scope": 45,
+          "trigger": 52,
+          "x2_scope": 95,
+          "x4_scope": 96
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "iPhone 7 Plus",
+          "dpi": 0,
+          "free_look": 37,
+          "general": 97,
+          "red_dot": 97,
+          "sniper_scope": 55,
+          "trigger": 49,
+          "x2_scope": 100,
+          "x4_scope": 97
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "iPhone 7",
+          "dpi": 0,
+          "free_look": 100,
+          "general": 100,
+          "red_dot": 100,
+          "sniper_scope": 100,
+          "trigger": 47,
+          "x2_scope": 100,
+          "x4_scope": 100
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "iPhone 6s Plus",
+          "dpi": 0,
+          "free_look": 36,
+          "general": 97,
+          "red_dot": 91,
+          "sniper_scope": 26,
+          "trigger": 44,
+          "x2_scope": 98,
+          "x4_scope": 96
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "iPhone 6s",
+          "dpi": 0,
+          "free_look": 40,
+          "general": 97,
+          "red_dot": 92,
+          "sniper_scope": 25,
+          "trigger": 43,
+          "x2_scope": 91,
+          "x4_scope": 93
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "iPhone 6",
+          "dpi": 0,
+          "free_look": 37,
+          "general": 96,
+          "red_dot": 97,
+          "sniper_scope": 25,
+          "trigger": 52,
+          "x2_scope": 95,
+          "x4_scope": 93
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "iPhone 5c",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 90,
+          "x2_scope": 93,
+          "x4_scope": 90,
+          "sniper_scope": 26,
+          "free_look": 31,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "iPhone 14 Plus",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 95,
+          "x2_scope": 93,
+          "x4_scope": 91,
+          "sniper_scope": 58,
+          "free_look": 44,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "iPhone XS",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 93,
+          "x2_scope": 95,
+          "x4_scope": 95,
+          "sniper_scope": 54,
+          "free_look": 44,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "iPhone 14",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 98,
+          "x2_scope": 97,
+          "x4_scope": 99,
+          "sniper_scope": 51,
+          "free_look": 33,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "iPhone 11 Pro",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 96,
+          "x2_scope": 90,
+          "x4_scope": 93,
+          "sniper_scope": 37,
+          "free_look": 35,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "iPhone 10",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 88,
+          "x2_scope": 99,
+          "x4_scope": 96,
+          "sniper_scope": 31,
+          "free_look": 48,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "iPhone 12 Pro",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 89,
+          "x2_scope": 97,
+          "x4_scope": 96,
+          "sniper_scope": 18,
+          "free_look": 40,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "iPhone 13 Pro",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 95,
+          "x2_scope": 95,
+          "x4_scope": 96,
+          "sniper_scope": 22,
+          "free_look": 33,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "iPhone 14 Pro",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 98,
+          "x2_scope": 99,
+          "x4_scope": 100,
+          "sniper_scope": 39,
+          "free_look": 35,
+          "trigger": 43
+        }
+      ]
+    }
+  ]
+}

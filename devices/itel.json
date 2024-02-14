@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "details": [
+        {
+          "name": "Itel S23",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 94,
+          "x2_scope": 93,
+          "x4_scope": 96,
+          "sniper_scope": 56,
+          "free_look": 36,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Itel A16 Plus",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 94,
+          "x2_scope": 93,
+          "x4_scope": 93,
+          "sniper_scope": 35,
+          "free_look": 38,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Itel P37 Pro",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 94,
+          "x2_scope": 97,
+          "x4_scope": 92,
+          "sniper_scope": 31,
+          "free_look": 30,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Itel A58 Pro",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 89,
+          "x2_scope": 92,
+          "x4_scope": 91,
+          "sniper_scope": 44,
+          "free_look": 47,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Itel A60s",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 95,
+          "x2_scope": 91,
+          "x4_scope": 95,
+          "sniper_scope": 50,
+          "free_look": 39,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Itel A49",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 88,
+          "x2_scope": 90,
+          "x4_scope": 93,
+          "sniper_scope": 36,
+          "free_look": 40,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Itel Vision 2S",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 95,
+          "x2_scope": 92,
+          "x4_scope": 91,
+          "sniper_scope": 43,
+          "free_look": 49,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Itel L6006",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 92,
+          "x2_scope": 90,
+          "x4_scope": 94,
+          "sniper_scope": 33,
+          "free_look": 33,
+          "trigger": 53
+        }
+      ]
+    }
+  ]
+}

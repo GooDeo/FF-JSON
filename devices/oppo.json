@@ -1,0 +1,1174 @@
+{
+  "data": [
+    {
+      "details": [
+        {
+          "name": "Oppo A53",
+          "dpi": 0,
+          "free_look": 48,
+          "general": 97,
+          "red_dot": 88,
+          "sniper_scope": 26,
+          "trigger": 44,
+          "x2_scope": 99,
+          "x4_scope": 98
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A37 + DPI",
+          "dpi": 496,
+          "free_look": 49,
+          "general": 94,
+          "red_dot": 95,
+          "sniper_scope": 27,
+          "trigger": 48,
+          "x2_scope": 91,
+          "x4_scope": 99
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A52 + DPI",
+          "dpi": 642,
+          "free_look": 38,
+          "general": 94,
+          "red_dot": 88,
+          "sniper_scope": 59,
+          "trigger": 45,
+          "x2_scope": 99,
+          "x4_scope": 99
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A31 + DPI",
+          "dpi": 520,
+          "free_look": 47,
+          "general": 93,
+          "red_dot": 93,
+          "sniper_scope": 46,
+          "trigger": 49,
+          "x2_scope": 94,
+          "x4_scope": 99
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A15s",
+          "dpi": 0,
+          "free_look": 43,
+          "general": 94,
+          "red_dot": 93,
+          "sniper_scope": 58,
+          "trigger": 44,
+          "x2_scope": 94,
+          "x4_scope": 92
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo Reno 2F + DPI",
+          "dpi": 581,
+          "free_look": 30,
+          "general": 98,
+          "red_dot": 93,
+          "sniper_scope": 22,
+          "trigger": 50,
+          "x2_scope": 100,
+          "x4_scope": 93
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A9 + DPI",
+          "dpi": 651,
+          "free_look": 35,
+          "general": 96,
+          "red_dot": 98,
+          "sniper_scope": 59,
+          "trigger": 45,
+          "x2_scope": 93,
+          "x4_scope": 97
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A12 + DPI",
+          "dpi": 568,
+          "free_look": 32,
+          "general": 97,
+          "red_dot": 91,
+          "sniper_scope": 19,
+          "trigger": 45,
+          "x2_scope": 96,
+          "x4_scope": 92
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo Reno 5 Lite + DPI",
+          "dpi": 537,
+          "free_look": 49,
+          "general": 95,
+          "red_dot": 98,
+          "sniper_scope": 51,
+          "trigger": 46,
+          "x2_scope": 99,
+          "x4_scope": 99
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A100",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 98,
+          "x2_scope": 97,
+          "x4_scope": 92,
+          "sniper_scope": 18,
+          "free_look": 49,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo Reno2 F",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 89,
+          "x2_scope": 90,
+          "x4_scope": 97,
+          "sniper_scope": 47,
+          "free_look": 38,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo R9s",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 91,
+          "x2_scope": 97,
+          "x4_scope": 94,
+          "sniper_scope": 32,
+          "free_look": 38,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A58",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 91,
+          "x2_scope": 92,
+          "x4_scope": 97,
+          "sniper_scope": 18,
+          "free_look": 31,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo K10",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 97,
+          "x2_scope": 93,
+          "x4_scope": 91,
+          "sniper_scope": 43,
+          "free_look": 41,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo F9 Pro",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 89,
+          "x2_scope": 97,
+          "x4_scope": 93,
+          "sniper_scope": 58,
+          "free_look": 34,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo F19 Pro",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 90,
+          "x2_scope": 93,
+          "x4_scope": 99,
+          "sniper_scope": 27,
+          "free_look": 35,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A78",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 90,
+          "x2_scope": 96,
+          "x4_scope": 95,
+          "sniper_scope": 25,
+          "free_look": 38,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A12 2020 + DPI",
+          "dpi": 752,
+          "free_look": 100,
+          "general": 100,
+          "red_dot": 100,
+          "sniper_scope": 100,
+          "trigger": 65,
+          "x2_scope": 100,
+          "x4_scope": 100
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo F9 + DPI",
+          "dpi": 596,
+          "free_look": 34,
+          "general": 93,
+          "red_dot": 94,
+          "sniper_scope": 57,
+          "trigger": 52,
+          "x2_scope": 93,
+          "x4_scope": 95
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo F5 + DPI",
+          "dpi": 454,
+          "free_look": 37,
+          "general": 95,
+          "red_dot": 91,
+          "sniper_scope": 43,
+          "trigger": 41,
+          "x2_scope": 98,
+          "x4_scope": 99
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A91",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 88,
+          "x2_scope": 97,
+          "x4_scope": 92,
+          "sniper_scope": 42,
+          "free_look": 51,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A95",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 90,
+          "x2_scope": 96,
+          "x4_scope": 92,
+          "sniper_scope": 26,
+          "free_look": 52,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A56",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 93,
+          "x2_scope": 95,
+          "x4_scope": 93,
+          "sniper_scope": 18,
+          "free_look": 37,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A17K",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 93,
+          "x2_scope": 99,
+          "x4_scope": 95,
+          "sniper_scope": 47,
+          "free_look": 36,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A93s 5G",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 90,
+          "x2_scope": 95,
+          "x4_scope": 90,
+          "sniper_scope": 32,
+          "free_look": 50,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo Find X2 Neo",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 95,
+          "x2_scope": 100,
+          "x4_scope": 90,
+          "sniper_scope": 51,
+          "free_look": 41,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A5 2020",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 96,
+          "x2_scope": 91,
+          "x4_scope": 99,
+          "sniper_scope": 23,
+          "free_look": 45,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo Reno 8z",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 97,
+          "x2_scope": 93,
+          "x4_scope": 90,
+          "sniper_scope": 20,
+          "free_look": 55,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo Reno 6 Lite",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 91,
+          "x2_scope": 92,
+          "x4_scope": 94,
+          "sniper_scope": 33,
+          "free_look": 32,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A17",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 96,
+          "x2_scope": 97,
+          "x4_scope": 93,
+          "sniper_scope": 46,
+          "free_look": 36,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A76",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 88,
+          "x2_scope": 92,
+          "x4_scope": 91,
+          "sniper_scope": 42,
+          "free_look": 37,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo Reno 5",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 95,
+          "x2_scope": 95,
+          "x4_scope": 96,
+          "sniper_scope": 38,
+          "free_look": 30,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo Reno 7 4G",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 96,
+          "x2_scope": 95,
+          "x4_scope": 93,
+          "sniper_scope": 56,
+          "free_look": 30,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo Reno 7",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 92,
+          "x2_scope": 92,
+          "x4_scope": 93,
+          "sniper_scope": 47,
+          "free_look": 41,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A55",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 89,
+          "x2_scope": 90,
+          "x4_scope": 96,
+          "sniper_scope": 46,
+          "free_look": 48,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A35",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 89,
+          "x2_scope": 91,
+          "x4_scope": 91,
+          "sniper_scope": 26,
+          "free_look": 43,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo Reno 8z 5G",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 92,
+          "x2_scope": 91,
+          "x4_scope": 90,
+          "sniper_scope": 43,
+          "free_look": 54,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo Reno 8",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 97,
+          "x2_scope": 91,
+          "x4_scope": 96,
+          "sniper_scope": 50,
+          "free_look": 46,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A77",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 90,
+          "x2_scope": 90,
+          "x4_scope": 90,
+          "sniper_scope": 49,
+          "free_look": 32,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A96",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 90,
+          "x2_scope": 98,
+          "x4_scope": 99,
+          "sniper_scope": 49,
+          "free_look": 39,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo F15",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 94,
+          "x2_scope": 100,
+          "x4_scope": 90,
+          "sniper_scope": 29,
+          "free_look": 47,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo R15 Neo",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 88,
+          "x2_scope": 98,
+          "x4_scope": 93,
+          "sniper_scope": 37,
+          "free_look": 51,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A54 5G",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 95,
+          "x2_scope": 98,
+          "x4_scope": 95,
+          "sniper_scope": 56,
+          "free_look": 52,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo F21 Pro",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 91,
+          "x2_scope": 97,
+          "x4_scope": 91,
+          "sniper_scope": 28,
+          "free_look": 34,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A16k",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 88,
+          "x2_scope": 93,
+          "x4_scope": 99,
+          "sniper_scope": 35,
+          "free_look": 35,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A94 5G",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 98,
+          "x2_scope": 90,
+          "x4_scope": 96,
+          "sniper_scope": 18,
+          "free_look": 47,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A12E",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 88,
+          "x2_scope": 98,
+          "x4_scope": 95,
+          "sniper_scope": 30,
+          "free_look": 32,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo F1",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 96,
+          "x2_scope": 99,
+          "x4_scope": 98,
+          "sniper_scope": 26,
+          "free_look": 36,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo Find X3 Lite",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 96,
+          "x2_scope": 90,
+          "x4_scope": 100,
+          "sniper_scope": 31,
+          "free_look": 51,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo Find X2 Lite",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 91,
+          "x2_scope": 95,
+          "x4_scope": 92,
+          "sniper_scope": 59,
+          "free_look": 38,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A54",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 88,
+          "x2_scope": 99,
+          "x4_scope": 91,
+          "sniper_scope": 34,
+          "free_look": 37,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A93",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 95,
+          "x2_scope": 99,
+          "x4_scope": 90,
+          "sniper_scope": 46,
+          "free_look": 40,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo Reno 4Z",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 93,
+          "x2_scope": 92,
+          "x4_scope": 93,
+          "sniper_scope": 46,
+          "free_look": 33,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A16",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 93,
+          "x2_scope": 98,
+          "x4_scope": 97,
+          "sniper_scope": 52,
+          "free_look": 44,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A74",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 88,
+          "x2_scope": 95,
+          "x4_scope": 90,
+          "sniper_scope": 47,
+          "free_look": 48,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo F1 Plus",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 95,
+          "x2_scope": 94,
+          "x4_scope": 96,
+          "sniper_scope": 60,
+          "free_look": 55,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo F1s",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 89,
+          "x2_scope": 100,
+          "x4_scope": 98,
+          "sniper_scope": 44,
+          "free_look": 47,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo Reno 4",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 96,
+          "x2_scope": 96,
+          "x4_scope": 90,
+          "sniper_scope": 19,
+          "free_look": 55,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A7",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 92,
+          "x2_scope": 91,
+          "x4_scope": 90,
+          "sniper_scope": 44,
+          "free_look": 48,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A83",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 96,
+          "x2_scope": 98,
+          "x4_scope": 97,
+          "sniper_scope": 42,
+          "free_look": 46,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A1k",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 98,
+          "x2_scope": 96,
+          "x4_scope": 98,
+          "sniper_scope": 26,
+          "free_look": 54,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo F3",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 98,
+          "x2_scope": 100,
+          "x4_scope": 97,
+          "sniper_scope": 44,
+          "free_look": 47,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A3s",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 93,
+          "x2_scope": 96,
+          "x4_scope": 91,
+          "sniper_scope": 25,
+          "free_look": 31,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo F11 Pro",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 92,
+          "x2_scope": 91,
+          "x4_scope": 91,
+          "sniper_scope": 22,
+          "free_look": 50,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A5s + DPI",
+          "dpi": 679,
+          "general": 95,
+          "red_dot": 88,
+          "x2_scope": 90,
+          "x4_scope": 94,
+          "sniper_scope": 60,
+          "free_look": 30,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A9 2020",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 95,
+          "x2_scope": 96,
+          "x4_scope": 99,
+          "sniper_scope": 53,
+          "free_look": 50,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 94,
+          "x2_scope": 96,
+          "x4_scope": 99,
+          "sniper_scope": 43,
+          "free_look": 49,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A37f",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 97,
+          "x2_scope": 93,
+          "x4_scope": 90,
+          "sniper_scope": 29,
+          "free_look": 44,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A39",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 94,
+          "x2_scope": 97,
+          "x4_scope": 100,
+          "sniper_scope": 21,
+          "free_look": 43,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A72",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 92,
+          "x2_scope": 99,
+          "x4_scope": 94,
+          "sniper_scope": 42,
+          "free_look": 33,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo Reno Z",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 89,
+          "x2_scope": 91,
+          "x4_scope": 97,
+          "sniper_scope": 43,
+          "free_look": 53,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo F3 Plus",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 97,
+          "x2_scope": 97,
+          "x4_scope": 93,
+          "sniper_scope": 34,
+          "free_look": 31,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A73",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 91,
+          "x2_scope": 91,
+          "x4_scope": 96,
+          "sniper_scope": 58,
+          "free_look": 51,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A57",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 96,
+          "x2_scope": 93,
+          "x4_scope": 98,
+          "sniper_scope": 55,
+          "free_look": 38,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo F7",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 92,
+          "x2_scope": 96,
+          "x4_scope": 98,
+          "sniper_scope": 50,
+          "free_look": 55,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo A92",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 88,
+          "x2_scope": 100,
+          "x4_scope": 96,
+          "sniper_scope": 43,
+          "free_look": 49,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo Reno 3",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 89,
+          "x2_scope": 100,
+          "x4_scope": 94,
+          "sniper_scope": 46,
+          "free_look": 44,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Oppo Reno 4 Pro",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 92,
+          "x2_scope": 94,
+          "x4_scope": 97,
+          "sniper_scope": 26,
+          "free_look": 50,
+          "trigger": 39
+        }
+      ]
+    }
+  ]
+}

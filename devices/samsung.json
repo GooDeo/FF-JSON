@@ -1,0 +1,4084 @@
+{
+  "data": [
+    {
+      "details": [
+        {
+          "name": "Samsung M20 + DPI",
+          "dpi": 489,
+          "general": 93,
+          "red_dot": 93,
+          "x2_scope": 93,
+          "x4_scope": 98,
+          "sniper_scope": 38,
+          "free_look": 42,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A01 + DPI",
+          "dpi": 544,
+          "general": 96,
+          "red_dot": 90,
+          "x2_scope": 93,
+          "x4_scope": 93,
+          "sniper_scope": 32,
+          "free_look": 36,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S7 + DPI",
+          "dpi": 654,
+          "general": 95,
+          "red_dot": 94,
+          "x2_scope": 97,
+          "x4_scope": 94,
+          "sniper_scope": 26,
+          "free_look": 47,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung M10 + DPI",
+          "dpi": 515,
+          "general": 96,
+          "red_dot": 97,
+          "x2_scope": 95,
+          "x4_scope": 98,
+          "sniper_scope": 49,
+          "free_look": 46,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung Tab S6 Lite",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 93,
+          "x2_scope": 91,
+          "x4_scope": 91,
+          "sniper_scope": 26,
+          "free_look": 45,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S22",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 95,
+          "x2_scope": 94,
+          "x4_scope": 95,
+          "sniper_scope": 53,
+          "free_look": 52,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A30s",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 95,
+          "x2_scope": 97,
+          "x4_scope": 91,
+          "sniper_scope": 22,
+          "free_look": 37,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A12",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 88,
+          "x2_scope": 96,
+          "x4_scope": 97,
+          "sniper_scope": 44,
+          "free_look": 50,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung F41",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 94,
+          "x2_scope": 91,
+          "x4_scope": 93,
+          "sniper_scope": 53,
+          "free_look": 37,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A13",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 90,
+          "x2_scope": 98,
+          "x4_scope": 100,
+          "sniper_scope": 55,
+          "free_look": 42,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A53",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 97,
+          "x2_scope": 97,
+          "x4_scope": 94,
+          "sniper_scope": 57,
+          "free_look": 43,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S20 FE 5G",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 90,
+          "x2_scope": 93,
+          "x4_scope": 97,
+          "sniper_scope": 51,
+          "free_look": 25,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S20 FE",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 92,
+          "x2_scope": 92,
+          "x4_scope": 98,
+          "sniper_scope": 50,
+          "free_look": 39,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung M02s",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 95,
+          "x2_scope": 91,
+          "x4_scope": 90,
+          "sniper_scope": 2,
+          "free_look": 41,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S9 Plus",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 89,
+          "x2_scope": 94,
+          "x4_scope": 98,
+          "sniper_scope": 51,
+          "free_look": 55,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A71s",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 91,
+          "x2_scope": 91,
+          "x4_scope": 98,
+          "sniper_scope": 22,
+          "free_look": 48,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S20",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 94,
+          "x2_scope": 95,
+          "x4_scope": 96,
+          "sniper_scope": 26,
+          "free_look": 35,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A15",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 91,
+          "x2_scope": 90,
+          "x4_scope": 94,
+          "sniper_scope": 28,
+          "free_look": 32,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S10 Plus",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 95,
+          "x2_scope": 98,
+          "x4_scope": 100,
+          "sniper_scope": 19,
+          "free_look": 30,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A14 4G",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 92,
+          "x2_scope": 97,
+          "x4_scope": 93,
+          "sniper_scope": 59,
+          "free_look": 41,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A41",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 94,
+          "x2_scope": 99,
+          "x4_scope": 96,
+          "sniper_scope": 54,
+          "free_look": 50,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A32s",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 89,
+          "x2_scope": 92,
+          "x4_scope": 91,
+          "sniper_scope": 27,
+          "free_look": 44,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A50s",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 92,
+          "x2_scope": 98,
+          "x4_scope": 92,
+          "sniper_scope": 45,
+          "free_look": 51,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung M14",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 96,
+          "x2_scope": 91,
+          "x4_scope": 96,
+          "sniper_scope": 36,
+          "free_look": 46,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung X Cover 4",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 91,
+          "x2_scope": 92,
+          "x4_scope": 93,
+          "sniper_scope": 42,
+          "free_look": 49,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung Z Flip 4",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 97,
+          "x2_scope": 99,
+          "x4_scope": 93,
+          "sniper_scope": 21,
+          "free_look": 32,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung Tab S8 Ultra",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 94,
+          "x2_scope": 92,
+          "x4_scope": 92,
+          "sniper_scope": 60,
+          "free_look": 38,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung F62",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 93,
+          "x2_scope": 92,
+          "x4_scope": 91,
+          "sniper_scope": 29,
+          "free_look": 48,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A93",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 90,
+          "x2_scope": 90,
+          "x4_scope": 100,
+          "sniper_scope": 31,
+          "free_look": 52,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A90",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 93,
+          "x2_scope": 96,
+          "x4_scope": 99,
+          "sniper_scope": 38,
+          "free_look": 36,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung L8",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 93,
+          "x2_scope": 94,
+          "x4_scope": 95,
+          "sniper_scope": 57,
+          "free_look": 42,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung M51",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 91,
+          "x2_scope": 99,
+          "x4_scope": 97,
+          "sniper_scope": 42,
+          "free_look": 39,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A14 5G",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 97,
+          "x2_scope": 98,
+          "x4_scope": 93,
+          "sniper_scope": 52,
+          "free_look": 44,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S23 Ultra",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 88,
+          "x2_scope": 92,
+          "x4_scope": 97,
+          "sniper_scope": 39,
+          "free_look": 33,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A54 5G",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 95,
+          "x2_scope": 90,
+          "x4_scope": 100,
+          "sniper_scope": 21,
+          "free_look": 35,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A14",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 93,
+          "x2_scope": 91,
+          "x4_scope": 95,
+          "sniper_scope": 43,
+          "free_look": 50,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A24",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 90,
+          "x2_scope": 98,
+          "x4_scope": 97,
+          "sniper_scope": 44,
+          "free_look": 46,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A13 5G",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 91,
+          "x2_scope": 94,
+          "x4_scope": 97,
+          "sniper_scope": 32,
+          "free_look": 37,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J7",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 98,
+          "x2_scope": 97,
+          "x4_scope": 92,
+          "sniper_scope": 18,
+          "free_look": 33,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S22 Plus 5G",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 91,
+          "x2_scope": 90,
+          "x4_scope": 100,
+          "sniper_scope": 53,
+          "free_look": 31,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S22 Plus",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 94,
+          "x2_scope": 92,
+          "x4_scope": 96,
+          "sniper_scope": 21,
+          "free_look": 33,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S9",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 97,
+          "x2_scope": 96,
+          "x4_scope": 94,
+          "sniper_scope": 51,
+          "free_look": 33,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung M01s",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 93,
+          "x2_scope": 92,
+          "x4_scope": 96,
+          "sniper_scope": 42,
+          "free_look": 35,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S21 Ultra",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 91,
+          "x2_scope": 95,
+          "x4_scope": 94,
+          "sniper_scope": 49,
+          "free_look": 39,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A52 4G",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 96,
+          "x2_scope": 97,
+          "x4_scope": 98,
+          "sniper_scope": 21,
+          "free_look": 52,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J8 2018",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 94,
+          "x2_scope": 96,
+          "x4_scope": 91,
+          "sniper_scope": 21,
+          "free_look": 38,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung Z Flip 3",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 96,
+          "x2_scope": 90,
+          "x4_scope": 95,
+          "sniper_scope": 23,
+          "free_look": 37,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J1 2016",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 96,
+          "x2_scope": 99,
+          "x4_scope": 94,
+          "sniper_scope": 28,
+          "free_look": 50,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung C7",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 91,
+          "x2_scope": 94,
+          "x4_scope": 96,
+          "sniper_scope": 46,
+          "free_look": 48,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung Tab A8 2019",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 97,
+          "x2_scope": 100,
+          "x4_scope": 97,
+          "sniper_scope": 47,
+          "free_look": 53,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A53 5G",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 91,
+          "x2_scope": 98,
+          "x4_scope": 99,
+          "sniper_scope": 42,
+          "free_look": 35,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A04s",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 98,
+          "x2_scope": 96,
+          "x4_scope": 97,
+          "sniper_scope": 54,
+          "free_look": 43,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung M23 5G",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 98,
+          "x2_scope": 90,
+          "x4_scope": 93,
+          "sniper_scope": 21,
+          "free_look": 44,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J7 2015",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 96,
+          "x2_scope": 100,
+          "x4_scope": 95,
+          "sniper_scope": 36,
+          "free_look": 30,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung M53 5G",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 96,
+          "x2_scope": 99,
+          "x4_scope": 91,
+          "sniper_scope": 39,
+          "free_look": 33,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A32 4G",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 94,
+          "x2_scope": 93,
+          "x4_scope": 92,
+          "sniper_scope": 58,
+          "free_look": 52,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A22s 5G",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 97,
+          "x2_scope": 91,
+          "x4_scope": 96,
+          "sniper_scope": 43,
+          "free_look": 47,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A34",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 90,
+          "x2_scope": 99,
+          "x4_scope": 91,
+          "sniper_scope": 49,
+          "free_look": 36,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A04e",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 98,
+          "x2_scope": 90,
+          "x4_scope": 90,
+          "sniper_scope": 56,
+          "free_look": 48,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A13 5G",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 96,
+          "x2_scope": 100,
+          "x4_scope": 95,
+          "sniper_scope": 28,
+          "free_look": 35,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J1 Ace Neo",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 92,
+          "x2_scope": 92,
+          "x4_scope": 93,
+          "sniper_scope": 29,
+          "free_look": 54,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A22 5G",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 94,
+          "x2_scope": 90,
+          "x4_scope": 97,
+          "sniper_scope": 24,
+          "free_look": 55,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S23",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 92,
+          "x2_scope": 100,
+          "x4_scope": 91,
+          "sniper_scope": 19,
+          "free_look": 30,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung Tab S6",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 89,
+          "x2_scope": 91,
+          "x4_scope": 91,
+          "sniper_scope": 21,
+          "free_look": 52,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A32 5G",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 90,
+          "x2_scope": 96,
+          "x4_scope": 92,
+          "sniper_scope": 38,
+          "free_look": 38,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S21 FE",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 90,
+          "x2_scope": 93,
+          "x4_scope": 90,
+          "sniper_scope": 39,
+          "free_look": 55,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A73 5G",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 94,
+          "x2_scope": 91,
+          "x4_scope": 94,
+          "sniper_scope": 33,
+          "free_look": 48,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A13 4G",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 96,
+          "x2_scope": 90,
+          "x4_scope": 99,
+          "sniper_scope": 38,
+          "free_look": 51,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung Note 20 Ultra",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 92,
+          "x2_scope": 92,
+          "x4_scope": 100,
+          "sniper_scope": 44,
+          "free_look": 43,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung Tab 4",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 89,
+          "x2_scope": 96,
+          "x4_scope": 92,
+          "sniper_scope": 57,
+          "free_look": 39,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung M40",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 88,
+          "x2_scope": 96,
+          "x4_scope": 92,
+          "sniper_scope": 41,
+          "free_look": 34,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A32",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 96,
+          "x2_scope": 96,
+          "x4_scope": 94,
+          "sniper_scope": 19,
+          "free_look": 39,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A21",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 94,
+          "x2_scope": 96,
+          "x4_scope": 97,
+          "sniper_scope":  36,
+          "free_look": 38,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J4 Plus",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 90,
+          "x2_scope": 90,
+          "x4_scope": 96,
+          "sniper_scope": 21,
+          "free_look": 54,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung M13",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 96,
+          "x2_scope": 95,
+          "x4_scope": 92,
+          "sniper_scope": 48,
+          "free_look": 43,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung X Cover 4s",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 89,
+          "x2_scope": 98,
+          "x4_scope": 97,
+          "sniper_scope": 18,
+          "free_look": 47,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung M52",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 91,
+          "x2_scope": 100,
+          "x4_scope": 90,
+          "sniper_scope": 55,
+          "free_look": 44,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung Tab A8",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 90,
+          "x2_scope": 98,
+          "x4_scope": 93,
+          "sniper_scope": 27,
+          "free_look": 53,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A73",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 98,
+          "x2_scope": 94,
+          "x4_scope": 99,
+          "sniper_scope": 50,
+          "free_look": 52,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung F22",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 89,
+          "x2_scope": 92,
+          "x4_scope": 99,
+          "sniper_scope": 19,
+          "free_look": 32,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J2",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 88,
+          "x2_scope": 94,
+          "x4_scope": 100,
+          "sniper_scope": 41,
+          "free_look": 42,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S20E",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 89,
+          "x2_scope": 96,
+          "x4_scope": 90,
+          "sniper_scope": 30,
+          "free_look": 39,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S5 Mini",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 92,
+          "x2_scope": 100,
+          "x4_scope": 98,
+          "sniper_scope": 54,
+          "free_look": 52,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung F12",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 89,
+          "x2_scope": 90,
+          "x4_scope": 92,
+          "sniper_scope": 23,
+          "free_look": 30,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J7 Prime 2018",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 98,
+          "x2_scope": 93,
+          "x4_scope": 90,
+          "sniper_scope": 51,
+          "free_look": 48,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung Tab A6",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 88,
+          "x2_scope": 92,
+          "x4_scope": 94,
+          "sniper_scope": 23,
+          "free_look": 35,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung Tab E",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 97,
+          "x2_scope": 98,
+          "x4_scope": 100,
+          "sniper_scope": 39,
+          "free_look": 47,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A23",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 88,
+          "x2_scope": 99,
+          "x4_scope": 93,
+          "sniper_scope": 58,
+          "free_look": 40,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung M21s",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 95,
+          "x2_scope": 95,
+          "x4_scope": 92,
+          "sniper_scope": 22,
+          "free_look": 34,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung Tab S7 Plus",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 91,
+          "x2_scope": 98,
+          "x4_scope": 91,
+          "sniper_scope": 49,
+          "free_look": 47,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung M23",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 90,
+          "x2_scope": 100,
+          "x4_scope": 94,
+          "sniper_scope": 57,
+          "free_look": 53,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J5 Duo",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 89,
+          "x2_scope": 98,
+          "x4_scope": 93,
+          "sniper_scope": 40,
+          "free_look": 30,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A72",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 88,
+          "x2_scope": 97,
+          "x4_scope": 96,
+          "sniper_scope": 34,
+          "free_look": 43,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A33 5G",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 98,
+          "x2_scope": 100,
+          "x4_scope": 99,
+          "sniper_scope": 25,
+          "free_look": 55,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A33",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 98,
+          "x2_scope": 90,
+          "x4_scope": 94,
+          "sniper_scope": 49,
+          "free_look": 30,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A52s 5G",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 88,
+          "x2_scope": 96,
+          "x4_scope": 90,
+          "sniper_scope": 57,
+          "free_look": 50,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A03",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 96,
+          "x2_scope": 100,
+          "x4_scope": 98,
+          "sniper_scope": 40,
+          "free_look": 37,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A5 2014",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 95,
+          "x2_scope": 95,
+          "x4_scope": 92,
+          "sniper_scope": 37,
+          "free_look": 40,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S3",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 94,
+          "x2_scope": 92,
+          "x4_scope": 91,
+          "sniper_scope": 31,
+          "free_look": 33,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A8 Plus",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 96,
+          "x2_scope": 99,
+          "x4_scope": 92,
+          "sniper_scope": 34,
+          "free_look": 32,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S21 Plus",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 94,
+          "x2_scope": 94,
+          "x4_scope": 99,
+          "sniper_scope": 51,
+          "free_look": 41,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S22 Ultra",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 91,
+          "x2_scope": 93,
+          "x4_scope": 95,
+          "sniper_scope": 18,
+          "free_look": 43,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J7 Prime 2016",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 88,
+          "x2_scope": 97,
+          "x4_scope": 100,
+          "sniper_scope": 28,
+          "free_look": 39,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S7 Edge",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 96,
+          "x2_scope": 96,
+          "x4_scope": 92,
+          "sniper_scope": 34,
+          "free_look": 32,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A42",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 95,
+          "x2_scope": 96,
+          "x4_scope": 97,
+          "sniper_scope": 57,
+          "free_look": 35,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A02s",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 98,
+          "x2_scope": 98,
+          "x4_scope": 98,
+          "sniper_scope": 50,
+          "free_look": 37,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A02",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 94,
+          "x2_scope": 91,
+          "x4_scope": 95,
+          "sniper_scope": 45,
+          "free_look": 43,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung Tab A",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 90,
+          "x2_scope": 96,
+          "x4_scope": 93,
+          "sniper_scope": 37,
+          "free_look": 50,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung Tab S2",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 92,
+          "x2_scope": 93,
+          "x4_scope": 96,
+          "sniper_scope": 31,
+          "free_look": 34,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung Note 3",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 93,
+          "x2_scope": 93,
+          "x4_scope": 94,
+          "sniper_scope": 51,
+          "free_look": 33,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung Note 2",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 95,
+          "x2_scope": 90,
+          "x4_scope": 97,
+          "sniper_scope": 40,
+          "free_look": 32,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A3",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 95,
+          "x2_scope": 93,
+          "x4_scope": 93,
+          "sniper_scope": 34,
+          "free_look": 53,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung M30s",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 96,
+          "x2_scope": 94,
+          "x4_scope": 94,
+          "sniper_scope": 60,
+          "free_look": 54,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J3 Pro",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 90,
+          "x2_scope":100,
+          "x4_scope": 98,
+          "sniper_scope": 46,
+          "free_look": 35,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A80",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 89,
+          "x2_scope": 97,
+          "x4_scope": 99,
+          "sniper_scope": 49,
+          "free_look": 51,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung M31s",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 88,
+          "x2_scope": 90,
+          "x4_scope": 93,
+          "sniper_scope": 44,
+          "free_look": 36,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J7 Max",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 88,
+          "x2_scope": 93,
+          "x4_scope": 99,
+          "sniper_scope": 30,
+          "free_look": 32,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung M",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 93,
+          "x2_scope": 93,
+          "x4_scope": 93,
+          "sniper_scope": 42,
+          "free_look": 32,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung M21",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 96,
+          "x2_scope": 90,
+          "x4_scope": 97,
+          "sniper_scope": 44,
+          "free_look": 39,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S10 Lite",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 96,
+          "x2_scope": 94,
+          "x4_scope": 94,
+          "sniper_scope": 38,
+          "free_look": 44,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung C7 Pro",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 90,
+          "x2_scope": 93,
+          "x4_scope": 98,
+          "sniper_scope": 46,
+          "free_look": 36,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A5 2016",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 98,
+          "x2_scope": 90,
+          "x4_scope": 99,
+          "sniper_scope": 47,
+          "free_look": 41,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A7 2018",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 90,
+          "x2_scope": 91,
+          "x4_scope": 97,
+          "sniper_scope": 60,
+          "free_look": 54,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J6",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 98,
+          "x2_scope": 92,
+          "x4_scope": 92,
+          "sniper_scope": 29,
+          "free_look": 37,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J7 Prime 2",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 92,
+          "x2_scope": 100,
+          "x4_scope": 97,
+          "sniper_scope": 22,
+          "free_look": 44,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J2 Prime",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 88,
+          "x2_scope": 92,
+          "x4_scope": 90,
+          "sniper_scope": 57,
+          "free_look": 43,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A50",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 90,
+          "x2_scope": 97,
+          "x4_scope": 98,
+          "sniper_scope": 22,
+          "free_look": 39,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A5 2017",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 88,
+          "x2_scope": 96,
+          "x4_scope": 97,
+          "sniper_scope": 34,
+          "free_look": 40,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J5 2016",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 88,
+          "x2_scope": 94,
+          "x4_scope": 95,
+          "sniper_scope": 55,
+          "free_look": 48,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J4 Core",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 91,
+          "x2_scope": 98,
+          "x4_scope": 97,
+          "sniper_scope": 22,
+          "free_look": 37,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J3 2017",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 92,
+          "x2_scope": 96,
+          "x4_scope": 96,
+          "sniper_scope": 57,
+          "free_look": 54,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung Note 10",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 95,
+          "x2_scope": 94,
+          "x4_scope": 98,
+          "sniper_scope": 30,
+          "free_look": 35,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung Note 9",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 98,
+          "x2_scope": 95,
+          "x4_scope": 92,
+          "sniper_scope": 55,
+          "free_look": 52,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung M10",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 96,
+          "x2_scope": 100,
+          "x4_scope": 96,
+          "sniper_scope": 39,
+          "free_look": 35,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A21",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 88,
+          "x2_scope": 90,
+          "x4_scope": 91,
+          "sniper_scope": 18,
+          "free_look": 41,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J4",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 95,
+          "x2_scope": 99,
+          "x4_scope": 96,
+          "sniper_scope": 18,
+          "free_look": 48,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung Note 5",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 91,
+          "x2_scope": 95,
+          "x4_scope": 98,
+          "sniper_scope": 18,
+          "free_look": 48,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J5 Prime",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 93,
+          "x2_scope": 94,
+          "x4_scope": 91,
+          "sniper_scope": 23,
+          "free_look": 41,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J6 Plus",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 93,
+          "x2_scope": 95,
+          "x4_scope": 94,
+          "sniper_scope": 22,
+          "free_look": 37,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J7 Metal",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 98,
+          "x2_scope": 94,
+          "x4_scope": 90,
+          "sniper_scope": 40,
+          "free_look": 52,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J7 Core",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 97,
+          "x2_scope": 100,
+          "x4_scope": 96,
+          "sniper_scope": 51,
+          "free_look": 45,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J7 Refine",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 98,
+          "x2_scope": 100,
+          "x4_scope": 97,
+          "sniper_scope": 52,
+          "free_look": 33,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J7 Neo",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 90,
+          "x2_scope": 97,
+          "x4_scope": 92,
+          "sniper_scope": 59,
+          "free_look": 45,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J7 Prime",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 90,
+          "x2_scope": 100,
+          "x4_scope": 94,
+          "sniper_scope": 45,
+          "free_look": 35,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J7 Duo",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 96,
+          "x2_scope": 99,
+          "x4_scope": 99,
+          "sniper_scope": 33,
+          "free_look": 33,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S4",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 93,
+          "x2_scope": 97,
+          "x4_scope": 92,
+          "sniper_scope": 56,
+          "free_look": 33,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A30",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 94,
+          "x2_scope": 92,
+          "x4_scope": 93,
+          "sniper_scope": 57,
+          "free_look": 49,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J5",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 88,
+          "x2_scope": 98,
+          "x4_scope": 94,
+          "sniper_scope": 38,
+          "free_look": 49,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A10",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 97,
+          "x2_scope": 91,
+          "x4_scope": 94,
+          "sniper_scope": 57,
+          "free_look": 43,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J7 2016",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 98,
+          "x2_scope": 92,
+          "x4_scope": 94,
+          "sniper_scope": 34,
+          "free_look": 32,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A71",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 98,
+          "x2_scope": 91,
+          "x4_scope": 90,
+          "sniper_scope": 47,
+          "free_look": 34,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A70",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 98,
+          "x2_scope": 97,
+          "x4_scope": 93,
+          "sniper_scope": 45,
+          "free_look": 38,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S7",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 89,
+          "x2_scope": 92,
+          "x4_scope": 99,
+          "sniper_scope": 36,
+          "free_look": 31,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J2 Pro",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 89,
+          "x2_scope": 95,
+          "x4_scope": 98,
+          "sniper_scope": 50,
+          "free_look": 44,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S6 Edge",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 96,
+          "x2_scope": 100,
+          "x4_scope": 94,
+          "sniper_scope": 18,
+          "free_look": 30,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A8 Plus",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 94,
+          "x2_scope": 90,
+          "x4_scope": 92,
+          "sniper_scope": 20,
+          "free_look": 30,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J1",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 90,
+          "x2_scope": 91,
+          "x4_scope": 96,
+          "sniper_scope": 26,
+          "free_look": 39,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A31",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 92,
+          "x2_scope": 96,
+          "x4_scope": 91,
+          "sniper_scope": 30,
+          "free_look": 42,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J6 Pro",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 93,
+          "x2_scope": 91,
+          "x4_scope": 90,
+          "sniper_scope": 46,
+          "free_look": 54,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S8",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 90,
+          "x2_scope": 90,
+          "x4_scope": 98,
+          "sniper_scope": 52,
+          "free_look": 37,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung M31",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 90,
+          "x2_scope": 90,
+          "x4_scope": 98,
+          "sniper_scope": 33,
+          "free_look": 46,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung Y6s",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 89,
+          "x2_scope": 97,
+          "x4_scope": 100,
+          "sniper_scope": 19,
+          "free_look": 50,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J1 Mini",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 95,
+          "x2_scope": 90,
+          "x4_scope": 99,
+          "sniper_scope": 25,
+          "free_look": 42,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A6",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 96,
+          "x2_scope": 94,
+          "x4_scope": 90,
+          "sniper_scope": 56,
+          "free_look": 31,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A6 Plus",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 91,
+          "x2_scope": 92,
+          "x4_scope": 93,
+          "sniper_scope": 58,
+          "free_look": 46,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J5 Pro",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 96,
+          "x2_scope": 99,
+          "x4_scope": 91,
+          "sniper_scope": 55,
+          "free_look": 32,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A7 2017",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 96,
+          "x2_scope": 95,
+          "x4_scope": 93,
+          "sniper_scope": 32,
+          "free_look": 39,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A11",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 93,
+          "x2_scope": 95,
+          "x4_scope": 91,
+          "sniper_scope": 51,
+          "free_look": 48,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J1 Prime",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 94,
+          "x2_scope": 99,
+          "x4_scope": 100,
+          "sniper_scope": 32,
+          "free_look": 50,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung M11",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 92,
+          "x2_scope": 96,
+          "x4_scope": 91,
+          "sniper_scope": 47,
+          "free_look": 34,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung Grand Prime",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 91,
+          "x2_scope": 31,
+          "x4_scope": 94,
+          "sniper_scope": 30,
+          "free_look": 33,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung M8",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 97,
+          "x2_scope": 95,
+          "x4_scope": 93,
+          "sniper_scope": 42,
+          "free_look": 38,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J1 Ace",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 89,
+          "x2_scope": 99,
+          "x4_scope": 100,
+          "sniper_scope": 21,
+          "free_look": 36,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J5 Metal",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 97,
+          "x2_scope": 100,
+          "x4_scope": 90,
+          "sniper_scope": 42,
+          "free_look": 34,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J8",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 89,
+          "x2_scope": 91,
+          "x4_scope": 93,
+          "sniper_scope": 48,
+          "free_look": 54,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S6",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 94,
+          "x2_scope": 91,
+          "x4_scope": 99,
+          "sniper_scope": 51,
+          "free_look": 47,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A20s",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 98,
+          "x2_scope": 90,
+          "x4_scope": 93,
+          "sniper_scope": 33,
+          "free_look": 30,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung M30",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 94,
+          "x2_scope": 97,
+          "x4_scope": 91,
+          "sniper_scope": 29,
+          "free_look": 35,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A40",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 95,
+          "x2_scope": 99,
+          "x4_scope": 99,
+          "sniper_scope": 37,
+          "free_look": 40,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S10",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 88,
+          "x2_scope": 95,
+          "x4_scope": 100,
+          "sniper_scope": 60,
+          "free_look": 51,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A2 Core",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 91,
+          "x2_scope": 95,
+          "x4_scope": 91,
+          "sniper_scope": 60,
+          "free_look": 37,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A01",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 88,
+          "x2_scope": 98,
+          "x4_scope": 95,
+          "sniper_scope": 19,
+          "free_look": 41,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung E10",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 93,
+          "x2_scope": 94,
+          "x4_scope": 99,
+          "sniper_scope": 40,
+          "free_look": 49,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S5",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 92,
+          "x2_scope": 92,
+          "x4_scope": 95,
+          "sniper_scope": 23,
+          "free_look": 34,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A9",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 89,
+          "x2_scope": 90,
+          "x4_scope": 96,
+          "sniper_scope": 24,
+          "free_look": 32,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A9 2018",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 93,
+          "x2_scope": 90,
+          "x4_scope": 91,
+          "sniper_scope": 50,
+          "free_look": 36,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J3 2016",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 98,
+          "x2_scope": 93,
+          "x4_scope": 92,
+          "sniper_scope": 39,
+          "free_look": 40,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung Note 4",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 96,
+          "x2_scope": 100,
+          "x4_scope": 97,
+          "sniper_scope": 35,
+          "free_look": 51,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A51",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 97,
+          "x2_scope": 91,
+          "x4_scope": 93,
+          "sniper_scope": 46,
+          "free_look": 43,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A10s",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 91,
+          "x2_scope": 95,
+          "x4_scope": 100,
+          "sniper_scope": 57,
+          "free_look": 40,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A20",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 91,
+          "x2_scope": 92,
+          "x4_scope": 92,
+          "sniper_scope": 21,
+          "free_look": 47,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J2 Core",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 93,
+          "x2_scope": 94,
+          "x4_scope": 100,
+          "sniper_scope": 58,
+          "free_look": 47,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J8 Normal",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 94,
+          "x2_scope": 94,
+          "x4_scope": 94,
+          "sniper_scope": 41,
+          "free_look": 50,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A8",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 94,
+          "x2_scope": 91,
+          "x4_scope": 95,
+          "sniper_scope": 57,
+          "free_look": 42,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S22 + DPI",
+          "dpi": 591,
+          "general": 95,
+          "red_dot": 92,
+          "x2_scope": 98,
+          "x4_scope": 94,
+          "sniper_scope": 24,
+          "free_look": 42,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J5 Prime + DPI",
+          "dpi": 672,
+          "general": 93,
+          "red_dot": 91,
+          "x2_scope": 99,
+          "x4_scope": 100,
+          "sniper_scope": 41,
+          "free_look": 51,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J5 2017 + DPI",
+          "dpi": 551,
+          "general": 98,
+          "red_dot": 97,
+          "x2_scope": 96,
+          "x4_scope": 90,
+          "sniper_scope": 56,
+          "free_look": 41,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J3 + DPI",
+          "dpi": 480,
+          "general": 93,
+          "red_dot": 98,
+          "x2_scope": 92,
+          "x4_scope": 95,
+          "sniper_scope": 50,
+          "free_look": 32,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung Note 3 + DPI",
+          "dpi": 493,
+          "general": 95,
+          "red_dot": 93,
+          "x2_scope": 92,
+          "x4_scope": 98,
+          "sniper_scope": 42,
+          "free_look": 51,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A52s + DPI",
+          "dpi": 561,
+          "general": 94,
+          "red_dot": 93,
+          "x2_scope": 96,
+          "x4_scope": 96,
+          "sniper_scope": 37,
+          "free_look": 30,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung Note 2 + DPI",
+          "dpi": 480,
+          "general": 98,
+          "red_dot": 97,
+          "x2_scope": 94,
+          "x4_scope": 100,
+          "sniper_scope": 37,
+          "free_look": 35,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung M30s + DPI",
+          "dpi": 635,
+          "general": 95,
+          "red_dot": 92,
+          "x2_scope": 99,
+          "x4_scope": 95,
+          "sniper_scope": 37,
+          "free_look": 36,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S8 Plus + DPI",
+          "dpi": 566,
+          "general": 94,
+          "red_dot": 94,
+          "x2_scope": 91,
+          "x4_scope": 94,
+          "sniper_scope": 56,
+          "free_look": 47,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A80 + DPI",
+          "dpi": 574,
+          "general": 94,
+          "red_dot": 89,
+          "x2_scope": 93,
+          "x4_scope": 95,
+          "sniper_scope": 34,
+          "free_look": 31,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung M51 + DPI",
+          "dpi": 535,
+          "general": 95,
+          "red_dot": 89,
+          "x2_scope": 92,
+          "x4_scope": 95,
+          "sniper_scope": 38,
+          "free_look": 38,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J7 Neo + DPI",
+          "dpi": 633,
+          "general": 93,
+          "red_dot": 88,
+          "x2_scope": 92,
+          "x4_scope": 93,
+          "sniper_scope": 19,
+          "free_look": 49,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S9 + DPI",
+          "dpi": 604,
+          "general": 97,
+          "red_dot": 93,
+          "x2_scope": 93,
+          "x4_scope": 93,
+          "sniper_scope": 44,
+          "free_look": 49,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung Note 8 + DPI",
+          "dpi": 611,
+          "general": 95,
+          "red_dot": 91,
+          "x2_scope": 97,
+          "x4_scope": 93,
+          "sniper_scope": 57,
+          "free_look": 51,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J7 + DPI",
+          "dpi": 631,
+          "general": 98,
+          "red_dot": 93,
+          "x2_scope": 93,
+          "x4_scope": 97,
+          "sniper_scope": 51,
+          "free_look": 30,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J2 Pure + DPI",
+          "dpi": 479,
+          "general": 94,
+          "red_dot": 94,
+          "x2_scope": 90,
+          "x4_scope": 95,
+          "sniper_scope": 21,
+          "free_look": 55,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J5 Pro + DPI",
+          "dpi": 553,
+          "general": 98,
+          "red_dot": 91,
+          "x2_scope": 96,
+          "x4_scope": 94,
+          "sniper_scope": 26,
+          "free_look": 30,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung Note 10 Plus + DPI",
+          "dpi": 584,
+          "general": 96,
+          "red_dot": 92,
+          "x2_scope": 94,
+          "x4_scope": 96,
+          "sniper_scope": 29,
+          "free_look": 33,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A11 + DPI",
+          "dpi": 571,
+          "general": 97,
+          "red_dot": 98,
+          "x2_scope": 96,
+          "x4_scope": 95,
+          "sniper_scope": 59,
+          "free_look": 38,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A51 + DPI",
+          "dpi": 517,
+          "general": 93,
+          "red_dot": 92,
+          "x2_scope": 97,
+          "x4_scope": 93,
+          "sniper_scope": 38,
+          "free_look": 31,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A31 + DPI",
+          "dpi": 473,
+          "general": 97,
+          "red_dot": 98,
+          "x2_scope": 99,
+          "x4_scope": 93,
+          "sniper_scope": 26,
+          "free_look": 39,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J7 Pro + DPI",
+          "dpi": 661,
+          "general": 98,
+          "red_dot": 90,
+          "x2_scope": 95,
+          "x4_scope": 97,
+          "sniper_scope": 29,
+          "free_look": 30,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J7 Metal + DPI",
+          "dpi": 573,
+          "general": 93,
+          "red_dot": 98,
+          "x2_scope": 94,
+          "x4_scope": 100,
+          "sniper_scope": 46,
+          "free_look": 42,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J7 2016 + DPI",
+          "dpi": 664,
+          "general": 96,
+          "red_dot": 92,
+          "x2_scope": 92,
+          "x4_scope": 94,
+          "sniper_scope": 40,
+          "free_look": 46,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J7 Prime + DPI",
+          "dpi": 555,
+          "general": 95,
+          "red_dot": 96,
+          "x2_scope": 99,
+          "x4_scope": 98,
+          "sniper_scope": 31,
+          "free_look": 50,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J7 Star + DPI",
+          "dpi": 664,
+          "general": 93,
+          "red_dot": 88,
+          "x2_scope": 93,
+          "x4_scope": 95,
+          "sniper_scope": 57,
+          "free_look": 41,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A30s + DPI",
+          "dpi": 454,
+          "general": 94,
+          "red_dot": 90,
+          "x2_scope": 96,
+          "x4_scope": 93,
+          "sniper_scope": 42,
+          "free_look": 33,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A20 + DPI",
+          "dpi": 646,
+          "general": 97,
+          "red_dot": 97,
+          "x2_scope": 98,
+          "x4_scope": 91,
+          "sniper_scope": 43,
+          "free_look": 52,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A7 2018 + DPI",
+          "dpi": 589,
+          "general": 98,
+          "red_dot": 93,
+          "x2_scope": 100,
+          "x4_scope": 96,
+          "sniper_scope": 30,
+          "free_look": 37,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S10 Plus + DPI",
+          "dpi": 639,
+          "general": 98,
+          "red_dot": 94,
+          "x2_scope": 93,
+          "x4_scope": 91,
+          "sniper_scope": 51,
+          "free_look": 36,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S8 + DPI",
+          "dpi": 635,
+          "general": 95,
+          "red_dot": 91,
+          "x2_scope": 93,
+          "x4_scope": 94,
+          "sniper_scope": 30,
+          "free_look": 35,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A8 Plus + DPI",
+          "dpi": 504,
+          "general": 95,
+          "red_dot": 94,
+          "x2_scope": 96,
+          "x4_scope": 100,
+          "sniper_scope": 38,
+          "free_look": 48,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J4 Plus + DPI",
+          "dpi": 466,
+          "general": 94,
+          "red_dot": 98,
+          "x2_scope": 90,
+          "x4_scope": 97,
+          "sniper_scope": 22,
+          "free_look": 37,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J2 Core + DPI",
+          "dpi": 530,
+          "general": 94,
+          "red_dot": 90,
+          "x2_scope": 94,
+          "x4_scope": 95,
+          "sniper_scope": 34,
+          "free_look": 32,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J6 + DPI",
+          "dpi": 635,
+          "general": 95,
+          "red_dot": 95,
+          "x2_scope": 97,
+          "x4_scope": 96,
+          "sniper_scope": 37,
+          "free_look": 35,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A71 + DPI",
+          "dpi": 668,
+          "general": 97,
+          "red_dot": 88,
+          "x2_scope": 96,
+          "x4_scope": 100,
+          "sniper_scope": 19,
+          "free_look": 32,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A40 + DPI",
+          "dpi": 659,
+          "general": 95,
+          "red_dot": 95,
+          "x2_scope": 95,
+          "x4_scope": 100,
+          "sniper_scope": 40,
+          "free_look": 42,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J2 Prime + DPI",
+          "dpi": 592,
+          "general": 97,
+          "red_dot": 98,
+          "x2_scope": 96,
+          "x4_scope": 92,
+          "sniper_scope": 44,
+          "free_look": 363,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S7 Edge + DPI",
+          "dpi": 532,
+          "general": 94,
+          "red_dot": 92,
+          "x2_scope": 96,
+          "x4_scope": 95,
+          "sniper_scope": 26,
+          "free_look": 30,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A50 + DPI",
+          "dpi": 450,
+          "general": 97,
+          "red_dot": 91,
+          "x2_scope": 93,
+          "x4_scope": 90,
+          "sniper_scope": 59,
+          "free_look": 50,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A20s + DPI",
+          "dpi": 504,
+          "general": 95,
+          "red_dot": 94,
+          "x2_scope": 99,
+          "x4_scope": 93,
+          "sniper_scope": 56,
+          "free_look": 40,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S6 + DPI",
+          "dpi": 562,
+          "general": 96,
+          "red_dot": 95,
+          "x2_scope": 99,
+          "x4_scope": 91,
+          "sniper_scope": 27,
+          "free_look": 39,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S9 Plus + DPI",
+          "dpi": 663,
+          "general": 97,
+          "red_dot": 90,
+          "x2_scope": 100,
+          "x4_scope": 92,
+          "sniper_scope": 43,
+          "free_look": 41,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A30 + DPI",
+          "dpi": 535,
+          "general": 95,
+          "red_dot": 98,
+          "x2_scope": 91,
+          "x4_scope": 99,
+          "sniper_scope": 49,
+          "free_look": 41,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J6 Plus + DPI",
+          "dpi": 668,
+          "general": 95,
+          "red_dot": 88,
+          "x2_scope": 98,
+          "x4_scope": 95,
+          "sniper_scope": 21,
+          "free_look": 50,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J7 Pro",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 94,
+          "x2_scope": 96,
+          "x4_scope": 99,
+          "sniper_scope": 50,
+          "free_look": 52,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung M32",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 91,
+          "x2_scope": 92,
+          "x4_scope": 99,
+          "sniper_scope": 51,
+          "free_look": 31,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung Tab A7 Lite",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 88,
+          "x2_scope": 91,
+          "x4_scope": 97,
+          "sniper_scope": 44,
+          "free_look": 38,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A03s",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 88,
+          "x2_scope": 96,
+          "x4_scope": 96,
+          "sniper_scope": 30,
+          "free_look": 54,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S10e",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 89,
+          "x2_scope": 95,
+          "x4_scope": 100,
+          "sniper_scope": 59,
+          "free_look": 54,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A52s",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 95,
+          "x2_scope": 94,
+          "x4_scope": 92,
+          "sniper_scope": 59,
+          "free_look": 44,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung M22",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 92,
+          "x2_scope": 100,
+          "x4_scope": 100,
+          "sniper_scope": 26,
+          "free_look": 37,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A03 Core",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 97,
+          "x2_scope": 99,
+          "x4_scope": 91,
+          "sniper_scope": 60,
+          "free_look": 53,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung M62",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 92,
+          "x2_scope": 93,
+          "x4_scope": 100,
+          "sniper_scope": 44,
+          "free_look": 39,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J7 Crown",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 94,
+          "x2_scope": 99,
+          "x4_scope": 95,
+          "sniper_scope": 33,
+          "free_look": 46,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J5 2017",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 89,
+          "x2_scope": 99,
+          "x4_scope": 98,
+          "sniper_scope": 36,
+          "free_look": 50,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung M12",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 91,
+          "x2_scope": 94,
+          "x4_scope": 94,
+          "sniper_scope": 60,
+          "free_look": 46,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A10e",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 97,
+          "x2_scope": 92,
+          "x4_scope": 100,
+          "sniper_scope": 60,
+          "free_look": 48,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung Tab A7",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 93,
+          "x2_scope": 93,
+          "x4_scope": 90,
+          "sniper_scope": 51,
+          "free_look": 49,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S20 Ultra",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 96,
+          "x2_scope": 92,
+          "x4_scope": 98,
+          "sniper_scope": 58,
+          "free_look": 42,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A22",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 92,
+          "x2_scope": 91,
+          "x4_scope": 96,
+          "sniper_scope": 53,
+          "free_look": 43,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung M02",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 89,
+          "x2_scope": 91,
+          "x4_scope": 91,
+          "sniper_scope": 46,
+          "free_look": 34,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J3 Emerge",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 96,
+          "x2_scope": 91,
+          "x4_scope": 92,
+          "sniper_scope": 25,
+          "free_look": 38,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A8 2018",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 97,
+          "x2_scope": 92,
+          "x4_scope": 95,
+          "sniper_scope": 25,
+          "free_look": 49,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A20e",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 91,
+          "x2_scope": 94,
+          "x4_scope": 94,
+          "sniper_scope": 25,
+          "free_look": 37,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung Note 10 Plus",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 90,
+          "x2_scope": 94,
+          "x4_scope": 99,
+          "sniper_scope": 22,
+          "free_look": 40,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J4 2018",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 94,
+          "x2_scope": 97,
+          "x4_scope": 91,
+          "sniper_scope": 44,
+          "free_look": 38,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung Note 20",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 95,
+          "x2_scope": 98,
+          "x4_scope": 98,
+          "sniper_scope": 18,
+          "free_look": 39,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J3 Prime",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 88,
+          "x2_scope": 99,
+          "x4_scope": 94,
+          "sniper_scope": 18,
+          "free_look": 35,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A01 Core",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 92,
+          "x2_scope": 98,
+          "x4_scope": 96,
+          "sniper_scope": 30,
+          "free_look": 36,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung S20 Plus",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 97,
+          "x2_scope": 97,
+          "x4_scope": 92,
+          "sniper_scope": 57,
+          "free_look": 45,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung J3",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 94,
+          "x2_scope": 95,
+          "x4_scope": 91,
+          "sniper_scope": 26,
+          "free_look": 43,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A31s",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 94,
+          "x2_scope": 93,
+          "x4_scope": 91,
+          "sniper_scope": 58,
+          "free_look": 43,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A70 + DPI",
+          "dpi": 645,
+          "general": 98,
+          "red_dot": 96,
+          "x2_scope": 94,
+          "x4_scope": 97,
+          "sniper_scope": 30,
+          "free_look": 50,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A7 + DPI",
+          "dpi": 572,
+          "general": 94,
+          "red_dot": 98,
+          "x2_scope": 100,
+          "x4_scope": 90,
+          "sniper_scope": 49,
+          "free_look": 32,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung M31 + DPI",
+          "dpi": 541,
+          "general": 95,
+          "red_dot": 92,
+          "x2_scope": 94,
+          "x4_scope": 98,
+          "sniper_scope": 56,
+          "free_look": 45,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A10 + DPI",
+          "dpi": 483,
+          "general": 95,
+          "red_dot": 94,
+          "x2_scope": 97,
+          "x4_scope": 95,
+          "sniper_scope": 38,
+          "free_look": 53,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Samsung A10s + DPI",
+          "dpi": 457,
+          "general": 97,
+          "red_dot": 89,
+          "x2_scope": 92,
+          "x4_scope": 90,
+          "sniper_scope": 27,
+          "free_look": 38,
+          "trigger": 53
+        }
+      ]
+    }
+  ]
+}

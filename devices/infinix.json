@@ -1,0 +1,1024 @@
+{
+  "data": [
+    {
+      "details": [
+        {
+          "name": "Infinix Hot 11s + DPI",
+          "dpi": 360,
+          "free_look": 100,
+          "general": 100,
+          "red_dot": 100,
+          "sniper_scope": 100,
+          "trigger": 70,
+          "x2_scope": 100,
+          "x4_scope": 100
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Hot 12 Pro + DPI",
+          "dpi": 431,
+          "general": 100,
+          "red_dot": 100,
+          "x2_scope": 100,
+          "x4_scope": 100,
+          "sniper_scope": 100,
+          "free_look": 51,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Note 12 VIP",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 90,
+          "x2_scope": 96,
+          "x4_scope": 95,
+          "sniper_scope": 44,
+          "free_look": 39,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Hot 12 Play NFC",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 96,
+          "x2_scope": 96,
+          "x4_scope": 100,
+          "sniper_scope": 30,
+          "free_look": 33,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Note 12 Pro",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 96,
+          "x2_scope": 92,
+          "x4_scope": 96,
+          "sniper_scope": 33,
+          "free_look": 50,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Note 30",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 95,
+          "x2_scope": 94,
+          "x4_scope": 97,
+          "sniper_scope": 55,
+          "free_look": 54,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Hot 30 Play",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 88,
+          "x2_scope": 100,
+          "x4_scope": 96,
+          "sniper_scope": 22,
+          "free_look": 54,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Hot S3",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 95,
+          "x2_scope": 94,
+          "x4_scope": 99,
+          "sniper_scope": 57,
+          "free_look": 40,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Smart 7",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 91,
+          "x2_scope": 98,
+          "x4_scope": 91,
+          "sniper_scope": 42,
+          "free_look": 45,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Hot 30",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 95,
+          "x2_scope": 91,
+          "x4_scope": 100,
+          "sniper_scope": 21,
+          "free_look": 35,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Smart HD 2021",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 89,
+          "x2_scope": 90,
+          "x4_scope": 100,
+          "sniper_scope": 32,
+          "free_look": 37,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Hot 20i + DPI",
+          "dpi": 420,
+          "free_look": 100,
+          "general": 100,
+          "red_dot": 60,
+          "sniper_scope": 23,
+          "trigger": 50,
+          "x2_scope": 55,
+          "x4_scope": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Smart 6 + DPI",
+          "dpi": 430,
+          "free_look": 100,
+          "general": 100,
+          "red_dot": 100,
+          "sniper_scope": 22,
+          "trigger": 55,
+          "x2_scope": 100,
+          "x4_scope": 100
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Hot 10 + DPI",
+          "dpi": 393,
+          "free_look": 65,
+          "general": 100,
+          "red_dot": 85,
+          "sniper_scope": 100,
+          "trigger": 49,
+          "x2_scope": 100,
+          "x4_scope": 100
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Note 12 + DPI",
+          "dpi": 505,
+          "free_look": 100,
+          "general": 100,
+          "red_dot": 100,
+          "sniper_scope": 22,
+          "trigger": 40,
+          "x2_scope": 100,
+          "x4_scope": 100
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Hot 30i",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 97,
+          "x2_scope": 90,
+          "x4_scope": 100,
+          "sniper_scope": 34,
+          "free_look": 43,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Smart 5A",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 94,
+          "x2_scope": 90,
+          "x4_scope": 99,
+          "sniper_scope": 48,
+          "free_look": 36,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Smart 7",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 88,
+          "x2_scope": 95,
+          "x4_scope": 95,
+          "sniper_scope": 41,
+          "free_look": 34,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Note 30 Pro",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 90,
+          "x2_scope": 100,
+          "x4_scope": 99,
+          "sniper_scope": 29,
+          "free_look": 35,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Note 12",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 92,
+          "x2_scope": 96,
+          "x4_scope": 93,
+          "sniper_scope": 26,
+          "free_look": 39,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Hot 11",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 96,
+          "x2_scope": 99,
+          "x4_scope": 98,
+          "sniper_scope": 50,
+          "free_look": 43,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Hot 20 Play",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 92,
+          "x2_scope": 93,
+          "x4_scope": 97,
+          "sniper_scope": 55,
+          "free_look": 53,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix S5 Lite",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 96,
+          "x2_scope": 97,
+          "x4_scope": 92,
+          "sniper_scope": 47,
+          "free_look": 38,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Hot 11s NFC",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 94,
+          "x2_scope": 99,
+          "x4_scope": 93,
+          "sniper_scope": 27,
+          "free_look": 45,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Zero X Pro",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 88,
+          "x2_scope": 98,
+          "x4_scope": 100,
+          "sniper_scope": 29,
+          "free_look": 33,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Hot 12i",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 89,
+          "x2_scope": 93,
+          "x4_scope": 93,
+          "sniper_scope": 42,
+          "free_look": 31,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Smart 5 Pro",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 92,
+          "x2_scope": 98,
+          "x4_scope": 95,
+          "sniper_scope": 49,
+          "free_look": 45,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Hot 12",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 90,
+          "x2_scope": 98,
+          "x4_scope": 94,
+          "sniper_scope": 46,
+          "free_look": 52,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Hot 11 Play",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 92,
+          "x2_scope": 96,
+          "x4_scope": 98,
+          "sniper_scope": 47,
+          "free_look": 52,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Zero X Neo",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 91,
+          "x2_scope": 94,
+          "x4_scope": 95,
+          "sniper_scope": 30,
+          "free_look": 41,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Note 5",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 95,
+          "x2_scope": 92,
+          "x4_scope": 95,
+          "sniper_scope": 22,
+          "free_look": 31,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Note 11 Pro",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 96,
+          "x2_scope": 99,
+          "x4_scope": 91,
+          "sniper_scope": 44,
+          "free_look": 32,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Hot 10 Lite",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 89,
+          "x2_scope": 95,
+          "x4_scope": 99,
+          "sniper_scope": 30,
+          "free_look": 46,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Hot 11s",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 98,
+          "x2_scope": 98,
+          "x4_scope": 100,
+          "sniper_scope": 57,
+          "free_look": 44,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Hot S Pro",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 96,
+          "x2_scope": 90,
+          "x4_scope": 97,
+          "sniper_scope": 54,
+          "free_look": 49,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Caliente 9",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 91,
+          "x2_scope": 96,
+          "x4_scope": 93,
+          "sniper_scope": 47,
+          "free_look": 30,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Hot 10s",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 89,
+          "x2_scope": 90,
+          "x4_scope": 100,
+          "sniper_scope": 40,
+          "free_look": 32,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Note 8i",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 95,
+          "x2_scope": 97,
+          "x4_scope": 97,
+          "sniper_scope": 47,
+          "free_look": 41,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Note 8",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 93,
+          "x2_scope": 94,
+          "x4_scope": 100,
+          "sniper_scope": 50,
+          "free_look": 33,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Hot 6x",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 89,
+          "x2_scope": 95,
+          "x4_scope": 94,
+          "sniper_scope": 34,
+          "free_look": 32,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Hot 10i",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 91,
+          "x2_scope": 90,
+          "x4_scope": 100,
+          "sniper_scope": 50,
+          "free_look": 48,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Smart 6 Plus",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 96,
+          "x2_scope": 100,
+          "x4_scope": 94,
+          "sniper_scope": 52,
+          "free_look": 30,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Hot 20s",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 96,
+          "x2_scope": 99,
+          "x4_scope": 90,
+          "sniper_scope": 47,
+          "free_look": 36,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Smart 5",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 96,
+          "x2_scope": 97,
+          "x4_scope": 99,
+          "sniper_scope": 24,
+          "free_look": 50,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Smart 3",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 96,
+          "x2_scope": 91,
+          "x4_scope": 100,
+          "sniper_scope": 22,
+          "free_look": 51,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Note 7 Lite",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 88,
+          "x2_scope": 93,
+          "x4_scope": 99,
+          "sniper_scope": 32,
+          "free_look": 44,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Hot 7",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 91,
+          "x2_scope": 95,
+          "x4_scope": 94,
+          "sniper_scope": 31,
+          "free_look": 50,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Hot 5",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 98,
+          "x2_scope": 97,
+          "x4_scope": 91,
+          "sniper_scope": 55,
+          "free_look": 46,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Note 7",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 92,
+          "x2_scope": 90,
+          "x4_scope": 98,
+          "sniper_scope": 40,
+          "free_look": 52,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Hot 9",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 88,
+          "x2_scope": 94,
+          "x4_scope": 93,
+          "sniper_scope": 23,
+          "free_look": 30,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Hot 8",
+          "dpi": 0,
+          "general": 92,
+          "red_dot": 94,
+          "x2_scope": 91,
+          "x4_scope": 96,
+          "sniper_scope": 42,
+          "free_look": 51,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Smart 6",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 88,
+          "x2_scope": 92,
+          "x4_scope": 100,
+          "sniper_scope": 60,
+          "free_look": 48,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Smart 6 HD",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 88,
+          "x2_scope": 95,
+          "x4_scope": 98,
+          "sniper_scope": 28,
+          "free_look": 43,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Hot 4",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 88,
+          "x2_scope": 94,
+          "x4_scope": 91,
+          "sniper_scope": 59,
+          "free_look": 37,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Hot 10 Pro",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 89,
+          "x2_scope": 100,
+          "x4_scope": 98,
+          "sniper_scope": 42,
+          "free_look": 47,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Hot 11 2022",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 96,
+          "x2_scope": 99,
+          "x4_scope": 94,
+          "sniper_scope": 47,
+          "free_look": 38,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Hot 10",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 89,
+          "x2_scope": 98,
+          "x4_scope": 91,
+          "sniper_scope": 38,
+          "free_look": 40,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Hot 9 Play",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 98,
+          "x2_scope": 90,
+          "x4_scope": 96,
+          "sniper_scope": 34,
+          "free_look": 36,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix S4",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 93,
+          "x2_scope": 96,
+          "x4_scope": 95,
+          "sniper_scope": 27,
+          "free_look": 39,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Smart 2 HD",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 88,
+          "x2_scope": 95,
+          "x4_scope": 100,
+          "sniper_scope": 39,
+          "free_look": 41,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Smart 4",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 90,
+          "x2_scope": 91,
+          "x4_scope": 90,
+          "sniper_scope": 30,
+          "free_look": 55,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Hot 20i",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 98,
+          "x2_scope": 98,
+          "x4_scope": 97,
+          "sniper_scope": 47,
+          "free_look": 35,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Hot 20",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 93,
+          "x2_scope": 97,
+          "x4_scope": 97,
+          "sniper_scope": 46,
+          "free_look": 52,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Hot 12 Play",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 91,
+          "x2_scope": 91,
+          "x4_scope": 99,
+          "sniper_scope": 29,
+          "free_look": 31,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Smart 7 HD",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 91,
+          "x2_scope": 91,
+          "x4_scope": 99,
+          "sniper_scope": 42,
+          "free_look": 35,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Note 10 Pro",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 90,
+          "x2_scope": 95,
+          "x4_scope": 97,
+          "sniper_scope": 59,
+          "free_look": 36,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Caliente 9 + DPI",
+          "dpi": 556,
+          "general": 98,
+          "red_dot": 97,
+          "x2_scope": 100,
+          "x4_scope": 96,
+          "sniper_scope": 33,
+          "free_look": 50,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Infinix Hot 10 Lite + DPI",
+          "dpi": 676,
+          "general": 96,
+          "red_dot": 95,
+          "x2_scope": 97,
+          "x4_scope": 96,
+          "sniper_scope": 32,
+          "free_look": 45,
+          "trigger": 44
+        }
+      ]
+    }
+  ]
+}

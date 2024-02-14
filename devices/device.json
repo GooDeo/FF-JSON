@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "details": [
+        {
+          "name": "samsung"
+        },
+        {
+          "name": "iphone"
+        },
+        {
+          "name": "huawei"
+        },
+        {
+          "name": "oppo"
+        },
+        {
+          "name": "redmi"
+        },
+        {
+          "name": "tcl"
+        },
+        {
+          "name": "honor"
+        },
+        {
+          "name": "infinix"
+        },
+        {
+          "name": "oneplus"
+        },
+        {
+          "name": "nokia"
+        },
+        {
+          "name": "blu"
+        },
+        {
+          "name": "poco"
+        },
+        {
+          "name": "lenovo"
+        },
+        {
+          "name": "itel"
+        },
+        {
+          "name": "realme"
+        },
+        {
+          "name": "alcatel"
+        },
+        {
+          "name": "xiaomi"
+        },
+        {
+          "name": "zte"
+        },
+        {
+          "name": "hisense"
+        },
+        {
+          "name": "vivo"
+        },
+        {
+          "name": "tecno"
+        },
+        {
+          "name": "motorola"
+        },
+        {
+          "name": "lg"
+        },
+        {
+          "name": "sony"
+        },
+        {
+          "name": "nokia"
+        }
+      ]
+    }
+  ]
+}

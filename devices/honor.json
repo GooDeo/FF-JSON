@@ -1,0 +1,589 @@
+{
+  "data": [
+    {
+      "details": [
+        {
+          "name": "Honor Magic 5 Lite",
+          "dpi": 0,
+          "free_look": 39,
+          "general": 98,
+          "red_dot": 93,
+          "sniper_scope": 26,
+          "trigger": 51,
+          "x2_scope": 91,
+          "x4_scope": 99
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor 70 Lite",
+          "dpi": 0,
+          "free_look": 43,
+          "general": 93,
+          "red_dot": 94,
+          "sniper_scope": 59,
+          "trigger": 52,
+          "x2_scope": 98,
+          "x4_scope": 91
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor 70",
+          "dpi": 0,
+          "free_look": 34,
+          "general": 97,
+          "red_dot": 96,
+          "sniper_scope": 38,
+          "trigger": 52,
+          "x2_scope": 95,
+          "x4_scope": 96
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor X7a",
+          "dpi": 0,
+          "free_look": 45,
+          "general": 98,
+          "red_dot": 96,
+          "sniper_scope": 60,
+          "trigger": 53,
+          "x2_scope": 94,
+          "x4_scope": 93
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor X8a",
+          "dpi": 0,
+          "free_look": 55,
+          "general": 93,
+          "red_dot": 94,
+          "sniper_scope": 55,
+          "trigger": 41,
+          "x2_scope": 93,
+          "x4_scope": 90
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor 50 5G",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 89,
+          "x2_scope": 90,
+          "x4_scope": 99,
+          "sniper_scope": 53,
+          "free_look": 45,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor 7s",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 95,
+          "x2_scope": 96,
+          "x4_scope": 91,
+          "sniper_scope": 31,
+          "free_look": 48,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor 10 Lite",
+          "dpi": 420,
+          "free_look": 60,
+          "general": 95,
+          "red_dot": 100,
+          "sniper_scope": 65,
+          "trigger": 48,
+          "x2_scope": 86,
+          "x4_scope": 90
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor 8X",
+          "dpi": 0,
+          "free_look": 37,
+          "general": 95,
+          "red_dot": 92,
+          "sniper_scope": 39,
+          "trigger": 39,
+          "x2_scope": 100,
+          "x4_scope": 99
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor 7X",
+          "dpi": 0,
+          "free_look": 38,
+          "general": 98,
+          "red_dot": 98,
+          "sniper_scope": 29,
+          "trigger": 42,
+          "x2_scope": 98,
+          "x4_scope": 96
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor 9 Lite",
+          "dpi": 497,
+          "free_look": 48,
+          "general": 96,
+          "red_dot": 94,
+          "sniper_scope": 23,
+          "trigger": 50,
+          "x2_scope": 92,
+          "x4_scope": 100
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor 8A",
+          "dpi": 678,
+          "free_look": 53,
+          "general": 94,
+          "red_dot": 96,
+          "sniper_scope": 28,
+          "trigger": 40,
+          "x2_scope": 99,
+          "x4_scope": 98
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor Play",
+          "dpi": 611,
+          "free_look": 45,
+          "general": 93,
+          "red_dot": 97,
+          "sniper_scope": 55,
+          "trigger": 47,
+          "x2_scope": 91,
+          "x4_scope": 91
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor 9X Lite",
+          "dpi": 558,
+          "free_look": 50,
+          "general": 94,
+          "red_dot": 91,
+          "sniper_scope": 34,
+          "trigger": 48,
+          "x2_scope": 91,
+          "x4_scope": 95
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor 9A",
+          "dpi": 637,
+          "free_look": 48,
+          "general": 93,
+          "red_dot": 90,
+          "sniper_scope": 30,
+          "trigger": 40,
+          "x2_scope": 92,
+          "x4_scope": 90
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor X6s",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 88,
+          "x2_scope": 96,
+          "x4_scope": 97,
+          "sniper_scope": 31,
+          "free_look": 31,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor X8",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 93,
+          "x2_scope": 92,
+          "x4_scope": 91,
+          "sniper_scope": 34,
+          "free_look": 49,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor X9",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 97,
+          "x2_scope": 100,
+          "x4_scope": 96,
+          "sniper_scope": 40,
+          "free_look": 42,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor 6s",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 93,
+          "x2_scope": 90,
+          "x4_scope": 92,
+          "sniper_scope": 45,
+          "free_look": 35,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor X6",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 94,
+          "x2_scope": 92,
+          "x4_scope": 96,
+          "sniper_scope": 45,
+          "free_look": 44,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor x7",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 92,
+          "x2_scope": 100,
+          "x4_scope": 99,
+          "sniper_scope": 29,
+          "free_look": 46,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor X10 Lite",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 98,
+          "x2_scope": 100,
+          "x4_scope": 97,
+          "sniper_scope": 47,
+          "free_look": 42,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor 50 Lite",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 92,
+          "x2_scope": 94,
+          "x4_scope": 96,
+          "sniper_scope": 40,
+          "free_look": 42,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor 7A",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 88,
+          "x2_scope": 95,
+          "x4_scope": 91,
+          "sniper_scope": 36,
+          "free_look": 33,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor 7S + DPI",
+          "dpi": 582,
+          "general": 95,
+          "red_dot": 89,
+          "x2_scope": 96,
+          "x4_scope": 99,
+          "sniper_scope": 36,
+          "free_look": 34,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor 7C",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 90,
+          "x2_scope": 96,
+          "x4_scope": 95,
+          "sniper_scope": 42,
+          "free_look": 39,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor X6 + DPI",
+          "dpi": 671,
+          "general": 96,
+          "red_dot": 89,
+          "x2_scope": 100,
+          "x4_scope": 100,
+          "sniper_scope": 58,
+          "free_look": 55,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor X8 + DPI",
+          "dpi": 461,
+          "general": 95,
+          "red_dot": 88,
+          "x2_scope": 97,
+          "x4_scope": 90,
+          "sniper_scope": 19,
+          "free_look": 53,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor 9A + DPI",
+          "dpi": 538,
+          "general": 96,
+          "red_dot": 94,
+          "x2_scope": 92,
+          "x4_scope": 94,
+          "sniper_scope": 59,
+          "free_look": 52,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor X9 Lite + DPI",
+          "dpi": 628,
+          "general": 96,
+          "red_dot": 89,
+          "x2_scope": 92,
+          "x4_scope": 94,
+          "sniper_scope": 26,
+          "free_look": 53,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor 8A + DPI",
+          "dpi": 479,
+          "general": 97,
+          "red_dot": 90,
+          "x2_scope": 98,
+          "x4_scope": 97,
+          "sniper_scope": 23,
+          "free_look": 33,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor 10 SE",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 89,
+          "x2_scope": 100,
+          "x4_scope": 90,
+          "sniper_scope": 26,
+          "free_look": 32,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor 6A",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 89,
+          "x2_scope": 100,
+          "x4_scope": 95,
+          "sniper_scope": 58,
+          "free_look": 36,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor 9X Lite",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 95,
+          "x2_scope": 92,
+          "x4_scope": 97,
+          "sniper_scope": 30,
+          "free_look": 31,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor 8C",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 94,
+          "x2_scope": 99,
+          "x4_scope": 96,
+          "sniper_scope": 33,
+          "free_look": 32,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor 5X",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 91,
+          "x2_scope": 98,
+          "x4_scope": 91,
+          "sniper_scope": 31,
+          "free_look": 38,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor S7",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 96,
+          "x2_scope": 97,
+          "x4_scope": 92,
+          "sniper_scope": 59,
+          "free_look": 53,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor 20",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 93,
+          "x2_scope": 99,
+          "x4_scope": 95,
+          "sniper_scope": 34,
+          "free_look": 42,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Honor 8S",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 88,
+          "x2_scope": 96,
+          "x4_scope": 99,
+          "sniper_scope": 28,
+          "free_look": 37,
+          "trigger": 52
+        }
+      ]
+    }
+  ]
+}

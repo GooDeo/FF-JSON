@@ -1,0 +1,740 @@
+{
+  "data": [
+    {
+      "details": [
+        {
+          "name": "Motorola G8 Power + DPI",
+          "dpi": 640,
+          "trigger": 43,
+          "general": 96,
+          "red_dot": 88,
+          "x2_scope": 95,
+          "x4_scope": 90,
+          "sniper_scope": 54,
+          "free_look": 38
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola E5 Play + DPI",
+          "dpi": 574,
+          "trigger": 44,
+          "general": 98,
+          "red_dot": 88,
+          "x2_scope": 94,
+          "x4_scope": 97,
+          "sniper_scope": 44,
+          "free_look": 32
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola G8 Plus + DPI",
+          "dpi": 670,
+          "trigger": 49,
+          "general": 95,
+          "red_dot": 91,
+          "x2_scope": 92,
+          "x4_scope": 97,
+          "sniper_scope": 26,
+          "free_look": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola G5 Plus + DPI",
+          "dpi": 571,
+          "trigger": 43,
+          "general": 93,
+          "red_dot": 89,
+          "x2_scope": 96,
+          "x4_scope": 96,
+          "sniper_scope": 47,
+          "free_look": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola E5 Plus + DPI",
+          "dpi": 670,
+          "trigger": 40,
+          "general": 98,
+          "red_dot": 93,
+          "x2_scope": 97,
+          "x4_scope": 91,
+          "sniper_scope": 46,
+          "free_look": 30
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola G6 Play + DPI",
+          "dpi": 558,
+          "trigger": 50,
+          "general": 95,
+          "red_dot": 97,
+          "x2_scope": 90,
+          "x4_scope": 93,
+          "sniper_scope": 21,
+          "free_look": 32
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola 3 + DPI",
+          "dpi": 526,
+          "trigger": 40,
+          "general": 95,
+          "red_dot": 96,
+          "x2_scope": 96,
+          "x4_scope": 98,
+          "sniper_scope": 48,
+          "free_look": 35
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola G7 Play + DPI",
+          "dpi": 589,
+          "trigger": 44,
+          "general": 93,
+          "red_dot": 96,
+          "x2_scope": 97,
+          "x4_scope": 98,
+          "sniper_scope": 57,
+          "free_look": 32
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola G9 Plus + DPI",
+          "dpi": 461,
+          "trigger": 50,
+          "general": 94,
+          "red_dot": 90,
+          "x2_scope": 91,
+          "x4_scope": 94,
+          "sniper_scope": 42,
+          "free_look": 33
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola G5s + DPI",
+          "dpi": 679,
+          "trigger": 44,
+          "general": 93,
+          "red_dot": 96,
+          "x2_scope": 98,
+          "x4_scope": 92,
+          "sniper_scope": 31,
+          "free_look": 54
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola G4 Plus + DPI",
+          "dpi": 624,
+          "trigger": 45,
+          "general": 98,
+          "red_dot": 97,
+          "x2_scope": 90,
+          "x4_scope": 100,
+          "sniper_scope": 32,
+          "free_look": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola C8",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 95,
+          "x2_scope": 99,
+          "x4_scope": 100,
+          "sniper_scope": 37,
+          "free_look": 38,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola Edge 20",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 97,
+          "x2_scope": 93,
+          "x4_scope": 98,
+          "sniper_scope": 39,
+          "free_look": 37,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola Edge 20 Lite",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 91,
+          "x2_scope": 100,
+          "x4_scope": 97,
+          "sniper_scope": 39,
+          "free_look": 38,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola E7 Play",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 93,
+          "x2_scope": 97,
+          "x4_scope": 93,
+          "sniper_scope": 43,
+          "free_look": 38,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola E7 Power",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 96,
+          "x2_scope": 100,
+          "x4_scope": 93,
+          "sniper_scope": 49,
+          "free_look": 39,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola G Plus",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 91,
+          "x2_scope": 96,
+          "x4_scope": 94,
+          "sniper_scope": 53,
+          "free_look": 32,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola One Macro",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 97,
+          "x2_scope": 96,
+          "x4_scope": 97,
+          "sniper_scope": 43,
+          "free_look": 36,
+          "trigger": 43
+        }
+      ]
+    },
+
+    {
+      "details": [
+        {
+          "name": "Motorola E4 + DPI",
+          "dpi": 550,
+          "trigger": 43,
+          "general": 94,
+          "red_dot": 91,
+          "x2_scope": 95,
+          "x4_scope": 92,
+          "sniper_scope": 44,
+          "free_look": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola G5 Play + DPI",
+          "dpi": 501,
+          "trigger": 52,
+          "general": 94,
+          "red_dot": 89,
+          "x2_scope": 99,
+          "x4_scope": 90,
+          "sniper_scope": 55,
+          "free_look": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola Z3 Play + DPI",
+          "dpi": 512,
+          "trigger": 48,
+          "general": 98,
+          "red_dot": 91,
+          "x2_scope": 97,
+          "x4_scope": 96,
+          "sniper_scope": 46,
+          "free_look": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola G8 Play + DPI",
+          "dpi": 478,
+          "trigger": 46,
+          "general": 94,
+          "red_dot": 95,
+          "x2_scope": 100,
+          "x4_scope": 99,
+          "sniper_scope": 18,
+          "free_look": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola G7 Power + DPI",
+          "dpi": 620,
+          "trigger": 43,
+          "general": 94,
+          "red_dot": 97,
+          "x2_scope": 96,
+          "x4_scope": 90,
+          "sniper_scope": 31,
+          "free_look": 32
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola X + DPI",
+          "dpi": 509,
+          "trigger": 53,
+          "general": 95,
+          "red_dot": 92,
+          "x2_scope": 91,
+          "x4_scope": 100,
+          "sniper_scope": 56,
+          "free_look": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola One Action + DPI",
+          "dpi": 527,
+          "trigger": 51,
+          "general": 95,
+          "red_dot": 94,
+          "x2_scope": 94,
+          "x4_scope": 96,
+          "sniper_scope": 23,
+          "free_look": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola G5 + DPI",
+          "dpi": 663,
+          "trigger": 52,
+          "general": 94,
+          "red_dot": 98,
+          "x2_scope": 94,
+          "x4_scope": 95,
+          "sniper_scope": 55,
+          "free_look": 34
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola E4 Plus + DPI",
+          "dpi": 580,
+          "trigger": 42,
+          "general": 97,
+          "red_dot": 89,
+          "x2_scope": 97,
+          "x4_scope": 94,
+          "sniper_scope": 57,
+          "free_look": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola G30 + DPI",
+          "dpi": 626,
+          "trigger": 50,
+          "general": 93,
+          "red_dot": 91,
+          "x2_scope": 98,
+          "x4_scope": 93,
+          "sniper_scope": 36,
+          "free_look": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola E6 Play + DPI",
+          "dpi": 476,
+          "trigger": 51,
+          "general": 94,
+          "red_dot": 88,
+          "x2_scope": 96,
+          "x4_scope": 96,
+          "sniper_scope": 28,
+          "free_look": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola G4 + DPI",
+          "dpi": 668,
+          "trigger": 41,
+          "general": 98,
+          "red_dot": 96,
+          "x2_scope": 91,
+          "x4_scope": 90,
+          "sniper_scope": 49,
+          "free_look": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola G8 Normal + DPI",
+          "dpi": 595,
+          "trigger": 47,
+          "general": 97,
+          "red_dot": 94,
+          "x2_scope": 94,
+          "x4_scope": 96,
+          "sniper_scope": 19,
+          "free_look": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola G4",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 92,
+          "x2_scope": 91,
+          "x4_scope": 100,
+          "sniper_scope": 57,
+          "free_look": 48,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola G8",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 93,
+          "x2_scope": 91,
+          "x4_scope": 93,
+          "sniper_scope": 25,
+          "free_look": 51,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola E4",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 88,
+          "x2_scope": 95,
+          "x4_scope": 96,
+          "sniper_scope": 33,
+          "free_look": 49,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola One Fusion",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 98,
+          "x2_scope": 99,
+          "x4_scope": 98,
+          "sniper_scope": 41,
+          "free_look": 42,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola One",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 96,
+          "x2_scope": 99,
+          "x4_scope": 92,
+          "sniper_scope": 52,
+          "free_look": 34,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola One Vision",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 89,
+          "x2_scope": 96,
+          "x4_scope": 97,
+          "sniper_scope": 32,
+          "free_look": 36,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola One Zoom",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 98,
+          "x2_scope": 97,
+          "x4_scope": 92,
+          "sniper_scope": 50,
+          "free_look": 30,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola Moto G",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 96,
+          "x2_scope": 93,
+          "x4_scope": 98,
+          "sniper_scope": 47,
+          "free_look": 38,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola One Action",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 91,
+          "x2_scope": 97,
+          "x4_scope": 98,
+          "sniper_scope": 20,
+          "free_look": 55,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola E5 + DPI",
+          "dpi": 560,
+          "trigger": 40,
+          "general": 94,
+          "red_dot": 96,
+          "x2_scope": 100,
+          "x4_scope": 97,
+          "sniper_scope": 37,
+          "free_look": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola G7 + DPI",
+          "dpi": 519,
+          "trigger": 47,
+          "general": 93,
+          "red_dot": 97,
+          "x2_scope": 90,
+          "x4_scope": 91,
+          "sniper_scope": 32,
+          "free_look": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola G31 + DPI",
+          "dpi": 627,
+          "trigger": 49,
+          "general": 98,
+          "red_dot": 90,
+          "x2_scope": 99,
+          "x4_scope": 97,
+          "sniper_scope": 23,
+          "free_look": 54
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola E6 Plus + DPI",
+          "dpi": 511,
+          "trigger": 47,
+          "general": 97,
+          "red_dot": 90,
+          "x2_scope": 96,
+          "x4_scope": 93,
+          "sniper_scope": 28,
+          "free_look": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola G8 Power Lite + DPI",
+          "dpi": 506,
+          "trigger": 39,
+          "general": 94,
+          "red_dot": 92,
+          "x2_scope": 93,
+          "x4_scope": 90,
+          "sniper_scope": 52,
+          "free_look": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola G6 + DPI",
+          "dpi": 647,
+          "trigger": 43,
+          "general": 96,
+          "red_dot": 95,
+          "x2_scope": 99,
+          "x4_scope": 94,
+          "sniper_scope": 18,
+          "free_look": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola One Fusion + DPI",
+          "dpi": 590,
+          "trigger": 40,
+          "general": 95,
+          "red_dot": 89,
+          "x2_scope": 95,
+          "x4_scope": 95,
+          "sniper_scope": 39,
+          "free_look": 54
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola One Macro + DPI",
+          "dpi": 582,
+          "trigger": 46,
+          "general": 94,
+          "red_dot": 89,
+          "x2_scope": 95,
+          "x4_scope": 96,
+          "sniper_scope": 20,
+          "free_look": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Motorola G7 Plus + DPI",
+          "dpi": 548,
+          "trigger": 52,
+          "general": 94,
+          "red_dot": 90,
+          "x2_scope": 92,
+          "x4_scope": 98,
+          "sniper_scope": 31,
+          "free_look": 48
+        }
+      ]
+    }
+  ]
+}

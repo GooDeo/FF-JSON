@@ -1,0 +1,394 @@
+{
+  "data": [
+    {
+      "details": [
+        {
+          "name": "OnePlus Nord 12",
+          "dpi": 900,
+          "free_look": 100,
+          "general": 100,
+          "red_dot": 100,
+          "sniper_scope": 50,
+          "trigger": 50,
+          "x2_scope": 100,
+          "x4_scope": 100
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "OnePlus 8 Pro",
+          "dpi": 380,
+          "free_look": 60,
+          "general": 95,
+          "red_dot": 100,
+          "sniper_scope": 65,
+          "trigger": 54,
+          "x2_scope": 86,
+          "x4_scope": 90
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "OnePlus 8",
+          "dpi": 591,
+          "free_look": 100,
+          "general": 100,
+          "red_dot": 100,
+          "sniper_scope": 100,
+          "trigger": 51,
+          "x2_scope": 100,
+          "x4_scope": 100
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "OnePlus 10T",
+          "dpi": 420,
+          "free_look": 100,
+          "general": 100,
+          "red_dot": 100,
+          "sniper_scope": 100,
+          "trigger": 51,
+          "x2_scope": 100,
+          "x4_scope": 100
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "OnePlus 9",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 91,
+          "x2_scope": 93,
+          "x4_scope": 97,
+          "sniper_scope": 25,
+          "free_look": 33,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "OnePlus 5 A500",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 95,
+          "x2_scope": 91,
+          "x4_scope": 99,
+          "sniper_scope": 31,
+          "free_look": 33,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "OnePlus 9 5G",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 98,
+          "x2_scope": 94,
+          "x4_scope": 99,
+          "sniper_scope": 37,
+          "free_look": 49,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "OnePlus Nord N200",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 88,
+          "x2_scope": 90,
+          "x4_scope": 95,
+          "sniper_scope": 21,
+          "free_look": 31,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "OnePlus 8T",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 94,
+          "x2_scope": 95,
+          "x4_scope": 98,
+          "sniper_scope": 32,
+          "free_look": 44,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "OnePlus 9",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 91,
+          "x2_scope": 100,
+          "x4_scope": 99,
+          "sniper_scope": 21,
+          "free_look": 49,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "OnePlus Nord N10 5G",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 93,
+          "x2_scope": 100,
+          "x4_scope": 94,
+          "sniper_scope": 55,
+          "free_look": 50,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "OnePlus Nord N10",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 95,
+          "x2_scope": 94,
+          "x4_scope": 93,
+          "sniper_scope": 35,
+          "free_look": 41,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "OnePlus Nord N200 5G",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 88,
+          "x2_scope": 92,
+          "x4_scope": 99,
+          "sniper_scope": 29,
+          "free_look": 30,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "OnePlus 6",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 98,
+          "x2_scope": 99,
+          "x4_scope": 98,
+          "sniper_scope": 22,
+          "free_look": 45,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "OnePlus Nord N100",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 96,
+          "x2_scope": 93,
+          "x4_scope": 98,
+          "sniper_scope": 31,
+          "free_look": 45,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "OnePlus N100",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 89,
+          "x2_scope": 100,
+          "x4_scope": 92,
+          "sniper_scope": 38,
+          "free_look": 50,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "OnePlus N110",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 98,
+          "x2_scope": 99,
+          "x4_scope": 99,
+          "sniper_scope": 22,
+          "free_look": 33,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "OnePlus 3T",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 97,
+          "x2_scope": 90,
+          "x4_scope": 95,
+          "sniper_scope": 19,
+          "free_look": 49,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "OnePlus 7T",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 88,
+          "x2_scope": 91,
+          "x4_scope": 98,
+          "sniper_scope": 22,
+          "free_look": 38,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "OnePlus 7 Pro",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 96,
+          "x2_scope": 90,
+          "x4_scope": 96,
+          "sniper_scope": 52,
+          "free_look": 38,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "OnePlus 6T",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 91,
+          "x2_scope": 91,
+          "x4_scope": 93,
+          "sniper_scope": 56,
+          "free_look": 53,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "OnePlus 6",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 91,
+          "x2_scope": 100,
+          "x4_scope": 90,
+          "sniper_scope": 23,
+          "free_look": 35,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "OnePlus 5T",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 90,
+          "x2_scope": 92,
+          "x4_scope": 91,
+          "sniper_scope": 22,
+          "free_look": 42,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "OnePlus 5",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 94,
+          "x2_scope": 95,
+          "x4_scope": 90,
+          "sniper_scope": 52,
+          "free_look": 36,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "OnePlus 6 + DPI",
+          "dpi": 504,
+          "general": 98,
+          "red_dot": 93,
+          "x2_scope": 94,
+          "x4_scope": 93,
+          "sniper_scope": 21,
+          "free_look": 51,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "OnePlus Nord N100 + DPI",
+          "dpi": 630,
+          "general": 95,
+          "red_dot": 93,
+          "x2_scope": 90,
+          "x4_scope": 93,
+          "sniper_scope": 59,
+          "free_look": 46,
+          "trigger": 46
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "data": [
+    {
+      "details": [
+        {
+          "name": "Hisense V50",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 92,
+          "x2_scope": 99,
+          "x4_scope": 92,
+          "sniper_scope": 41,
+          "free_look": 45,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Hisense E50 Lite",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 96,
+          "x2_scope": 90,
+          "x4_scope": 97,
+          "sniper_scope": 33,
+          "free_look": 41,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Hisense F8 Mini",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 93,
+          "x2_scope": 97,
+          "x4_scope": 93,
+          "sniper_scope": 49,
+          "free_look": 35,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Hisense V40",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 95,
+          "x2_scope": 93,
+          "x4_scope": 92,
+          "sniper_scope": 52,
+          "free_look": 53,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Hisense E40",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 88,
+          "x2_scope": 97,
+          "x4_scope": 90,
+          "sniper_scope": 52,
+          "free_look": 40,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Hisense E Lite",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 95,
+          "x2_scope": 98,
+          "x4_scope": 99,
+          "sniper_scope": 19,
+          "free_look": 42,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Hisense H Life",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 98,
+          "x2_scope": 96,
+          "x4_scope": 90,
+          "sniper_scope": 31,
+          "free_look": 35,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Hisense F24",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 97,
+          "x2_scope": 98,
+          "x4_scope": 96,
+          "sniper_scope": 38,
+          "free_look": 42,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Hisense E",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 93,
+          "x2_scope": 97,
+          "x4_scope": 90,
+          "sniper_scope": 39,
+          "free_look": 47,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Hisense E20",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 98,
+          "x2_scope": 94,
+          "x4_scope": 95,
+          "sniper_scope": 34,
+          "free_look": 41,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Hisense E50i",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 96,
+          "x2_scope": 95,
+          "x4_scope": 91,
+          "sniper_scope": 19,
+          "free_look": 41,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Hisense U30",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 88,
+          "x2_scope": 97,
+          "x4_scope": 95,
+          "sniper_scope": 20,
+          "free_look": 34,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Hisense V60",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 90,
+          "x2_scope": 93,
+          "x4_scope": 93,
+          "sniper_scope": 18,
+          "free_look": 30,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Hisense E60 Lite",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 96,
+          "x2_scope": 97,
+          "x4_scope": 99,
+          "sniper_scope": 19,
+          "free_look": 49,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Hisense V40s",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 93,
+          "x2_scope": 90,
+          "x4_scope": 94,
+          "sniper_scope": 38,
+          "free_look": 52,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Hisense E50",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 89,
+          "x2_scope": 96,
+          "x4_scope": 100,
+          "sniper_scope": 47,
+          "free_look": 41,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Hisense E60",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 98,
+          "x2_scope": 95,
+          "x4_scope": 99,
+          "sniper_scope": 58,
+          "free_look": 41,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Hisense E30",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 91,
+          "x2_scope": 98,
+          "x4_scope": 94,
+          "sniper_scope": 18,
+          "free_look": 45,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Hisense E30 Lite",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 89,
+          "x2_scope": 99,
+          "x4_scope": 90,
+          "sniper_scope": 27,
+          "free_look": 39,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Hisense V5",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 90,
+          "x2_scope": 94,
+          "x4_scope": 99,
+          "sniper_scope": 27,
+          "free_look": 54,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Hisense H40",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 91,
+          "x2_scope": 94,
+          "x4_scope": 98,
+          "sniper_scope": 348,
+          "free_look": 32,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Hisense V3",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 93,
+          "x2_scope": 93,
+          "x4_scope": 96,
+          "sniper_scope": 38,
+          "free_look": 34,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Hisense V8",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 97,
+          "x2_scope": 96,
+          "x4_scope": 94,
+          "sniper_scope": 49,
+          "free_look": 42,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Hisense H30",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 96,
+          "x2_scope": 90,
+          "x4_scope": 96,
+          "sniper_scope": 45,
+          "free_look": 48,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Hisense F18",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 88,
+          "x2_scope": 99,
+          "x4_scope": 94,
+          "sniper_scope": 35,
+          "free_look": 41,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Hisense U50",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 95,
+          "x2_scope": 90,
+          "x4_scope": 90,
+          "sniper_scope": 48,
+          "free_look": 39,
+          "trigger": 39
+        }
+      ]
+    }
+  ]
+}

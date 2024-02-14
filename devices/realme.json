@@ -1,0 +1,979 @@
+{
+  "data": [
+    {
+      "details": [
+        {
+          "name": "Realme Narzo 10A",
+          "dpi": 0,
+          "free_look": 100,
+          "general": 100,
+          "red_dot": 100,
+          "sniper_scope": 100,
+          "trigger": 63,
+          "x2_scope": 100,
+          "x4_scope": 100
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme 5i + DPI",
+          "dpi": 629,
+          "free_look": 54,
+          "general": 98,
+          "red_dot": 92,
+          "sniper_scope": 51,
+          "trigger": 39,
+          "x2_scope": 98,
+          "x4_scope": 98
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme 8",
+          "dpi": 0,
+          "free_look": 50,
+          "general": 58,
+          "red_dot": 100,
+          "sniper_scope": 50,
+          "trigger": 40,
+          "x2_scope": 100,
+          "x4_scope": 34
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme 6 Pro + DPI",
+          "dpi": 601,
+          "free_look": 37,
+          "general": 96,
+          "red_dot": 93,
+          "sniper_scope": 42,
+          "trigger": 51,
+          "x2_scope": 90,
+          "x4_scope": 99
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme 11 Pro",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 90,
+          "x2_scope": 98,
+          "x4_scope": 93,
+          "sniper_scope": 29,
+          "free_look": 54,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme C30s",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 91,
+          "x2_scope": 90,
+          "x4_scope": 98,
+          "sniper_scope": 20,
+          "free_look": 42,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme C53",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 92,
+          "x2_scope": 92,
+          "x4_scope": 93,
+          "sniper_scope": 18,
+          "free_look": 37,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme C55",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 98,
+          "x2_scope": 95,
+          "x4_scope": 97,
+          "sniper_scope": 33,
+          "free_look": 33,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme Narzo 50 Pro 5G",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 94,
+          "x2_scope": 98,
+          "x4_scope": 92,
+          "sniper_scope": 48,
+          "free_look": 42,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme X50 5G",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 90,
+          "x2_scope": 98,
+          "x4_scope": 91,
+          "sniper_scope": 29,
+          "free_look": 38,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme Q5 Pro",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 94,
+          "x2_scope": 97,
+          "x4_scope": 97,
+          "sniper_scope": 46,
+          "free_look": 54,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme C21 + DPI",
+          "dpi": 636,
+          "free_look": 52,
+          "general": 98,
+          "red_dot": 92,
+          "sniper_scope": 41,
+          "trigger": 51,
+          "x2_scope": 93,
+          "x4_scope": 98
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme C3 + DPI",
+          "dpi": 575,
+          "free_look": 52,
+          "general": 93,
+          "red_dot": 88,
+          "sniper_scope": 46,
+          "trigger": 52,
+          "x2_scope": 95,
+          "x4_scope": 90
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme C15 + DPI",
+          "dpi": 644,
+          "free_look": 32,
+          "general": 95,
+          "red_dot": 90,
+          "sniper_scope": 20,
+          "trigger": 41,
+          "x2_scope": 90,
+          "x4_scope": 93
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme 7i + DPI",
+          "dpi": 624,
+          "free_look": 37,
+          "general": 97,
+          "red_dot": 94,
+          "sniper_scope": 20,
+          "trigger": 41,
+          "x2_scope": 97,
+          "x4_scope": 98
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme C11 + DPI",
+          "dpi": 480,
+          "free_look": 38,
+          "general": 94,
+          "red_dot": 90,
+          "sniper_scope": 59,
+          "trigger": 44,
+          "x2_scope": 96,
+          "x4_scope": 90
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme C11 2021 + DPI",
+          "dpi": 661,
+          "free_look": 37,
+          "general": 93,
+          "red_dot": 88,
+          "sniper_scope": 41,
+          "trigger": 40,
+          "x2_scope": 92,
+          "x4_scope": 90
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme Q5",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 97,
+          "x2_scope": 97,
+          "x4_scope": 93,
+          "sniper_scope": 59,
+          "free_look": 40,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme C25s",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 94,
+          "x2_scope": 93,
+          "x4_scope": 90,
+          "sniper_scope": 52,
+          "free_look": 49,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme C33",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 88,
+          "x2_scope": 94,
+          "x4_scope": 95,
+          "sniper_scope": 35,
+          "free_look": 42,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme 8 Pro",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 91,
+          "x2_scope": 98,
+          "x4_scope": 92,
+          "sniper_scope": 55,
+          "free_look": 46,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme 8",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 97,
+          "x2_scope": 93,
+          "x4_scope": 94,
+          "sniper_scope": 44,
+          "free_look": 34,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme 5 Pro",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 97,
+          "x2_scope": 96,
+          "x4_scope": 93,
+          "sniper_scope": 44,
+          "free_look": 36,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme C11",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 93,
+          "x2_scope": 100,
+          "x4_scope": 94,
+          "sniper_scope": 50,
+          "free_look": 50,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme 2",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 97,
+          "x2_scope": 95,
+          "x4_scope": 95,
+          "sniper_scope": 23,
+          "free_look": 33,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme C25",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 95,
+          "x2_scope": 95,
+          "x4_scope": 97,
+          "sniper_scope": 27,
+          "free_look": 47,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme X50",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 98,
+          "x2_scope": 100,
+          "x4_scope": 99,
+          "sniper_scope": 18,
+          "free_look": 42,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme 6i",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 95,
+          "x2_scope": 97,
+          "x4_scope": 100,
+          "sniper_scope": 34,
+          "free_look": 42,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme X2",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 92,
+          "x2_scope": 93,
+          "x4_scope": 100,
+          "sniper_scope": 25,
+          "free_look": 53,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme C20",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 98,
+          "x2_scope": 92,
+          "x4_scope": 98,
+          "sniper_scope": 30,
+          "free_look": 37,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme 6",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 91,
+          "x2_scope": 90,
+          "x4_scope": 91,
+          "sniper_scope": 50,
+          "free_look": 55,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme 7 Pro",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 93,
+          "x2_scope": 96,
+          "x4_scope": 96,
+          "sniper_scope": 46,
+          "free_look": 45,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme 7i",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 90,
+          "x2_scope": 95,
+          "x4_scope": 94,
+          "sniper_scope": 23,
+          "free_look": 38,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme 6 Pro",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 89,
+          "x2_scope": 100,
+          "x4_scope": 99,
+          "sniper_scope": 57,
+          "free_look": 42,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme 3",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 90,
+          "x2_scope": 92,
+          "x4_scope": 90,
+          "sniper_scope": 37,
+          "free_look": 52,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme C3",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 92,
+          "x2_scope": 98,
+          "x4_scope": 99,
+          "sniper_scope": 20,
+          "free_look": 32,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme C2",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 91,
+          "x2_scope": 95,
+          "x4_scope": 96,
+          "sniper_scope": 39,
+          "free_look": 49,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme C12",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 94,
+          "x2_scope": 97,
+          "x4_scope": 99,
+          "sniper_scope": 56,
+          "free_look": 35,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme C1",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 89,
+          "x2_scope": 93,
+          "x4_scope": 90,
+          "sniper_scope": 58,
+          "free_look": 52,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme Narzo 50A Prime",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 94,
+          "x2_scope": 97,
+          "x4_scope": 91,
+          "sniper_scope": 54,
+          "free_look": 31,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme 3 + DPI",
+          "dpi": 549,
+          "general": 98,
+          "red_dot": 90,
+          "x2_scope": 96,
+          "x4_scope": 94,
+          "sniper_scope": 46,
+          "free_look": 35,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme Narzo 10A",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 90,
+          "x2_scope": 100,
+          "x4_scope": 93,
+          "sniper_scope": 40,
+          "free_look": 42,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme 7 5G",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 96,
+          "x2_scope": 96,
+          "x4_scope": 90,
+          "sniper_scope": 47,
+          "free_look": 40,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme C30 Pro",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 93,
+          "x2_scope": 98,
+          "x4_scope": 200,
+          "sniper_scope": 31,
+          "free_look": 42,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme 8i",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 94,
+          "x2_scope": 95,
+          "x4_scope": 99,
+          "sniper_scope": 40,
+          "free_look": 32,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme C11",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 92,
+          "x2_scope": 96,
+          "x4_scope": 97,
+          "sniper_scope": 47,
+          "free_look": 38,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme Y21",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 98,
+          "x2_scope": 91,
+          "x4_scope": 98,
+          "sniper_scope": 36,
+          "free_look": 36,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme XT",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 90,
+          "x2_scope": 91,
+          "x4_scope": 93,
+          "sniper_scope": 43,
+          "free_look": 54,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme 9i",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 88,
+          "x2_scope": 96,
+          "x4_scope": 96,
+          "sniper_scope": 22,
+          "free_look": 43,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme 8 5G",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 91,
+          "x2_scope": 92,
+          "x4_scope": 92,
+          "sniper_scope": 57,
+          "free_look": 45,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme C25Y",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 97,
+          "x2_scope": 96,
+          "x4_scope": 91,
+          "sniper_scope": 44,
+          "free_look": 44,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme 9 Pro",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 92,
+          "x2_scope": 91,
+          "x4_scope": 96,
+          "sniper_scope": 30,
+          "free_look": 34,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme Narzo 50i",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 95,
+          "x2_scope": 100,
+          "x4_scope": 99,
+          "sniper_scope": 45,
+          "free_look": 31,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme 9",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 95,
+          "x2_scope": 99,
+          "x4_scope": 90,
+          "sniper_scope": 23,
+          "free_look": 54,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme C15",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 89,
+          "x2_scope": 96,
+          "x4_scope": 97,
+          "sniper_scope": 26,
+          "free_look": 54,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme 5",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 89,
+          "x2_scope": 95,
+          "x4_scope": 93,
+          "sniper_scope": 52,
+          "free_look": 33,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme 3 Pro",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 97,
+          "x2_scope": 99,
+          "x4_scope": 91,
+          "sniper_scope": 60,
+          "free_look": 39,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme Narzo 20",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 89,
+          "x2_scope": 96,
+          "x4_scope": 95,
+          "sniper_scope": 19,
+          "free_look": 39,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme C35",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 88,
+          "x2_scope": 98,
+          "x4_scope": 91,
+          "sniper_scope": 44,
+          "free_look": 54,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme GT Neo 2",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 89,
+          "x2_scope": 95,
+          "x4_scope": 100,
+          "sniper_scope": 34,
+          "free_look": 30,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme C11 2021",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 91,
+          "x2_scope": 91,
+          "x4_scope": 91,
+          "sniper_scope": 44,
+          "free_look": 45,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme Narzo 30",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 91,
+          "x2_scope": 90,
+          "x4_scope": 96,
+          "sniper_scope": 32,
+          "free_look": 44,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme C21",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 93,
+          "x2_scope": 95,
+          "x4_scope": 92,
+          "sniper_scope": 51,
+          "free_look": 49,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme C21Y",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 96,
+          "x2_scope": 93,
+          "x4_scope": 92,
+          "sniper_scope": 39,
+          "free_look": 42,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Realme C17",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 96,
+          "x2_scope": 96,
+          "x4_scope": 91,
+          "sniper_scope": 51,
+          "free_look": 42,
+          "trigger": 42
+        }
+      ]
+    }
+  ]
+}

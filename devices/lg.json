@@ -1,0 +1,1400 @@
+{
+  "data": [
+    {
+      "details": [
+        {
+          "name": "LG V30 + DPI",
+          "dpi": 573,
+          "trigger": 44,
+          "general": 94,
+          "red_dot": 88,
+          "x2_scope": 98,
+          "x4_scope": 99,
+          "sniper_scope": 52,
+          "free_look": 31
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG X Power + DPI",
+          "dpi": 459,
+          "trigger": 40,
+          "general": 93,
+          "red_dot": 98,
+          "x2_scope": 90,
+          "x4_scope": 97,
+          "sniper_scope": 43,
+          "free_look": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG Q60 + DPI",
+          "dpi": 594,
+          "trigger": 43,
+          "general": 98,
+          "red_dot": 89,
+          "x2_scope": 93,
+          "x4_scope": 100,
+          "sniper_scope": 57,
+          "free_look": 33
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K11s",
+          "dpi": 0,
+          "trigger": 46,
+          "general": 96,
+          "red_dot": 90,
+          "x2_scope": 92,
+          "x4_scope": 90,
+          "sniper_scope": 43,
+          "free_look": 33
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K41s + DPI",
+          "dpi": 498,
+          "trigger": 50,
+          "general": 93,
+          "red_dot": 96,
+          "x2_scope": 99,
+          "x4_scope": 93,
+          "sniper_scope": 49,
+          "free_look": 31
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG Stylo 6 + DPI",
+          "dpi": 595,
+          "trigger": 40,
+          "general": 98,
+          "red_dot": 96,
+          "x2_scope": 99,
+          "x4_scope": 93,
+          "sniper_scope": 49,
+          "free_look": 31
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG G7 ThingQ + DPI",
+          "dpi": 564,
+          "trigger": 45,
+          "general": 95,
+          "red_dot": 96,
+          "x2_scope": 99,
+          "x4_scope": 92,
+          "sniper_scope": 50,
+          "free_look": 30
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K12 Max + DPI",
+          "dpi": 502,
+          "trigger": 46,
+          "general": 93,
+          "red_dot": 95,
+          "x2_scope": 92,
+          "x4_scope": 93,
+          "sniper_scope": 33,
+          "free_look": 37
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG Velvet",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 98,
+          "x2_scope": 93,
+          "x4_scope": 91,
+          "sniper_scope": 51,
+          "free_look": 48,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG X Power K210",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 97,
+          "x2_scope": 90,
+          "x4_scope": 99,
+          "sniper_scope": 19,
+          "free_look": 45,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K20 V",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 90,
+          "x2_scope": 93,
+          "x4_scope": 94,
+          "sniper_scope": 31,
+          "free_look": 51,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG G7 ThinG",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 88,
+          "x2_scope": 98,
+          "x4_scope": 96,
+          "sniper_scope": 35,
+          "free_look": 34,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG V60 ThinQ 5G",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 93,
+          "x2_scope": 93,
+          "x4_scope": 90,
+          "sniper_scope": 24,
+          "free_look": 50,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K12 Plus",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 95,
+          "x2_scope": 92,
+          "x4_scope": 92,
+          "sniper_scope": 24,
+          "free_look": 30,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG X Max",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 96,
+          "x2_scope": 97,
+          "x4_scope": 100,
+          "sniper_scope": 19,
+          "free_look": 33,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K4 LTE",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 89,
+          "x2_scope": 100,
+          "x4_scope": 99,
+          "sniper_scope": 49,
+          "free_look": 41,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG G7 One",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 89,
+          "x2_scope": 94,
+          "x4_scope": 90,
+          "sniper_scope": 20,
+          "free_look": 31,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K10 LTE",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 92,
+          "x2_scope": 94,
+          "x4_scope": 94,
+          "sniper_scope": 21,
+          "free_look": 55,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG Phoenix 5",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 93,
+          "x2_scope": 100,
+          "x4_scope": 95,
+          "sniper_scope": 34,
+          "free_look": 34,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG V40 ThinQ",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 98,
+          "x2_scope": 92,
+          "x4_scope": 90,
+          "sniper_scope": 54,
+          "free_look": 38,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG V50 ThinQ",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 96,
+          "x2_scope": 92,
+          "x4_scope": 96,
+          "sniper_scope": 42,
+          "free_look": 55,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG G8X ThinQ",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 98,
+          "x2_scope": 99,
+          "x4_scope": 100,
+          "sniper_scope": 32,
+          "free_look": 55,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K10 Novo",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 92,
+          "x2_scope": 95,
+          "x4_scope": 94,
+          "sniper_scope": 22,
+          "free_look": 46,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG Q60",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 94,
+          "x2_scope": 99,
+          "x4_scope": 93,
+          "sniper_scope": 47,
+          "free_look": 34,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG X Venture",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 90,
+          "x2_scope": 97,
+          "x4_scope": 94,
+          "sniper_scope": 21,
+          "free_look": 52,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG V60 ThinQ",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 92,
+          "x2_scope": 98,
+          "x4_scope": 93,
+          "sniper_scope": 38,
+          "free_look": 43,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K4",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 96,
+          "x2_scope": 92,
+          "x4_scope": 90,
+          "sniper_scope": 57,
+          "free_look": 51,
+          "trigger": 47
+        }
+      ]
+    }
+  ,
+    {
+      "details": [
+        {
+          "name": "LG K12 Plus + DPI",
+          "dpi": 657,
+          "trigger": 51,
+          "general": 98,
+          "red_dot": 91,
+          "x2_scope": 97,
+          "x4_scope": 96,
+          "sniper_scope": 38,
+          "free_look": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K12 Prime + DPI",
+          "dpi": 501,
+          "trigger": 48,
+          "general": 93,
+          "red_dot": 93,
+          "x2_scope": 90,
+          "x4_scope": 92,
+          "sniper_scope": 32,
+          "free_look": 38
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K40s + DPI",
+          "dpi": 519,
+          "trigger": 50,
+          "general": 96,
+          "red_dot": 93,
+          "x2_scope": 98,
+          "x4_scope": 97,
+          "sniper_scope": 34,
+          "free_look": 33
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG Phoenix 4",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 89,
+          "x2_scope": 100,
+          "x4_scope": 90,
+          "sniper_scope": 46,
+          "free_look": 42,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG Phoenix 5",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 90,
+          "x2_scope": 94,
+          "x4_scope": 95,
+          "sniper_scope": 42,
+          "free_look": 39,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG V40",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 93,
+          "x2_scope": 100,
+          "x4_scope": 96,
+          "sniper_scope": 50,
+          "free_look": 32,
+          "trigger": 46
+        }
+      ]
+    },{
+      "details": [
+        {
+          "name": "LG V40 ThinQ",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 91,
+          "x2_scope": 95,
+          "x4_scope": 97,
+          "sniper_scope": 31,
+          "free_look": 32,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG G8 ThinQ",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 89,
+          "x2_scope": 95,
+          "x4_scope": 98,
+          "sniper_scope": 33,
+          "free_look": 52,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG Q6 Prime",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 96,
+          "x2_scope": 94,
+          "x4_scope": 95,
+          "sniper_scope": 18,
+          "free_look": 47,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K20 Plus",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 95,
+          "x2_scope": 100,
+          "x4_scope": 91,
+          "sniper_scope": 20,
+          "free_look": 40,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K44",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 88,
+          "x2_scope": 98,
+          "x4_scope": 95,
+          "sniper_scope": 56,
+          "free_look": 40,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG ",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 95,
+          "x2_scope": 95,
+          "x4_scope": 96,
+          "sniper_scope": 22,
+          "free_look": 33,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG H631",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 92,
+          "x2_scope": 90,
+          "x4_scope": 100,
+          "sniper_scope": 49,
+          "free_look": 30,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG V",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 95,
+          "x2_scope": 99,
+          "x4_scope": 91,
+          "sniper_scope": 31,
+          "free_look": 47,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG SP320",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 90,
+          "x2_scope": 94,
+          "x4_scope": 97,
+          "sniper_scope": 45,
+          "free_look": 37,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG G5",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 89,
+          "x2_scope": 93,
+          "x4_scope": 90,
+          "sniper_scope": 50,
+          "free_look": 48,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG V50",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 96,
+          "x2_scope": 90,
+          "x4_scope": 90,
+          "sniper_scope": 48,
+          "free_look": 36,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG ZERO",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 93,
+          "x2_scope": 97,
+          "x4_scope": 90,
+          "sniper_scope": 46,
+          "free_look": 45,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG Stylo 3",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 94,
+          "x2_scope": 91,
+          "x4_scope": 100,
+          "sniper_scope": 37,
+          "free_look": 36,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG Q6",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 96,
+          "x2_scope": 96,
+          "x4_scope": 90,
+          "sniper_scope": 27,
+          "free_look": 33,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K10 2017",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 89,
+          "x2_scope": 100,
+          "x4_scope": 97,
+          "sniper_scope": 22,
+          "free_look": 49,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K51s",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 97,
+          "x2_scope": 94,
+          "x4_scope": 94,
+          "sniper_scope": 22,
+          "free_look": 41,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K30",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 98,
+          "x2_scope": 92,
+          "x4_scope": 93,
+          "sniper_scope": 25,
+          "free_look": 35,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K51",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 98,
+          "x2_scope": 93,
+          "x4_scope": 94,
+          "sniper_scope": 27,
+          "free_look": 35,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K50",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 95,
+          "x2_scope": 99,
+          "x4_scope": 92,
+          "sniper_scope": 46,
+          "free_look": 31,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG Stylo 4",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 93,
+          "x2_scope": 100,
+          "x4_scope": 95,
+          "sniper_scope": 51,
+          "free_look": 55,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K61",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 88,
+          "x2_scope": 97,
+          "x4_scope": 97,
+          "sniper_scope": 27,
+          "free_look": 32,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K9 TV",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 93,
+          "x2_scope": 94,
+          "x4_scope": 90,
+          "sniper_scope": 57,
+          "free_look": 54,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG Q7",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 90,
+          "x2_scope": 91,
+          "x4_scope": 93,
+          "sniper_scope": 52,
+          "free_look": 55,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG G7 ThinQ + DPI",
+          "dpi": 582,
+          "general": 95,
+          "red_dot": 89,
+          "x2_scope": 92,
+          "x4_scope": 94,
+          "sniper_scope": 56,
+          "free_look": 46,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K12 + DPI",
+          "dpi": 474,
+          "general": 94,
+          "red_dot": 98,
+          "x2_scope": 99,
+          "x4_scope": 99,
+          "sniper_scope": 29,
+          "free_look": 35,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K62",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 92,
+          "x2_scope": 97,
+          "x4_scope": 97,
+          "sniper_scope": 40,
+          "free_look": 36,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K22",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 93,
+          "x2_scope": 99,
+          "x4_scope": 97,
+          "sniper_scope": 18,
+          "free_look": 52,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG Stylus 3",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 94,
+          "x2_scope": 97,
+          "x4_scope": 90,
+          "sniper_scope": 41,
+          "free_look": 30,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K52s",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 98,
+          "x2_scope": 95,
+          "x4_scope": 91,
+          "sniper_scope": 37,
+          "free_look": 38,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K52",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 94,
+          "x2_scope": 100,
+          "x4_scope": 94,
+          "sniper_scope": 29,
+          "free_look": 55,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K42",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 98,
+          "x2_scope": 95,
+          "x4_scope": 94,
+          "sniper_scope": 32,
+          "free_look": 47,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG Fortune 3",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 97,
+          "x2_scope": 100,
+          "x4_scope": 91,
+          "sniper_scope": 48,
+          "free_look": 40,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG G4",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 93,
+          "x2_scope": 96,
+          "x4_scope": 99,
+          "sniper_scope": 50,
+          "free_look": 55,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K12 Max",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 88,
+          "x2_scope": 100,
+          "x4_scope": 96,
+          "sniper_scope": 54,
+          "free_look": 44,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG Stylo 6",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 98,
+          "x2_scope": 95,
+          "x4_scope": 100,
+          "sniper_scope": 42,
+          "free_look": 55,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K12 Prime",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 98,
+          "x2_scope": 100,
+          "x4_scope": 98,
+          "sniper_scope": 35,
+          "free_look": 37,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG KS",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 90,
+          "x2_scope": 98,
+          "x4_scope": 91,
+          "sniper_scope": 42,
+          "free_look": 50,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K10",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 96,
+          "x2_scope": 92,
+          "x4_scope": 97,
+          "sniper_scope": 40,
+          "free_look": 32,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K20",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 95,
+          "x2_scope": 99,
+          "x4_scope": 96,
+          "sniper_scope": 57,
+          "free_look": 42,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K11 Plus",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 91,
+          "x2_scope": 95,
+          "x4_scope": 97,
+          "sniper_scope": 26,
+          "free_look": 39,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K9",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 95,
+          "x2_scope": 100,
+          "x4_scope": 95,
+          "sniper_scope": 42,
+          "free_look": 36,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG Stylo 5",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 89,
+          "x2_scope": 90,
+          "x4_scope": 100,
+          "sniper_scope": 32,
+          "free_look": 32,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG V20",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 95,
+          "x2_scope": 93,
+          "x4_scope": 95,
+          "sniper_scope": 49,
+          "free_look": 45,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K8",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 90,
+          "x2_scope": 90,
+          "x4_scope": 96,
+          "sniper_scope": 25,
+          "free_look": 42,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K41s",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 92,
+          "x2_scope": 91,
+          "x4_scope": 90,
+          "sniper_scope": 51,
+          "free_look": 53,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG Aristo 3",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 91,
+          "x2_scope": 92,
+          "x4_scope": 99,
+          "sniper_scope": 58,
+          "free_look": 32,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG Aristo 2",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 94,
+          "x2_scope": 92,
+          "x4_scope": 99,
+          "sniper_scope": 21,
+          "free_look": 53,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG G3",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 96,
+          "x2_scope": 92,
+          "x4_scope": 95,
+          "sniper_scope": 18,
+          "free_look": 34,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K40",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 95,
+          "x2_scope": 93,
+          "x4_scope": 93,
+          "sniper_scope": 37,
+          "free_look": 33,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K120",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 90,
+          "x2_scope": 100,
+          "x4_scope": 91,
+          "sniper_scope": 22,
+          "free_look": 50,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K8 Plus",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 96,
+          "x2_scope": 98,
+          "x4_scope": 99,
+          "sniper_scope": 48,
+          "free_look": 51,
+          "trigger": 51
+        }
+      ]
+    }
+  ,
+    {
+      "details": [
+        {
+          "name": "LG K10 2019",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 98,
+          "x2_scope": 92,
+          "x4_scope": 94,
+          "sniper_scope": 36,
+          "free_look": 46,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG Stylus 2",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 98,
+          "x2_scope": 95,
+          "x4_scope": 95,
+          "sniper_scope": 57,
+          "free_look": 52,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K40s",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 96,
+          "x2_scope": 94,
+          "x4_scope": 94,
+          "sniper_scope": 43,
+          "free_look": 33,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG Q6 Plus",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 89,
+          "x2_scope": 98,
+          "x4_scope": 98,
+          "sniper_scope": 34,
+          "free_look": 33,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K5",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 88,
+          "x2_scope": 93,
+          "x4_scope": 100,
+          "sniper_scope": 54,
+          "free_look": 44,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K8 LTE",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 93,
+          "x2_scope": 96,
+          "x4_scope": 99,
+          "sniper_scope": 31,
+          "free_look": 39,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K92 5G",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 96,
+          "x2_scope": 100,
+          "x4_scope": 97,
+          "sniper_scope": 23,
+          "free_look": 48,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG K71",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 98,
+          "x2_scope": 100,
+          "x4_scope": 99,
+          "sniper_scope": 57,
+          "free_look": 34,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "LG V35 ThinQ",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 90,
+          "x2_scope": 96,
+          "x4_scope": 99,
+          "sniper_scope": 52,
+          "free_look": 31,
+          "trigger": 51
+        }
+      ]
+    }
+  ]
+}

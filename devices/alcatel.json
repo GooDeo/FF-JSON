@@ -1,0 +1,754 @@
+{
+  "data": [
+    {
+      "details": [
+        {
+          "name": "Alcatel Joy Tab 2",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 92,
+          "x2_scope": 90,
+          "x4_scope": 94,
+          "sniper_scope": 54,
+          "free_look": 51,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel U5",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 95,
+          "x2_scope": 91,
+          "x4_scope": 91,
+          "sniper_scope": 34,
+          "free_look": 41,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel 3T 10 2020",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 91,
+          "x2_scope": 98,
+          "x4_scope": 97,
+          "sniper_scope": 27,
+          "free_look": 35,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel Idol 2",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 97,
+          "x2_scope": 98,
+          "x4_scope": 96,
+          "sniper_scope": 34,
+          "free_look": 33,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel 8",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 98,
+          "x2_scope": 94,
+          "x4_scope": 98,
+          "sniper_scope": 35,
+          "free_look": 38,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel Idol 5s",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 91,
+          "x2_scope": 91,
+          "x4_scope": 93,
+          "sniper_scope": 58,
+          "free_look": 33,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel A5 LED",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 89,
+          "x2_scope": 91,
+          "x4_scope": 99,
+          "sniper_scope": 25,
+          "free_look": 41,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel B1",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 97,
+          "x2_scope": 97,
+          "x4_scope": 98,
+          "sniper_scope": 20,
+          "free_look": 30,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel 3 2020",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 95,
+          "x2_scope": 100,
+          "x4_scope": 100,
+          "sniper_scope": 30,
+          "free_look": 45,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel 3H",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 94,
+          "x2_scope": 95,
+          "x4_scope": 91,
+          "sniper_scope": 51,
+          "free_look": 35,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel 1V",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 97,
+          "x2_scope": 100,
+          "x4_scope": 96,
+          "sniper_scope": 30,
+          "free_look": 45,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel 1S",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 98,
+          "x2_scope": 99,
+          "x4_scope": 90,
+          "sniper_scope": 48,
+          "free_look": 31,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel X1",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 92,
+          "x2_scope": 96,
+          "x4_scope": 94,
+          "sniper_scope": 53,
+          "free_look": 33,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel 1V Plus",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 89,
+          "x2_scope": 92,
+          "x4_scope": 97,
+          "sniper_scope": 38,
+          "free_look": 54,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel H5",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 93,
+          "x2_scope": 98,
+          "x4_scope": 94,
+          "sniper_scope": 53,
+          "free_look": 31,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel 1B 2020",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 92,
+          "x2_scope": 90,
+          "x4_scope": 90,
+          "sniper_scope": 33,
+          "free_look": 50,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel 3V 2019",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 92,
+          "x2_scope": 90,
+          "x4_scope": 91,
+          "sniper_scope": 26,
+          "free_look": 38,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel 1L 2021",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 90,
+          "x2_scope": 98,
+          "x4_scope": 94,
+          "sniper_scope": 36,
+          "free_look": 42,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel 1SE",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 91,
+          "x2_scope": 98,
+          "x4_scope": 95,
+          "sniper_scope": 57,
+          "free_look": 47,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel 4",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 90,
+          "x2_scope": 97,
+          "x4_scope": 100,
+          "sniper_scope": 47,
+          "free_look": 48,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel 5V Review",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 96,
+          "x2_scope": 98,
+          "x4_scope": 90,
+          "sniper_scope": 45,
+          "free_look": 36,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel 1T 10",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 91,
+          "x2_scope": 100,
+          "x4_scope": 92,
+          "sniper_scope": 58,
+          "free_look": 35,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel Joy Tab 8",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 92,
+          "x2_scope": 99,
+          "x4_scope": 98,
+          "sniper_scope": 51,
+          "free_look": 34,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel 3X 2019",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 93,
+          "x2_scope": 97,
+          "x4_scope": 98,
+          "sniper_scope": 32,
+          "free_look": 49,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel X5",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 97,
+          "x2_scope": 96,
+          "x4_scope": 94,
+          "sniper_scope": 40,
+          "free_look": 47,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel 3 2019",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 96,
+          "x2_scope": 93,
+          "x4_scope": 100,
+          "sniper_scope": 56,
+          "free_look": 42,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel 1T 7",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 98,
+          "x2_scope": 99,
+          "x4_scope": 95,
+          "sniper_scope": 57,
+          "free_look": 41,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel One Touch",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 97,
+          "x2_scope": 94,
+          "x4_scope": 98,
+          "sniper_scope": 42,
+          "free_look": 53,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel 1X",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 98,
+          "x2_scope": 96,
+          "x4_scope": 97,
+          "sniper_scope": 36,
+          "free_look": 52,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel 3C",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 94,
+          "x2_scope": 100,
+          "x4_scope": 95,
+          "sniper_scope": 23,
+          "free_look": 42,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel 3T 10",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 94,
+          "x2_scope": 90,
+          "x4_scope": 93,
+          "sniper_scope": 52,
+          "free_look": 53,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel 1B",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 92,
+          "x2_scope": 90,
+          "x4_scope": 100,
+          "sniper_scope": 30,
+          "free_look": 53,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel X3",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 94,
+          "x2_scope": 93,
+          "x4_scope": 92,
+          "sniper_scope": 19,
+          "free_look": 52,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel Terra",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 88,
+          "x2_scope": 96,
+          "x4_scope": 98,
+          "sniper_scope": 37,
+          "free_look": 49,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel Pixi 4",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 92,
+          "x2_scope": 100,
+          "x4_scope": 93,
+          "sniper_scope": 34,
+          "free_look": 34,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel 3",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 88,
+          "x2_scope": 94,
+          "x4_scope": 90,
+          "sniper_scope": 49,
+          "free_look": 32,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel Shine Lite",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 91,
+          "x2_scope": 94,
+          "x4_scope": 100,
+          "sniper_scope": 33,
+          "free_look": 41,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel One Touch Pixi",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 95,
+          "x2_scope": 94,
+          "x4_scope": 99,
+          "sniper_scope": 52,
+          "free_look": 40,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel 3V",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 98,
+          "x2_scope": 96,
+          "x4_scope": 94,
+          "sniper_scope": 18,
+          "free_look": 53,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel 1S",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 98,
+          "x2_scope": 94,
+          "x4_scope": 99,
+          "sniper_scope": 46,
+          "free_look": 46,
+          "trigger": 41
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel Pop 4 Plus",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 97,
+          "x2_scope": 94,
+          "x4_scope": 95,
+          "sniper_scope": 60,
+          "free_look": 35,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel A3",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 89,
+          "x2_scope": 90,
+          "x4_scope": 94,
+          "sniper_scope": 49,
+          "free_look": 42,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel V1 2020",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 94,
+          "x2_scope": 95,
+          "x4_scope": 90,
+          "sniper_scope": 24,
+          "free_look": 52,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel 1B + DPI",
+          "dpi": 500,
+          "general": 95,
+          "red_dot": 97,
+          "x2_scope": 100,
+          "x4_scope": 95,
+          "sniper_scope": 48,
+          "free_look": 33,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel X3 + DPI",
+          "dpi": 511,
+          "general": 97,
+          "red_dot": 88,
+          "x2_scope": 97,
+          "x4_scope": 97,
+          "sniper_scope": 20,
+          "free_look": 39,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel 1C + DPI",
+          "dpi": 529,
+          "general": 96,
+          "red_dot": 91,
+          "x2_scope": 100,
+          "x4_scope": 96,
+          "sniper_scope": 47,
+          "free_look": 47,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel 1S + DPI",
+          "dpi": 655,
+          "general": 93,
+          "red_dot": 92,
+          "x2_scope": 98,
+          "x4_scope": 90,
+          "sniper_scope": 18,
+          "free_look": 54,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel Pop 4",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 95,
+          "x2_scope": 92,
+          "x4_scope": 96,
+          "sniper_scope": 24,
+          "free_look": 42,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel Pop 4s",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 92,
+          "x2_scope": 91,
+          "x4_scope": 90,
+          "sniper_scope": 37,
+          "free_look": 42,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Alcatel V1 2020 + DPI",
+          "dpi": 524,
+          "general": 93,
+          "red_dot": 89,
+          "x2_scope": 92,
+          "x4_scope": 92,
+          "sniper_scope": 51,
+          "free_look": 37,
+          "trigger": 48
+        }
+      ]
+    }
+  ]
+}

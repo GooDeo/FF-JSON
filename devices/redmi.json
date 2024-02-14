@@ -1,0 +1,964 @@
+{
+  "data": [
+    {
+      "details": [
+        {
+          "name": "Redmi A2",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 93,
+          "x2_scope": 97,
+          "x4_scope": 94,
+          "sniper_scope": 22,
+          "free_look": 36,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi Y3",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 92,
+          "x2_scope": 99,
+          "x4_scope": 91,
+          "sniper_scope": 18,
+          "free_look": 43,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi Note",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 97,
+          "x2_scope": 91,
+          "x4_scope": 94,
+          "sniper_scope": 35,
+          "free_look": 44,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi Note 11s",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 92,
+          "x2_scope": 100,
+          "x4_scope": 90,
+          "sniper_scope": 51,
+          "free_look": 49,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi Note 12s",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 93,
+          "x2_scope": 95,
+          "x4_scope": 98,
+          "sniper_scope": 40,
+          "free_look": 42,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi 12C",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 92,
+          "x2_scope": 98,
+          "x4_scope": 99,
+          "sniper_scope": 45,
+          "free_look": 40,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi Note 12",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 91,
+          "x2_scope": 94,
+          "x4_scope": 95,
+          "sniper_scope": 39,
+          "free_look": 55,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi K50 Gaming",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 96,
+          "x2_scope": 98,
+          "x4_scope": 92,
+          "sniper_scope": 26,
+          "free_look": 42,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi Note 10 5G",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 88,
+          "x2_scope": 98,
+          "x4_scope": 100,
+          "sniper_scope": 54,
+          "free_look": 44,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi 9i",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 92,
+          "x2_scope": 98,
+          "x4_scope": 97,
+          "sniper_scope": 40,
+          "free_look": 33,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi K40",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 91,
+          "x2_scope": 91,
+          "x4_scope": 95,
+          "sniper_scope": 49,
+          "free_look": 40,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi Note 12 Pro",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 89,
+          "x2_scope": 92,
+          "x4_scope": 94,
+          "sniper_scope": 27,
+          "free_look": 55,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi 12 Pro",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 93,
+          "x2_scope": 90,
+          "x4_scope": 100,
+          "sniper_scope": 2,
+          "free_look": 33,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi A1",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 93,
+          "x2_scope": 92,
+          "x4_scope": 98,
+          "sniper_scope": 24,
+          "free_look": 36,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi Note 8A + DPI",
+          "dpi": 659,
+          "free_look": 35,
+          "general": 97,
+          "red_dot": 90,
+          "sniper_scope": 25,
+          "trigger": 40,
+          "x2_scope": 100,
+          "x4_scope": 97
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi 9 NFC + DPI",
+          "dpi": 430,
+          "free_look": 47,
+          "general": 95,
+          "red_dot": 97,
+          "sniper_scope": 54,
+          "trigger": 48,
+          "x2_scope": 92,
+          "x4_scope": 92
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi Note 10 Pro + DPI",
+          "dpi": 553,
+          "free_look": 32,
+          "general": 95,
+          "red_dot": 96,
+          "sniper_scope": 40,
+          "trigger": 50,
+          "x2_scope": 91,
+          "x4_scope": 100
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi Note 5 + DPI",
+          "dpi": 551,
+          "free_look": 54,
+          "general": 98,
+          "red_dot": 97,
+          "sniper_scope": 46,
+          "trigger": 43,
+          "x2_scope": 99,
+          "x4_scope": 95
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi Note 10s + DPI",
+          "dpi": 535,
+          "free_look": 50,
+          "general": 96,
+          "red_dot": 93,
+          "sniper_scope": 60,
+          "trigger": 52,
+          "x2_scope": 96,
+          "x4_scope": 91
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi Note 9 Pro + DPI",
+          "dpi": 619,
+          "free_look": 100,
+          "general": 97,
+          "red_dot": 93,
+          "sniper_scope": 45,
+          "trigger": 41,
+          "x2_scope": 100,
+          "x4_scope": 100
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi 9T + DPI",
+          "dpi": 615,
+          "free_look": 30,
+          "general": 98,
+          "red_dot": 91,
+          "sniper_scope": 56,
+          "trigger": 40,
+          "x2_scope": 97,
+          "x4_scope": 91
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi 9A + DPI",
+          "dpi": 720,
+          "free_look": 50,
+          "general": 100,
+          "red_dot": 100,
+          "sniper_scope": 50,
+          "trigger": 53,
+          "x2_scope": 100,
+          "x4_scope": 100
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi Note 10T 5G",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 90,
+          "x2_scope": 91,
+          "x4_scope": 96,
+          "sniper_scope": 25,
+          "free_look": 44,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi 10A",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 94,
+          "x2_scope": 100,
+          "x4_scope": 95,
+          "sniper_scope": 39,
+          "free_look": 50,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi Note 11 Pro",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 97,
+          "x2_scope": 96,
+          "x4_scope": 99,
+          "sniper_scope": 42,
+          "free_look": 49,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi K50",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 91,
+          "x2_scope": 99,
+          "x4_scope": 99,
+          "sniper_scope": 36,
+          "free_look": 53,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi 9C NFC",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 92,
+          "x2_scope": 100,
+          "x4_scope": 99,
+          "sniper_scope": 32,
+          "free_look": 43,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi Note 10s",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 90,
+          "x2_scope": 92,
+          "x4_scope": 100,
+          "sniper_scope": 39,
+          "free_look": 46,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi 10C",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 90,
+          "x2_scope": 95,
+          "x4_scope": 94,
+          "sniper_scope": 31,
+          "free_look": 53,
+          "trigger": 40
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi 3s",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 96,
+          "x2_scope": 94,
+          "x4_scope": 99,
+          "sniper_scope": 54,
+          "free_look": 55,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi Note 11 Pro 5G",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 93,
+          "x2_scope": 98,
+          "x4_scope": 97,
+          "sniper_scope": 55,
+          "free_look": 43,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi 10s",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 92,
+          "x2_scope": 90,
+          "x4_scope": 93,
+          "sniper_scope": 36,
+          "free_look": 49,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi Note 10",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 98,
+          "x2_scope": 95,
+          "x4_scope": 91,
+          "sniper_scope": 27,
+          "free_look": 38,
+          "trigger": 39
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi Note 11",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 96,
+          "x2_scope": 100,
+          "x4_scope": 97,
+          "sniper_scope": 23,
+          "free_look": 45,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi 10",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 91,
+          "x2_scope": 99,
+          "x4_scope": 95,
+          "sniper_scope": 22,
+          "free_look": 34,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi Note 20",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 96,
+          "x2_scope": 100,
+          "x4_scope": 91,
+          "sniper_scope": 58,
+          "free_look": 52,
+          "trigger": 47
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi Note 4",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 92,
+          "x2_scope": 91,
+          "x4_scope": 93,
+          "sniper_scope": 23,
+          "free_look": 52,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi Note 9 + DPI",
+          "dpi": 570,
+          "free_look": 35,
+          "general": 95,
+          "red_dot": 98,
+          "sniper_scope": 41,
+          "trigger": 41,
+          "x2_scope": 93,
+          "x4_scope": 100
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi 9C + DPI",
+          "dpi": 730,
+          "free_look": 50,
+          "general": 100,
+          "red_dot": 100,
+          "sniper_scope": 50,
+          "trigger": 53,
+          "x2_scope": 100,
+          "x4_scope": 100
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi Note 7 + DPI",
+          "dpi": 536,
+          "free_look": 53,
+          "general": 98,
+          "red_dot": 97,
+          "sniper_scope": 96,
+          "trigger": 45,
+          "x2_scope": 97,
+          "x4_scope": 97
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi 7 + DPI",
+          "dpi": 450,
+          "free_look": 50,
+          "general": 100,
+          "red_dot": 100,
+          "sniper_scope": 50,
+          "trigger": 55,
+          "x2_scope": 100,
+          "x4_scope": 100
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi 8",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 91,
+          "x2_scope": 92,
+          "x4_scope": 91,
+          "sniper_scope": 46,
+          "free_look": 39,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi 4A",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 97,
+          "x2_scope": 94,
+          "x4_scope": 100,
+          "sniper_scope": 59,
+          "free_look": 51,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi 4",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 93,
+          "x2_scope": 94,
+          "x4_scope": 93,
+          "sniper_scope": 40,
+          "free_look": 51,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi Note 3",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 97,
+          "x2_scope": 99,
+          "x4_scope": 94,
+          "sniper_scope": 39,
+          "free_look": 38,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi 9C NFC + DPI",
+          "dpi": 731,
+          "free_look": 52,
+          "general": 95,
+          "red_dot": 92,
+          "sniper_scope": 21,
+          "trigger": 48,
+          "x2_scope": 93,
+          "x4_scope": 93
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi A8 + DPI",
+          "dpi": 639,
+          "free_look": 44,
+          "general": 93,
+          "red_dot": 95,
+          "sniper_scope": 18,
+          "trigger": 53,
+          "x2_scope": 96,
+          "x4_scope": 91
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi 9 + DPI",
+          "dpi": 720,
+          "free_look": 100,
+          "general": 95,
+          "red_dot": 55,
+          "sniper_scope": 51,
+          "trigger": 70,
+          "x2_scope": 70,
+          "x4_scope": 100
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi S2 + DPI",
+          "dpi": 416,
+          "free_look": 32,
+          "general": 93,
+          "red_dot": 91,
+          "sniper_scope": 26,
+          "trigger": 45,
+          "x2_scope": 96,
+          "x4_scope": 93
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi Note 8 Pro + DPI",
+          "dpi": 560,
+          "free_look": 49,
+          "general": 95,
+          "red_dot": 96,
+          "sniper_scope": 33,
+          "trigger": 53,
+          "x2_scope": 93,
+          "x4_scope": 98
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi Note 9s + DPI",
+          "dpi": 531,
+          "free_look": 49,
+          "general": 95,
+          "red_dot": 96,
+          "sniper_scope": 33,
+          "trigger": 53,
+          "x2_scope": 93,
+          "x4_scope": 98
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi Note 8 + DPI",
+          "dpi": 600,
+          "free_look": 48,
+          "general": 94,
+          "red_dot": 93,
+          "sniper_scope": 24,
+          "trigger": 44,
+          "x2_scope": 94,
+          "x4_scope": 95
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi 8 Pro + DPI",
+          "dpi": 540,
+          "free_look": 48,
+          "general": 100,
+          "red_dot": 97,
+          "sniper_scope": 80,
+          "trigger": 48,
+          "x2_scope": 94,
+          "x4_scope": 88
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi Note 6 Pro + DPI",
+          "dpi": 470,
+          "free_look": 37,
+          "general": 98,
+          "red_dot": 93,
+          "sniper_scope": 27,
+          "trigger": 44,
+          "x2_scope": 94,
+          "x4_scope": 94
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi 8 + DPI",
+          "dpi": 540,
+          "free_look": 100,
+          "general": 95,
+          "red_dot": 100,
+          "sniper_scope": 100,
+          "trigger": 57,
+          "x2_scope": 100,
+          "x4_scope": 100
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi 5 Plus",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 91,
+          "x2_scope": 98,
+          "x4_scope": 97,
+          "sniper_scope": 46,
+          "free_look": 48,
+          "trigger": 44
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi 5A",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 96,
+          "x2_scope": 97,
+          "x4_scope": 100,
+          "sniper_scope": 58,
+          "free_look": 32,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi Note 8T",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 89,
+          "x2_scope": 98,
+          "x4_scope": 100,
+          "sniper_scope": 54,
+          "free_look": 33,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi 4X",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 93,
+          "x2_scope": 98,
+          "x4_scope": 92,
+          "sniper_scope": 33,
+          "free_look": 44,
+          "trigger": 42
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi 8T",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 93,
+          "x2_scope": 96,
+          "x4_scope": 93,
+          "sniper_scope": 32,
+          "free_look": 40,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi 7A",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 91,
+          "x2_scope": 96,
+          "x4_scope": 98,
+          "sniper_scope": 26,
+          "free_look": 49,
+          "trigger": 53
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi 8A",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 95,
+          "x2_scope": 99,
+          "x4_scope": 91,
+          "sniper_scope": 36,
+          "free_look": 33,
+          "trigger": 45
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi 6A",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 88,
+          "x2_scope": 93,
+          "x4_scope": 92,
+          "sniper_scope": 42,
+          "free_look": 55,
+          "trigger": 49
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Redmi 6 Pro",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 88,
+          "x2_scope": 97,
+          "x4_scope": 93,
+          "sniper_scope": 28,
+          "free_look": 43,
+          "trigger": 48
+        }
+      ]
+    }
+  ]
+}

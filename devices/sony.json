@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "details": [
+        {
+          "name": "Sony Xperia L3",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 91,
+          "x2_scope": 91,
+          "x4_scope": 91,
+          "sniper_scope": 18,
+          "free_look": 33,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Sony Xperia XA1 Plus",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 88,
+          "x2_scope": 99,
+          "x4_scope": 94,
+          "sniper_scope": 25,
+          "free_look": 49,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Sony Xperia Z3",
+          "dpi": 0,
+          "general": 96,
+          "red_dot": 96,
+          "x2_scope": 92,
+          "x4_scope": 94,
+          "sniper_scope": 54,
+          "free_look": 37,
+          "trigger": 50
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Sony Xperia XZ1",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 92,
+          "x2_scope": 94,
+          "x4_scope": 95,
+          "sniper_scope": 46,
+          "free_look": 54,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Sony Xperia E5",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 89,
+          "x2_scope": 96,
+          "x4_scope": 99,
+          "sniper_scope": 46,
+          "free_look": 55,
+          "trigger": 51
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Sony Xperia Z5",
+          "dpi": 0,
+          "general": 94,
+          "red_dot": 97,
+          "x2_scope": 97,
+          "x4_scope": 97,
+          "sniper_scope": 38,
+          "free_look": 36,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Sony Xperia L1",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 90,
+          "x2_scope": 97,
+          "x4_scope": 93,
+          "sniper_scope": 39,
+          "free_look": 55,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Sony Xperia L2",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 96,
+          "x2_scope": 97,
+          "x4_scope": 90,
+          "sniper_scope": 30,
+          "free_look": 40,
+          "trigger": 52
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Sony Xperia M5",
+          "dpi": 0,
+          "general": 98,
+          "red_dot": 94,
+          "x2_scope": 99,
+          "x4_scope": 92,
+          "sniper_scope": 60,
+          "free_look": 52,
+          "trigger": 43
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Sony Xperia XA1",
+          "dpi": 0,
+          "general": 93,
+          "red_dot": 92,
+          "x2_scope": 100,
+          "x4_scope": 95,
+          "sniper_scope": 41,
+          "free_look": 36,
+          "trigger": 48
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Sony Xperia XA1 Ultra",
+          "dpi": 0,
+          "general": 95,
+          "red_dot": 90,
+          "x2_scope": 97,
+          "x4_scope": 95,
+          "sniper_scope": 18,
+          "free_look": 31,
+          "trigger": 46
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "name": "Sony Xperia XA",
+          "dpi": 0,
+          "general": 97,
+          "red_dot": 97,
+          "x2_scope": 99,
+          "x4_scope": 90,
+          "sniper_scope": 22,
+          "free_look": 55,
+          "trigger": 49
+        }
+      ]
+    }
+  ]
+}
