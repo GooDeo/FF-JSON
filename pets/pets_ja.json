@@ -1,0 +1,257 @@
+{
+  "data": [
+    {
+      "details": [
+        {
+          "image": "d0Cvqqy4/kactus.webp",
+          "name": "カクタス",
+          "thumb": "B6Q022zw/kactus.png",
+          "ability": "自己充足",
+          "ability_desc": "オーナーが6秒間動かないと、10 EP/sが回復します。100 EPが回復するか、動く/ジャンプすると回復が停止します。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "2jGYj91R/fang.webp",
+          "name": "ファング",
+          "thumb": "RFMMGkWd/fang.png",
+          "ability": "ウルフパクトファング",
+          "ability_desc": "仲間が敵に倒されるたびにEP/HPを受け取ります。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "VLh35x1T/hoot.webp",
+          "name": "フート",
+          "thumb": "prmM6RRf/hoot.png",
+          "ability": "千里眼",
+          "ability_desc": "アイテムとスキルのスキャンの範囲と期間を増加させます。スキルのクールダウンなし。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "4dX0rZbK/finn.webp",
+          "name": "フィン",
+          "thumb": "d14Jf5dY/finn.png",
+          "ability": "ダッシュスプラッシュ",
+          "ability_desc": "近くのプレイヤーが倒されるか排除されると、オーナーと仲間は移動速度が向上します。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "sXyFs5yg/zasil.webp",
+          "name": "ザシル",
+          "thumb": "3w9Mrdwj/zasil.png",
+          "ability": "エクストララック",
+          "ability_desc": "オーナーが吸入器/メディキット/リペアキットを消費するたびに、追加で1つを得る可能性があります。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "hjbBdpMm/avron.webp",
+          "name": "アヴロン",
+          "thumb": "FHLsKgty/avron.png",
+          "ability": "双眼鏡",
+          "ability_desc": "どの位置にいてもエリア内の敵の数を検出します。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "zvxYdvsX/flash.webp",
+          "name": "フラッシュ",
+          "thumb": "jSPtTxNv/flash.png",
+          "ability": "スチールシェル",
+          "ability_desc": "後方から受ける（FFナイフおよび弾丸からの）ダメージを軽減します。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "26xs638F/yeti.webp",
+          "name": "イエティ",
+          "thumb": "nLnbtvnc/yeti.png",
+          "ability": "フロストフォートレス",
+          "ability_desc": "爆発物から受けるダメージを軽減します。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "GmWwgZ5Y/agent.webp",
+          "name": "エージェントホップ",
+          "thumb": "GttbnvJs/agent-hop.png",
+          "ability": "バウンシングボーナス",
+          "ability_desc": "セーフゾーンが縮小するたびにEPを獲得します。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "RhFDZRY4/sensei.webp",
+          "name": "先生ティグ",
+          "thumb": "7hjrvdZp/sensei.png",
+          "ability": "敏捷な忍者",
+          "ability_desc": "敵のマークスキルの持続時間を短縮します。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "ZRjQmgVw/beanie.webp",
+          "name": "Dr.Beanie",
+          "thumb": "Prc5hV7f/beanie.png",
+          "ability": "ダッシーダックウォーク",
+          "ability_desc": "Dr.Beanineのように歩くときにより速く移動します。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "C5P9Gt8R/moony.webp",
+          "name": "ムーニー",
+          "thumb": "zfkNLxxg/moony.png",
+          "ability": "超常的な保護",
+          "ability_desc": "対話のカウントダウン中に保護されます。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "28yskkph/dreki.webp",
+          "name": "ドレキ",
+          "thumb": "bvfYSD8K/dreki.png",
+          "ability": "ドラゴングレア",
+          "ability_desc": "壁の後ろで回復している敵が露わになります。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "3RHhNPj7/beaston.webp",
+          "name": "ビーストン",
+          "thumb": "0j4PkrcX/beaston.png",
+          "ability": "ヘルピングハンド",
+          "ability_desc": "ビーストンがあなたの側にいると、投げるときにより大きな力を得ます！"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "02NszGS6/rockie.webp",
+          "name": "ロッキー",
+          "thumb": "QNz3W9J0/rockie.png",
+          "ability": "クールを保つ",
+          "ability_desc": "所有者のアクティブなスキルのクールダウン時間を短縮します。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "W1Fcn2XT/waggor.webp",
+          "name": "Mr.Waggor",
+          "thumb": "mgfW8vq9/waggor.png",
+          "ability": "スムースグルー",
+          "ability_desc": "Clash SquadでGloo Wallグレネードを生成し、Battle RoyaleでGloo Maker EXPを提供します。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "0yJhSVyN/falco.webp",
+          "name": "ファルコ",
+          "thumb": "QMg8Q8dV/falco.png",
+          "ability": "スカイラインスプリー",
+          "ability_desc": "オーナーがパラシュートで降下している間、敵のオートエイムを無効にします。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "kGXkt92r/ottero.webp",
+          "name": "オッテロ",
+          "thumb": "VLSz7Bkx/ottero.png",
+          "ability": "ダブルブラバー",
+          "ability_desc": "Treatment PistolまたはMed Kitを使用すると、受信者も一部のEPを回復します。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "PrFkYLbS/robo.webp",
+          "name": "ロボ",
+          "thumb": "j5grcL0q/robo.png",
+          "ability": "ウォールエンフォースメント",
+          "ability_desc": "グルーワールにシールドを追加します。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "sfTFCBL3/spirit.webp",
+          "name": "スピリットフォックス",
+          "thumb": "QdQGP6Gy/spirit.png",
+          "ability": "ウェルフェッド",
+          "ability_desc": "Med Kitを使用するときに追加のHPを回復します。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "VNXyxDxh/shiba.webp",
+          "name": "シバ",
+          "thumb": "fT0h7zHZ/shiba.png",
+          "ability": "マッシュルームセンス",
+          "ability_desc": "シバは周囲のキノコを見つけ、ミニマップにマークします。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "Bv9kB2jB/panda.webp",
+          "name": "パンダ",
+          "thumb": "43GZNDQG/panda.png",
+          "ability": "パンダの祝福",
+          "ability_desc": "パンダにはさまざまな驚きがあります！"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "q7sYbgnV/night.webp",
+          "name": "ナイトパンサー",
+          "thumb": "SNwkH2XJ/night.png",
+          "ability": "ウェイトトレーニング",
+          "ability_desc": "パンサーがウェイトトレーニングをするたびに、オーナーはゲーム内でより多くのインベントリスペースを得ることができます。"
+        }
+      ]
+    }
+  ]
+}

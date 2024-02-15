@@ -1,0 +1,257 @@
+{
+  "data": [
+    {
+      "details": [
+        {
+          "image": "d0Cvqqy4/kactus.webp",
+          "name": "Kactus",
+          "thumb": "B6Q022zw/kactus.png",
+          "ability": "Auto-Suficiente",
+          "ability_desc": "Quando o proprietário fica parado por 6s, eles irão restaurar 10EP/s. A restauração para assim que 100 EP forem restaurados ou ao se mover/pular."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "2jGYj91R/fang.webp",
+          "name": "Fang",
+          "thumb": "RFMMGkWd/fang.png",
+          "ability": "Pacto do Lobo",
+          "ability_desc": "Receba EP/HP sempre que um companheiro de equipe for derrubado por um inimigo."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "VLh35x1T/hoot.webp",
+          "name": "Hoot",
+          "thumb": "prmM6RRf/hoot.png",
+          "ability": "Visão de Longo Alcance",
+          "ability_desc": "Aumenta o alcance e a duração da varredura de itens e habilidades. Sem tempo de recarga para habilidades."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "4dX0rZbK/finn.webp",
+          "name": "Finn",
+          "thumb": "d14Jf5dY/finn.png",
+          "ability": "Impacto Veloz",
+          "ability_desc": "Quando um jogador próximo é derrubado ou eliminado, o proprietário e os companheiros de equipe recebem um impulso de velocidade de movimento."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "sXyFs5yg/zasil.webp",
+          "name": "Zasil",
+          "thumb": "3w9Mrdwj/zasil.png",
+          "ability": "Sorte Extra",
+          "ability_desc": "Cada vez que o proprietário consome um Inalador/Kit Médico/Kit de Reparo, há a possibilidade de obter um adicional."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "hjbBdpMm/avron.webp",
+          "name": "Avron",
+          "thumb": "FHLsKgty/avron.png",
+          "ability": "Dinóculos",
+          "ability_desc": "Detecta o número de inimigos em uma área, não importa a posição deles."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "zvxYdvsX/flash.webp",
+          "name": "Flash",
+          "thumb": "jSPtTxNv/flash.png",
+          "ability": "Casca de Aço",
+          "ability_desc": "Reduz o dano (de Faca FF e balas) recebido por trás."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "26xs638F/yeti.webp",
+          "name": "Yeti",
+          "thumb": "nLnbtvnc/yeti.png",
+          "ability": "Fortaleza Gélida",
+          "ability_desc": "Reduz o dano recebido de explosivos."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "GmWwgZ5Y/agent.webp",
+          "name": "Agente Hop",
+          "thumb": "GttbnvJs/agent-hop.png",
+          "ability": "Bônus de Quicada",
+          "ability_desc": "Ganha EP cada vez que a Zona Segura encolhe."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "RhFDZRY4/sensei.webp",
+          "name": "Sensei Tig",
+          "thumb": "7hjrvdZp/sensei.png",
+          "ability": "Ninja Ágil",
+          "ability_desc": "Reduz a duração das habilidades de marcação de inimigos."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "ZRjQmgVw/beanie.webp",
+          "name": "Dr. Beanie",
+          "thumb": "Prc5hV7f/beanie.png",
+          "ability": "Passeio Rápido",
+          "ability_desc": "Movimente-se mais rápido quando você anda como o Dr. Beanie."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "C5P9Gt8R/moony.webp",
+          "name": "Moony",
+          "thumb": "zfkNLxxg/moony.png",
+          "ability": "Proteção Paranormal",
+          "ability_desc": "Proteção durante a contagem regressiva de interação."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "28yskkph/dreki.webp",
+          "name": "Dreki",
+          "thumb": "bvfYSD8K/dreki.png",
+          "ability": "Olhar de Dragão",
+          "ability_desc": "Inimigos se recuperando atrás de uma parede serão expostos."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "3RHhNPj7/beaston.webp",
+          "name": "Beaston",
+          "thumb": "0j4PkrcX/beaston.png",
+          "ability": "Mão Amiga",
+          "ability_desc": "Com Beaston ao seu lado, você ganha maior força em seus arremessos!"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "02NszGS6/rockie.webp",
+          "name": "Rockie",
+          "thumb": "QNz3W9J0/rockie.png",
+          "ability": "Mantenha a Calma",
+          "ability_desc": "Reduz o tempo de recarga das habilidades ativas para seu proprietário."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "W1Fcn2XT/waggor.webp",
+          "name": "Sr. Waggor",
+          "thumb": "mgfW8vq9/waggor.png",
+          "ability": "Gloo Suave",
+          "ability_desc": "Produz granadas de Parede de Gloo no Clash Squad e fornece EXP de Fabricante de Gloo no Battle Royale."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "0yJhSVyN/falco.webp",
+          "name": "Falco",
+          "thumb": "QMg8Q8dV/falco.png",
+          "ability": "Folia no Céu",
+          "ability_desc": "Desativa o mira automática do inimigo enquanto o proprietário está de paraquedas."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "kGXkt92r/ottero.webp",
+          "name": "Ottero",
+          "thumb": "VLSz7Bkx/ottero.png",
+          "ability": "Blubber Duplo",
+          "ability_desc": "Ao usar a Pistola de Tratamento ou o Kit Médico, o receptor recuperará algum EP também."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "PrFkYLbS/robo.webp",
+          "name": "Robô",
+          "thumb": "j5grcL0q/robo.png",
+          "ability": "Aplicação de Parede",
+          "ability_desc": "Adiciona um escudo à parede de gloo."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "sfTFCBL3/spirit.webp",
+          "name": "Raposa Espiritual",
+          "thumb": "QdQGP6Gy/spirit.png",
+          "ability": "Bem Nutrido",
+          "ability_desc": "Restaura HP extra ao usar um Kit Médico."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "VNXyxDxh/shiba.webp",
+          "name": "Shiba",
+          "thumb": "fT0h7zHZ/shiba.png",
+          "ability": "Sentido de Cogumelo",
+          "ability_desc": "Shiba encontrará os cogumelos ao redor e os marcará no minimapa."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "Bv9kB2jB/panda.webp",
+          "name": "Panda",
+          "thumb": "43GZNDQG/panda.png",
+          "ability": "Bênção do Panda",
+          "ability_desc": "O Panda tem todo tipo de surpresas!"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "q7sYbgnV/pantera-noturna.webp",
+          "name": "Pantera Noturna",
+          "thumb": "SNwkH2XJ/night.png",
+          "ability": "Treinamento de Peso",
+          "ability_desc": "Cada vez que a pantera faz um treinamento de peso, o proprietário pode obter mais espaço no inventário no jogo."
+        }
+      ]
+    }
+  ]
+}

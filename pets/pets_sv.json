@@ -1,0 +1,257 @@
+{
+  "data": [
+    {
+      "details": [
+        {
+          "image": "d0Cvqqy4/kactus.webp",
+          "name": "Kactus",
+          "thumb": "B6Q022zw/kactus.png",
+          "ability": "Självförsörjande",
+          "ability_desc": "När ägaren står stilla i 6s kommer de att återställa 10 EP/s. Återställningen avbryts när 100 EP har återställts eller vid rörelse/hopp."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "2jGYj91R/fang.webp",
+          "name": "Fang",
+          "thumb": "RFMMGkWd/fang.png",
+          "ability": "Vargpaktffang",
+          "ability_desc": "Få EP/HP varje gång en lagkamrat slås ner av en fiende."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "VLh35x1T/hoot.webp",
+          "name": "Hoot",
+          "thumb": "prmM6RRf/hoot.png",
+          "ability": "Långsiktig syn",
+          "ability_desc": "Ökar räckvidden och varaktigheten för skanning av föremål och färdigheter. Ingen färdighetsnedkylning."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "4dX0rZbK/finn.webp",
+          "name": "Finn",
+          "thumb": "d14Jf5dY/finn.png",
+          "ability": "Dash Splash",
+          "ability_desc": "När en närliggande spelare slås ner eller elimineras får ägaren och lagkamraterna en hastighetsökning."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "sXyFs5yg/zasil.webp",
+          "name": "Zasil",
+          "thumb": "3w9Mrdwj/zasil.png",
+          "ability": "Extra tur",
+          "ability_desc": "Varje gång ägaren konsumerar en Inhalator/Med Kit/Repair Kit finns det möjlighet att få en extra."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "hjbBdpMm/avron.webp",
+          "name": "Avron",
+          "thumb": "FHLsKgty/avron.png",
+          "ability": "Dinokulär",
+          "ability_desc": "Upptäck antalet fiender i ett område, oavsett vilken position de befinner sig i."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "zvxYdvsX/flash.webp",
+          "name": "Flash",
+          "thumb": "jSPtTxNv/flash.png",
+          "ability": "Stålskal",
+          "ability_desc": "Minskar skadan (från FF-kniv och kulor) som tas från baksidan."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "26xs638F/yeti.webp",
+          "name": "Yeti",
+          "thumb": "nLnbtvnc/yeti.png",
+          "ability": "Frostfäste",
+          "ability_desc": "Minskar skadan som tas från explosioner."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "GmWwgZ5Y/agent.webp",
+          "name": "Agent Hop",
+          "thumb": "GttbnvJs/agent-hop.png",
+          "ability": "Studsbonus",
+          "ability_desc": "Få EP varje gång Safe Zone krymper."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "RhFDZRY4/sensei.webp",
+          "name": "Sensei Tig",
+          "thumb": "7hjrvdZp/sensei.png",
+          "ability": "Smidig ninja",
+          "ability_desc": "Minskar varaktigheten av fienders man-marking-färdigheter."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "ZRjQmgVw/beanie.webp",
+          "name": "DR.Beanie",
+          "thumb": "Prc5hV7f/beanie.png",
+          "ability": "Dashy Duckwalk",
+          "ability_desc": "Rör dig snabbare när du går som Dr.Beanie."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "C5P9Gt8R/moony.webp",
+          "name": "Moony",
+          "thumb": "zfkNLxxg/moony.png",
+          "ability": "Paranormalt skydd",
+          "ability_desc": "Skydd under interaktionsnedräkningen."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "28yskkph/dreki.webp",
+          "name": "Dreki",
+          "thumb": "bvfYSD8K/dreki.png",
+          "ability": "Drakblick",
+          "ability_desc": "Motståndare som återhämtar sig bakom en vägg kommer att avslöjas."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "3RHhNPj7/beaston.webp",
+          "name": "Beaston",
+          "thumb": "0j4PkrcX/beaston.png",
+          "ability": "Hjälpande hand",
+          "ability_desc": "Med Beaston vid din sida får du större styrka i dina kast!"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "02NszGS6/rockie.webp",
+          "name": "Rockie",
+          "thumb": "QNz3W9J0/rockie.png",
+          "ability": "Håll dig cool",
+          "ability_desc": "Minska nedkörtiden för aktiva färdigheter för dess ägare."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "W1Fcn2XT/waggor.webp",
+          "name": "MR.Waggor",
+          "thumb": "mgfW8vq9/waggor.png",
+          "ability": "Jämn Gloo",
+          "ability_desc": "Producerar Gloo Wall-granater i Clash Squad och ger Gloo Maker EXP i Battle Royale."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "0yJhSVyN/falco.webp",
+          "name": "Falco",
+          "thumb": "QMg8Q8dV/falco.png",
+          "ability": "Skyline Spree",
+          "ability_desc": "Inaktiverar fiendens auto-riktfunktion medan ägaren fallskärmshoppar."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "kGXkt92r/ottero.webp",
+          "name": "Ottero",
+          "thumb": "VLSz7Bkx/ottero.png",
+          "ability": "Dubbel Blubber",
+          "ability_desc": "När du använder Treatment Pistol eller Med Kit kommer mottagaren att återhämta sig lite EP också."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "PrFkYLbS/robo.webp",
+          "name": "Robo",
+          "thumb": "j5grcL0q/robo.png",
+          "ability": "Väggförstärkning",
+          "ability_desc": "Lägger till en sköld på gloo-väggen."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "sfTFCBL3/spirit.webp",
+          "name": "Spirit Fox",
+          "thumb": "QdQGP6Gy/spirit.png",
+          "ability": "Välmatad",
+          "ability_desc": "Återställ extra HP när du använder en Med Kit."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "VNXyxDxh/shiba.webp",
+          "name": "Shiba",
+          "thumb": "fT0h7zHZ/shiba.png",
+          "ability": "Mushroom Sense",
+          "ability_desc": "Shiba kommer att hitta de omgivande svamparna och markera dem på minikartan."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "Bv9kB2jB/panda.webp",
+          "name": "Panda",
+          "thumb": "43GZNDQG/panda.png",
+          "ability": "Pandas välsignelse",
+          "ability_desc": "Pandan har alla möjliga överraskningar!"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "q7sYbgnV/night.webp",
+          "name": "Night Panther",
+          "thumb": "SNwkH2XJ/night.png",
+          "ability": "Viktträning",
+          "ability_desc": "Varje gång pantern gör viktträning kan ägaren få mer inventarisutrymme i spelet."
+        }
+      ]
+    }
+  ]
+}

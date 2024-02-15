@@ -1,0 +1,257 @@
+{
+  "data": [
+    {
+      "details": [
+        {
+          "image": "d0Cvqqy4/kactus.webp",
+          "name": "كاكتوس",
+          "thumb": "B6Q022zw/kactus.png",
+          "ability": "ذاتية الاكتفاء",
+          "ability_desc": "عندما يظل المالك ثابتًا لمدة 6 ثوانٍ ، سيستعيدون 10 نقاط طاقة في الثانية. تتوقف الاستعادة عندما يتم استعادة 100 نقطة طاقة أو عند الحركة/القفز."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "2jGYj91R/fang.webp",
+          "name": "فانغ",
+          "thumb": "RFMMGkWd/fang.png",
+          "ability": "عهد الذئب",
+          "ability_desc": "استلام نقاط الطاقة/الصحة عندما يتم إسقاط أحد أفراد الفريق بواسطة عدو."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "VLh35x1T/hoot.webp",
+          "name": "هوت",
+          "thumb": "prmM6RRf/hoot.png",
+          "ability": "ناظر بعيد",
+          "ability_desc": "يزيد من نطاق ومدة فحص العناصر والمهارات. بدون وقت تبريد للمهارة."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "4dX0rZbK/finn.webp",
+          "name": "فين",
+          "thumb": "d14Jf5dY/finn.png",
+          "ability": "اندفاع متراكب",
+          "ability_desc": "عندما يتم إسقاط لاعب قريب أو القضاء عليه، سيحصل المالك وفريقه على زيادة في سرعة الحركة."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "sXyFs5yg/zasil.webp",
+          "name": "زاسيل",
+          "thumb": "3w9Mrdwj/zasil.png",
+          "ability": "حظ إضافي",
+          "ability_desc": "في كل مرة يستهلك فيها المالك محقنة/طقم طبي/طقم إصلاح، هناك إمكانية للحصول على واحد إضافي."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "hjbBdpMm/avron.webp",
+          "name": "أفرون",
+          "thumb": "FHLsKgty/avron.png",
+          "ability": "المناظير الثنائية",
+          "ability_desc": "كشف عدد الأعداء في منطقة معينة، بغض النظر عن مكانهم."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "zvxYdvsX/flash.webp",
+          "name": "فلاش",
+          "thumb": "jSPtTxNv/flash.png",
+          "ability": "قذيفة فولاذية",
+          "ability_desc": "تقليل الضرر (من سكين FF والرصاص) الذي يتم تلقيه من الخلف."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "26xs638F/yeti.webp",
+          "name": "يتي",
+          "thumb": "nLnbtvnc/yeti.png",
+          "ability": "قلعة الصقيع",
+          "ability_desc": "تقليل الضرر الذي يتم تلقيه من القنابل الناسفة."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "GmWwgZ5Y/agent.webp",
+          "name": "وكيل هوب",
+          "thumb": "GttbnvJs/agent-hop.png",
+          "ability": "مكافأة القفز",
+          "ability_desc": "اكتسب نقاط الطاقة في كل مرة يتقلص فيها منطقة الأمان."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "RhFDZRY4/sensei.webp",
+          "name": "سينسي تيج",
+          "thumb": "7hjrvdZp/sensei.png",
+          "ability": "نينجا نشيط",
+          "ability_desc": "تقليل مدة مهارات العلامة الرجلية للأعداء."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "ZRjQmgVw/beanie.webp",
+          "name": "الدكتور بيني",
+          "thumb": "Prc5hV7f/beanie.png",
+          "ability": "السير البطيء السريع",
+          "ability_desc": "التحرك بسرعة عندما تسير مثل الدكتور بيني."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "C5P9Gt8R/moony.webp",
+          "name": "موني",
+          "thumb": "zfkNLxxg/moony.png",
+          "ability": "حماية خارقة",
+          "ability_desc": "الحماية أثناء عد الوقت للتفاعل."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "28yskkph/dreki.webp",
+          "name": "دريكي",
+          "thumb": "bvfYSD8K/dreki.png",
+          "ability": "تجاهل التنين",
+          "ability_desc": "يتعرض الخصوم الذين يتعافون خلف جدار للفحص."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "3RHhNPj7/beaston.webp",
+          "name": "بيستون",
+          "thumb": "0j4PkrcX/beaston.png",
+          "ability": "يد مساعدة",
+          "ability_desc": "مع بيستون إلى جانبك، تحصل على قوة أكبر في رميك!"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "02NszGS6/rockie.webp",
+          "name": "روكي",
+          "thumb": "QNz3W9J0/rockie.png",
+          "ability": "ابقى باردًا",
+          "ability_desc": "تقليل وقت التبريد للمهارات النشطة لصاحبه."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "W1Fcn2XT/waggor.webp",
+          "name": "السيد واغور",
+          "thumb": "mgfW8vq9/waggor.png",
+          "ability": "جدار زجاجي سلس",
+          "ability_desc": "ينتج قنابل جدار الزجاج في كلاش سكواد، ويوفر خبرة صانع الزجاج في باتل رويال."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "0yJhSVyN/falco.webp",
+          "name": "فالكو",
+          "thumb": "QMg8Q8dV/falco.png",
+          "ability": "هجوم السماء",
+          "ability_desc": "تعطيل توجيه العدو التلقائي أثناء قفز صاحبه بالمظلة."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "kGXkt92r/ottero.webp",
+          "name": "أوتيرو",
+          "thumb": "VLSz7Bkx/ottero.png",
+          "ability": "دهون مزدوجة",
+          "ability_desc": "عند استخدام مسدس العلاج أو طقم الإسعاف، سيستعيد الحاصل على العلاج أيضًا بعض نقاط الطاقة."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "PrFkYLbS/robo.webp",
+          "name": "روبو",
+          "thumb": "j5grcL0q/robo.png",
+          "ability": "تعزيز الجدار",
+          "ability_desc": "إضافة درع إلى جدار الزجاج."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "sfTFCBL3/spirit.webp",
+          "name": "ثعلب الروح",
+          "thumb": "QdQGP6Gy/spirit.png",
+          "ability": "مغذي جيدًا",
+          "ability_desc": "استعادة نقاط الصحة الإضافية عند استخدام طقم الإسعاف."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "VNXyxDxh/shiba.webp",
+          "name": "شيبا",
+          "thumb": "fT0h7zHZ/shiba.png",
+          "ability": "حاسة الفطر",
+          "ability_desc": "شيبا سيجد الفطرات المحيطة ويميزها على الخريطة الصغيرة."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "Bv9kB2jB/panda.webp",
+          "name": "باندا",
+          "thumb": "43GZNDQG/panda.png",
+          "ability": "بركة الباندا",
+          "ability_desc": "الباندا لديها جميع أنواع المفاجآت!"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "q7sYbgnV/night.webp",
+          "name": "نايت بانثر",
+          "thumb": "SNwkH2XJ/night.png",
+          "ability": "تدريب الأثقال",
+          "ability_desc": "في كل مرة يقوم فيها النمر بتدريب الأثقال، يمكن للمالك الحصول على مزيد من مساحة الجناح في اللعبة."
+        }
+      ]
+    }
+  ]
+}

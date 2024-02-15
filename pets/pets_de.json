@@ -1,0 +1,257 @@
+{
+  "data": [
+    {
+      "details": [
+        {
+          "image": "d0Cvqqy4/kactus.webp",
+          "name": "Kaktus",
+          "thumb": "B6Q022zw/kactus.png",
+          "ability": "Selbstversorgend",
+          "ability_desc": "Wenn der Besitzer 6 Sekunden lang still steht, stellt er 10 EP/s wieder her. Die Wiederherstellung stoppt, sobald 100 EP wiederhergestellt sind oder bei Bewegung/Sprung."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "2jGYj91R/fang.webp",
+          "name": "Fang",
+          "thumb": "RFMMGkWd/fang.png",
+          "ability": "Wolfspakt",
+          "ability_desc": "Erhalte EP/HP, wenn ein Teamkollege von einem Feind niedergeschlagen wird."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "VLh35x1T/hoot.webp",
+          "name": "Hoot",
+          "thumb": "prmM6RRf/hoot.png",
+          "ability": "Weitsichtig",
+          "ability_desc": "Erhöht die Reichweite und Dauer des Scannens von Gegenständen und Fähigkeiten. Keine Fähigkeitsabklingzeit."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "4dX0rZbK/finn.webp",
+          "name": "Finn",
+          "thumb": "d14Jf5dY/finn.png",
+          "ability": "Dash Splash",
+          "ability_desc": "Wenn ein Spieler in der Nähe niedergeschlagen oder eliminiert wird, erhalten der Besitzer und Teamkollegen einen Bewegungsgeschwindigkeitsboost."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "sXyFs5yg/zasil.webp",
+          "name": "Zasil",
+          "thumb": "3w9Mrdwj/zasil.png",
+          "ability": "Extra Glück",
+          "ability_desc": "Jedes Mal, wenn der Besitzer einen Inhalator/Medkit/Reparaturset konsumiert, besteht die Möglichkeit, ein zusätzliches zu erhalten."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "hjbBdpMm/avron.webp",
+          "name": "Avron",
+          "thumb": "FHLsKgty/avron.png",
+          "ability": "Dinokulare",
+          "ability_desc": "Erfasse die Anzahl der Feinde in einem Bereich, egal in welcher Position sie sich befinden."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "zvxYdvsX/flash.webp",
+          "name": "Flash",
+          "thumb": "jSPtTxNv/flash.png",
+          "ability": "Stahlschale",
+          "ability_desc": "Reduziert den Schaden (von FF-Messer und Kugeln), der von hinten genommen wird."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "26xs638F/yeti.webp",
+          "name": "Yeti",
+          "thumb": "nLnbtvnc/yeti.png",
+          "ability": "Frostfestung",
+          "ability_desc": "Reduziert den durch Explosionen verursachten Schaden."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "GmWwgZ5Y/agent.webp",
+          "name": "Agent Hop",
+          "thumb": "GttbnvJs/agent-hop.png",
+          "ability": "Hüpfbonus",
+          "ability_desc": "Erhalte EP jedes Mal, wenn sich die sichere Zone verkleinert."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "RhFDZRY4/sensei.webp",
+          "name": "Sensei Tig",
+          "thumb": "7hjrvdZp/sensei.png",
+          "ability": "Flinker Ninja",
+          "ability_desc": "Reduziert die Dauer von man-marking Fähigkeiten der Feinde."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "ZRjQmgVw/beanie.webp",
+          "name": "DR.Beanie",
+          "thumb": "Prc5hV7f/beanie.png",
+          "ability": "Dashy Duckwalk",
+          "ability_desc": "Beweg dich schneller, wenn du dich wie Dr.Beanine bewegst."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "C5P9Gt8R/moony.webp",
+          "name": "Moony",
+          "thumb": "zfkNLxxg/moony.png",
+          "ability": "Paranormaler Schutz",
+          "ability_desc": "Schutz während des Interaktionscountdowns."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "28yskkph/dreki.webp",
+          "name": "Dreki",
+          "thumb": "bvfYSD8K/dreki.png",
+          "ability": "Drachenstarren",
+          "ability_desc": "Gegner, die sich hinter einer Wand erholen, werden aufgedeckt."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "3RHhNPj7/beaston.webp",
+          "name": "Beaston",
+          "thumb": "0j4PkrcX/beaston.png",
+          "ability": "Hilfreiche Hand",
+          "ability_desc": "Mit Beaston an deiner Seite erhältst du mehr Stärke in deinen Würfen!"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "02NszGS6/rockie.webp",
+          "name": "Rockie",
+          "thumb": "QNz3W9J0/rockie.png",
+          "ability": "Bleib cool",
+          "ability_desc": "Reduziere die Abklingzeit aktiver Fähigkeiten für den Besitzer."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "W1Fcn2XT/waggor.webp",
+          "name": "MR.Waggor",
+          "thumb": "mgfW8vq9/waggor.png",
+          "ability": "Glatter Gloo",
+          "ability_desc": "Produziert Gloo Wall Granaten in Clash Squad und bietet Gloo Maker EXP in Battle Royale."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "0yJhSVyN/falco.webp",
+          "name": "Falco",
+          "thumb": "QMg8Q8dV/falco.png",
+          "ability": "Skyline Spree",
+          "ability_desc": "Deaktiviert den automatischen Zielmodus des Feindes, während der Besitzer mit dem Fallschirm springt."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "kGXkt92r/ottero.webp",
+          "name": "Ottero",
+          "thumb": "VLSz7Bkx/ottero.png",
+          "ability": "Doppeltes Blubbern",
+          "ability_desc": "Wenn die Behandlungspistole oder das Med Kit verwendet wird, erholt sich der Empfänger auch von einigen EP."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "PrFkYLbS/robo.webp",
+          "name": "Robo",
+          "thumb": "j5grcL0q/robo.png",
+          "ability": "Wandverstärkung",
+          "ability_desc": "Fügt der Gloo Wall einen Schild hinzu."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "sfTFCBL3/spirit.webp",
+          "name": "Spirit Fox",
+          "thumb": "QdQGP6Gy/spirit.png",
+          "ability": "Gut genährt",
+          "ability_desc": "Stellt zusätzliche HP wieder her, wenn ein Med Kit verwendet wird."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "VNXyxDxh/shiba.webp",
+          "name": "Shiba",
+          "thumb": "fT0h7zHZ/shiba.png",
+          "ability": "Mushroom Sense",
+          "ability_desc": "Shiba wird die umliegenden Pilze finden und auf der Minikarte markieren."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "Bv9kB2jB/panda.webp",
+          "name": "Panda",
+          "thumb": "43GZNDQG/panda.png",
+          "ability": "Pandas Segen",
+          "ability_desc": "Der Panda hat allerlei Überraschungen!"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "q7sYbgnV/night.webp",
+          "name": "Night Panther",
+          "thumb": "SNwkH2XJ/night.png",
+          "ability": "Gewichtstraining",
+          "ability_desc": "Jedes Mal, wenn der Panther Gewichtstraining macht, kann der Besitzer mehr Inventarplatz im Spiel bekommen."
+        }
+      ]
+    }
+  ]
+}

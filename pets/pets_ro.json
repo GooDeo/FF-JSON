@@ -1,0 +1,257 @@
+{
+  "data": [
+    {
+      "details": [
+        {
+          "image": "d0Cvqqy4/kactus.webp",
+          "name": "Kactus",
+          "thumb": "B6Q022zw/kactus.png",
+          "ability": "Auto-suficient",
+          "ability_desc": "Când proprietarul stă nemișcat timp de 6 secunde, își va restaura 10 EP/s. Restaurarea se oprește odată ce s-au restaurat 100 EP sau în cazul mișcării/săriturii."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "2jGYj91R/fang.webp",
+          "name": "Fang",
+          "thumb": "RFMMGkWd/fang.png",
+          "ability": "Pactul Lupului Fang",
+          "ability_desc": "Primește EP/HP ori de câte ori un coechipier este doborât de un dușman."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "VLh35x1T/hoot.webp",
+          "name": "Hoot",
+          "thumb": "prmM6RRf/hoot.png",
+          "ability": "Vedere clară",
+          "ability_desc": "Crește gama și durata scanării obiectelor și abilităților. Fără timp de recuperare pentru abilitate."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "4dX0rZbK/finn.webp",
+          "name": "Finn",
+          "thumb": "d14Jf5dY/finn.png",
+          "ability": "Sprint Splash",
+          "ability_desc": "Când un jucător din apropiere este doborât sau eliminat, proprietarul și coechipierii vor primi un impuls de viteză de deplasare."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "sXyFs5yg/zasil.webp",
+          "name": "Zasil",
+          "thumb": "3w9Mrdwj/zasil.png",
+          "ability": "Noroc Suplimentar",
+          "ability_desc": "De fiecare dată când proprietarul consumă un inhalator/kit de prim ajutor/kit de reparații, există posibilitatea de a primi unul suplimentar."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "hjbBdpMm/avron.webp",
+          "name": "Avron",
+          "thumb": "FHLsKgty/avron.png",
+          "ability": "Dinoculars",
+          "ability_desc": "Detectează numărul de dușmani dintr-o zonă, indiferent de poziția lor."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "zvxYdvsX/flash.webp",
+          "name": "Flash",
+          "thumb": "jSPtTxNv/flash.png",
+          "ability": "Carapace de Oțel",
+          "ability_desc": "Reduce daunele (de la cuțitul FF și gloanțe) primite din spate."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "26xs638F/yeti.webp",
+          "name": "Yeti",
+          "thumb": "nLnbtvnc/yeti.png",
+          "ability": "Fortăreața Gheții",
+          "ability_desc": "Reduce daunele primite de la explozii."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "GmWwgZ5Y/agent.webp",
+          "name": "Agent Hop",
+          "thumb": "GttbnvJs/agent-hop.png",
+          "ability": "Bonus Săritură",
+          "ability_desc": "Primește EP de fiecare dată când Zona de Siguranță se micșorează."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "RhFDZRY4/sensei.webp",
+          "name": "Sensei Tig",
+          "thumb": "7hjrvdZp/sensei.png",
+          "ability": "Ninja Agil",
+          "ability_desc": "Reduce durata abilităților de marcări ale dușmanilor."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "ZRjQmgVw/beanie.webp",
+          "name": "DR.Beanie",
+          "thumb": "Prc5hV7f/beanie.png",
+          "ability": "Pas Sprint",
+          "ability_desc": "Se deplasează mai rapid când te deplasezi ca Dr.Beanine."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "C5P9Gt8R/moony.webp",
+          "name": "Moony",
+          "thumb": "zfkNLxxg/moony.png",
+          "ability": "Protecție Paranormală",
+          "ability_desc": "Protecție în timpul numărătoarei inverse de interacțiune."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "28yskkph/dreki.webp",
+          "name": "Dreki",
+          "thumb": "bvfYSD8K/dreki.png",
+          "ability": "Privire de Dragon",
+          "ability_desc": "Adversarii care se recuperează în spatele unui perete vor fi expuși."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "3RHhNPj7/beaston.webp",
+          "name": "Beaston",
+          "thumb": "0j4PkrcX/beaston.png",
+          "ability": "Mână de Ajutor",
+          "ability_desc": "Cu Beaston alături, obține o forță mai mare în aruncările tale!"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "02NszGS6/rockie.webp",
+          "name": "Rockie",
+          "thumb": "QNz3W9J0/rockie.png",
+          "ability": "Stai Chill",
+          "ability_desc": "Reduce timpul de recuperare al abilităților active pentru proprietarul său."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "W1Fcn2XT/waggor.webp",
+          "name": "MR.Waggor",
+          "thumb": "mgfW8vq9/waggor.png",
+          "ability": "Gloo Lin",
+          "ability_desc": "Produce grenade Gloo Wall în Clash Squad și oferă experiență Gloo Maker în Battle Royale."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "0yJhSVyN/falco.webp",
+          "name": "Falco",
+          "thumb": "QMg8Q8dV/falco.png",
+          "ability": "Seria Skyline",
+          "ability_desc": "Dezactivează țintirea automată a inamicului în timp ce proprietarul se parașutează."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "kGXkt92r/ottero.webp",
+          "name": "Ottero",
+          "thumb": "VLSz7Bkx/ottero.png",
+          "ability": "Blubber Dublu",
+          "ability_desc": "La utilizarea pistolului de tratament sau a trusei medicale, receptorul va recupera și puțin EP."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "PrFkYLbS/robo.webp",
+          "name": "Robo",
+          "thumb": "j5grcL0q/robo.png",
+          "ability": "Aplicare Zid",
+          "ability_desc": "Adaugă un scut la zidul de gloo."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "sfTFCBL3/spirit.webp",
+          "name": "Spirit Fox",
+          "thumb": "QdQGP6Gy/spirit.png",
+          "ability": "Bine Hrănit",
+          "ability_desc": "Restaurează HP suplimentar la utilizarea unei truse medicale."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "VNXyxDxh/shiba.webp",
+          "name": "Shiba",
+          "thumb": "fT0h7zHZ/shiba.png",
+          "ability": "Simțul Ciupercilor",
+          "ability_desc": "Shiba va găsi ciupercile din jur și le va marca pe mini-hartă."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "Bv9kB2jB/panda.webp",
+          "name": "Panda",
+          "thumb": "43GZNDQG/panda.png",
+          "ability": "Binecuvântarea Pandei",
+          "ability_desc": "Panda are tot felul de surprize!"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "q7sYbgnV/night.webp",
+          "name": "Pantera Nocturnă",
+          "thumb": "SNwkH2XJ/night.png",
+          "ability": "Antrenament de Greutate",
+          "ability_desc": "De fiecare dată când pantera face antrenament de greutate, proprietarul poate obține mai mult spațiu în inventar în joc."
+        }
+      ]
+    }
+  ]
+}

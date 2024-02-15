@@ -1,0 +1,257 @@
+{
+  "data": [
+    {
+      "details": [
+        {
+          "image": "d0Cvqqy4/kactus.webp",
+          "name": "Kactus",
+          "thumb": "B6Q022zw/kactus.png",
+          "ability": "Zelfvoorzienend",
+          "ability_desc": "Wanneer de eigenaar 6s stil blijft staan, zal deze 10EP/s herstellen. Herstel stopt zodra 100 EP is hersteld of bij beweging/springen."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "2jGYj91R/fang.webp",
+          "name": "Fang",
+          "thumb": "RFMMGkWd/fang.png",
+          "ability": "Wolf Pactffang",
+          "ability_desc": "Ontvang EP/HP telkens wanneer een teamgenoot wordt neergeslagen door een vijand."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "VLh35x1T/hoot.webp",
+          "name": "Hoot",
+          "thumb": "prmM6RRf/hoot.png",
+          "ability": "Verziendheid",
+          "ability_desc": "Verhoogt het bereik en de duur van het scannen van voorwerpen en vaardigheden. Geen vaardigheidscooldown."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "4dX0rZbK/finn.webp",
+          "name": "Finn",
+          "thumb": "d14Jf5dY/finn.png",
+          "ability": "Dash Splash",
+          "ability_desc": "Wanneer een nabije speler wordt neergeslagen of geëlimineerd, ontvangen de eigenaar en teamgenoten een bewegingssnelheidsboost."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "sXyFs5yg/zasil.webp",
+          "name": "Zasil",
+          "thumb": "3w9Mrdwj/zasil.png",
+          "ability": "Extra Geluk",
+          "ability_desc": "Elke keer dat de eigenaar een Inhalator/Med Kit/Reparatiekit gebruikt, bestaat de mogelijkheid om er nog een te krijgen."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "hjbBdpMm/avron.webp",
+          "name": "Avron",
+          "thumb": "FHLsKgty/avron.png",
+          "ability": "Dinoculair",
+          "ability_desc": "Ontdek het aantal vijanden in een gebied, ongeacht hun positie."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "zvxYdvsX/flash.webp",
+          "name": "Flash",
+          "thumb": "jSPtTxNv/flash.png",
+          "ability": "Stalen Schild",
+          "ability_desc": "Vermindert schade (van FF Mes en kogels) die van achteren wordt genomen."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "26xs638F/yeti.webp",
+          "name": "Yeti",
+          "thumb": "nLnbtvnc/yeti.png",
+          "ability": "Frost Fortress",
+          "ability_desc": "Vermindert de schade die wordt toegebracht door explosieven."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "GmWwgZ5Y/agent.webp",
+          "name": "Agent Hop",
+          "thumb": "GttbnvJs/agent-hop.png",
+          "ability": "Bouncing Bonus",
+          "ability_desc": "Verdien EP telkens wanneer de Safe Zone krimpt."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "RhFDZRY4/sensei.webp",
+          "name": "Sensei Tig",
+          "thumb": "7hjrvdZp/sensei.png",
+          "ability": "Lenige Ninja",
+          "ability_desc": "Vermindert de duur van de man-markeringsvaardigheden van vijanden."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "ZRjQmgVw/beanie.webp",
+          "name": "DR.Beanie",
+          "thumb": "Prc5hV7f/beanie.png",
+          "ability": "Dashy Duckwalk",
+          "ability_desc": "Beweeg sneller wanneer je loopt zoals Dr.Beanie."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "C5P9Gt8R/moony.webp",
+          "name": "Moony",
+          "thumb": "zfkNLxxg/moony.png",
+          "ability": "Paranormale Bescherming",
+          "ability_desc": "Bescherming tijdens de aftelprocedure voor interactie."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "28yskkph/dreki.webp",
+          "name": "Dreki",
+          "thumb": "bvfYSD8K/dreki.png",
+          "ability": "Drakenblik",
+          "ability_desc": "Tegenstanders die achter een muur herstellen, worden blootgesteld."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "3RHhNPj7/beaston.webp",
+          "name": "Beaston",
+          "thumb": "0j4PkrcX/beaston.png",
+          "ability": "Helpende Hand",
+          "ability_desc": "Met Beaston aan je zijde krijg je meer kracht in je worpen!"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "02NszGS6/rockie.webp",
+          "name": "Rockie",
+          "thumb": "QNz3W9J0/rockie.png",
+          "ability": "Blijf Koel",
+          "ability_desc": "Verminder de cooldown-tijd van actieve vaardigheden voor de eigenaar."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "W1Fcn2XT/waggor.webp",
+          "name": "MR.Waggor",
+          "thumb": "mgfW8vq9/waggor.png",
+          "ability": "Soepele Gloo",
+          "ability_desc": "Produceert Gloo Wall-granaten in Clash Squad en levert Gloo Maker EXP in Battle Royale."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "0yJhSVyN/falco.webp",
+          "name": "Falco",
+          "thumb": "QMg8Q8dV/falco.png",
+          "ability": "Skyline Spree",
+          "ability_desc": "Schakelt de automatische richtfunctie van vijanden uit terwijl de eigenaar aan het parachutespringen is."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "kGXkt92r/ottero.webp",
+          "name": "Ottero",
+          "thumb": "VLSz7Bkx/ottero.png",
+          "ability": "Dubbel Dik",
+          "ability_desc": "Bij gebruik van de Treatment Pistol of Med Kit zal de ontvanger ook wat EP herstellen."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "PrFkYLbS/robo.webp",
+          "name": "Robo",
+          "thumb": "j5grcL0q/robo.png",
+          "ability": "Muurhandhaving",
+          "ability_desc": "Voegt een schild toe aan de Gloo-wall."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "sfTFCBL3/spirit.webp",
+          "name": "Spirit Fox",
+          "thumb": "QdQGP6Gy/spirit.png",
+          "ability": "Goed Gevoed",
+          "ability_desc": "Herstel extra HP bij het gebruik van een Med Kit."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "VNXyxDxh/shiba.webp",
+          "name": "Shiba",
+          "thumb": "fT0h7zHZ/shiba.png",
+          "ability": "Paddestoelzin",
+          "ability_desc": "Shiba zal de omliggende paddenstoelen vinden en deze op de minikaart markeren."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "Bv9kB2jB/panda.webp",
+          "name": "Panda",
+          "thumb": "43GZNDQG/panda.png",
+          "ability": "Zegening van de Panda",
+          "ability_desc": "De Panda heeft allerlei verrassingen!"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "q7sYbgnV/night.webp",
+          "name": "Night Panther",
+          "thumb": "SNwkH2XJ/night.png",
+          "ability": "Gewichtstraining",
+          "ability_desc": "Telkens wanneer de panter gewichtstraining doet, kan de eigenaar meer inventarisruimte krijgen in het spel."
+        }
+      ]
+    }
+  ]
+}

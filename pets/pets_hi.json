@@ -1,0 +1,257 @@
+{
+  "data": [
+    {
+      "details": [
+        {
+          "image": "d0Cvqqy4/kactus.webp",
+          "name": "कैक्टस",
+          "thumb": "B6Q022zw/kactus.png",
+          "ability": "स्व-पर्याप्त",
+          "ability_desc": "जब मालिक 6 सेकंड के लिए ठहरता है, तो उसे 10 ईपी प्रति सेकंड पुनर्स्थापित किया जाएगा। पुनर्स्थापन उस समय रुक जाता है जब 100 ईपी पुनर्स्थापित होते हैं या चलने/कूदने के साथ।"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "2jGYj91R/fang.webp",
+          "name": "फैंग",
+          "thumb": "RFMMGkWd/fang.png",
+          "ability": "वोल्फ पैक्टफैंग",
+          "ability_desc": "जब एक सहयोगी द्वारा एक शत्रु द्वारा नीचे गिराया जाता है, तो हेतु ईपी/एचपी प्राप्त करें।"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "VLh35x1T/hoot.webp",
+          "name": "हूट",
+          "thumb": "prmM6RRf/hoot.png",
+          "ability": "दूरदृष्टि",
+          "ability_desc": "वस्तुओं और कौशलों को जांचने की रेंज और अवधि बढ़ाता है। कोई कौशल कूलडाउन नहीं है।"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "4dX0rZbK/finn.webp",
+          "name": "फिन",
+          "thumb": "d14Jf5dY/finn.png",
+          "ability": "डैश स्प्लैश",
+          "ability_desc": "जब एक पास का खिलाड़ी गिराया जाता है या समाप्त होता है, तो मालिक और सहकर्मी एक चाल की गति मिलती है।"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "sXyFs5yg/zasil.webp",
+          "name": "जासिल",
+          "thumb": "3w9Mrdwj/zasil.png",
+          "ability": "अतिरिक्त भाग्य",
+          "ability_desc": "हर बार जब मालिक एक इनहेलर/मेड किट/रिपेयर किट सेवन करता है, तो एक और प्राप्त करने की संभावना है।"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "hjbBdpMm/avron.webp",
+          "name": "एव्रॉन",
+          "thumb": "FHLsKgty/avron.png",
+          "ability": "डाइनॉक्यूलर्स",
+          "ability_desc": "एक क्षेत्र में दुश्मनों की संख्या का पता लगाएं, चाहे वे किस स्थिति में भी हों।"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "zvxYdvsX/flash.webp",
+          "name": "फ्लैश",
+          "thumb": "jSPtTxNv/flash.png",
+          "ability": "स्टील शैल",
+          "ability_desc": "पीछे से होने वाले (FF नाइफ और गोलियों) से होने वाले क्षति को कम करता है।"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "26xs638F/yeti.webp",
+          "name": "येती",
+          "thumb": "nLnbtvnc/yeti.png",
+          "ability": "फ्रोस्ट फ़ोर्ट्रेस",
+          "ability_desc": "विस्फोटों से होने वाले क्षति को कम करता है।"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "GmWwgZ5Y/agent.webp",
+          "name": "एजेंट हॉप",
+          "thumb": "GttbnvJs/agent-hop.png",
+          "ability": "बाउंसिंग बोनस",
+          "ability_desc": "हर बार जब सुरक्षित क्षेत्र छोटा होता है, तो हेतु ईपी प्राप्त करें।"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "RhFDZRY4/sensei.webp",
+          "name": "सेंसेई टिग",
+          "thumb": "7hjrvdZp/sensei.png",
+          "ability": "निम्बल निंजा",
+          "ability_desc": "दुश्मनों के मैन-मार्किंग कौशल की अवधि को कम करता है।"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "ZRjQmgVw/beanie.webp",
+          "name": "डॉ. बीनी",
+          "thumb": "Prc5hV7f/beanie.png",
+          "ability": "डैशी डकवॉक",
+          "ability_desc": "जब आप डॉ. बीनी की तरह चलते हैं, तो तेजी से चलें।"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "C5P9Gt8R/moony.webp",
+          "name": "मूनी",
+          "thumb": "zfkNLxxg/moony.png",
+          "ability": "पैरानॉर्मल प्रोटेक्शन",
+          "ability_desc": "अंतरक्रिया गिनती के दौरान सुरक्षा।"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "28yskkph/dreki.webp",
+          "name": "ड्रेकी",
+          "thumb": "bvfYSD8K/dreki.png",
+          "ability": "ड्रैगन ग्लेयर",
+          "ability_desc": "एक दीवार के पीछे हो रहे विरोधी का पर्दाफाश होगा।"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "3RHhNPj7/beaston.webp",
+          "name": "बीस्टन",
+          "thumb": "0j4PkrcX/beaston.png",
+          "ability": "हेल्पिंग हैंड",
+          "ability_desc": "बीस्टन के साथ, आपके फेंक में अधिक ताकत प्राप्त करते हैं!"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "02NszGS6/rockie.webp",
+          "name": "रॉकी",
+          "thumb": "QNz3W9J0/rockie.png",
+          "ability": "शांत रहो",
+          "ability_desc": "उसके मालिक के लिए सक्रिय कौशलों के लिए कूलडाउन समय को कम करें।"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "W1Fcn2XT/waggor.webp",
+          "name": "श्री Waggor",
+          "thumb": "mgfW8vq9/waggor.png",
+          "ability": "स्मूथ ग्लू",
+          "ability_desc": "क्लैश स्क्वाड में ग्लू वॉल ग्रेनेड उत्पन्न करता है, और युद्ध रॉयल में ग्लू मेकर EXP प्रदान करता है।"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "0yJhSVyN/falco.webp",
+          "name": "फाल्को",
+          "thumb": "QMg8Q8dV/falco.png",
+          "ability": "स्काईलाइन स्प्री",
+          "ability_desc": "जब मालिक पैराशूटिंग कर रहा है, तो दुश्मन को स्वचालित लक्ष्य मोड अक्षम करता है।"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "kGXkt92r/ottero.webp",
+          "name": "ओटेरो",
+          "thumb": "VLSz7Bkx/ottero.png",
+          "ability": "डबल ब्लबर",
+          "ability_desc": "जब ट्रीटमेंट पिस्टल या मेड किट का उपयोग किया जाता है, तो प्राप्तकर्ता भी कुछ ईपी को सुधार सकता है।"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "PrFkYLbS/robo.webp",
+          "name": "रोबो",
+          "thumb": "j5grcL0q/robo.png",
+          "ability": "वॉल एनफोर्समेंट",
+          "ability_desc": "ग्लू वॉल में एक ढाल जोड़ता है।"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "sfTFCBL3/spirit.webp",
+          "name": "स्पिरिट फ़ॉक्स",
+          "thumb": "QdQGP6Gy/spirit.png",
+          "ability": "वेल फेड",
+          "ability_desc": "एक मेड किट का उपयोग करते समय अतिरिक्त एचपी को पुनर्स्थापित करें।"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "VNXyxDxh/shiba.webp",
+          "name": "शिबा",
+          "thumb": "fT0h7zHZ/shiba.png",
+          "ability": "मशरूम सेंस",
+          "ability_desc": "शिबा आस-पास के मशरूम को ढूंढ़ेगा और उन्हें मिनी मैप पर चिह्नित करेगा।"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "Bv9kB2jB/panda.webp",
+          "name": "पांडा",
+          "thumb": "43GZNDQG/panda.png",
+          "ability": "पांडा की आशीर्वाद",
+          "ability_desc": "पांडा के पास हर प्रकार की आशीर्वाद हैं!"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "q7sYbgnV/night.webp",
+          "name": "नाइट पैंथर",
+          "thumb": "SNwkH2XJ/night.png",
+          "ability": "वेट ट्रेनिंग",
+          "ability_desc": "हर बार जब पैंथर वेट ट्रेनिंग करता है, तो मालिक खेल में अधिक इन्वेंटरी स्थान प्राप्त कर सकता है।"
+        }
+      ]
+    }
+  ]
+}

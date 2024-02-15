@@ -1,0 +1,257 @@
+{
+  "data": [
+    {
+      "details": [
+        {
+          "image": "d0Cvqqy4/kactus.webp",
+          "name": "Kactus",
+          "thumb": "B6Q022zw/kactus.png",
+          "ability": "自给自足",
+          "ability_desc": "当主人静止不动6秒时，他们将每秒恢复10EP。一旦恢复100 EP或移动/跳跃即停止恢复。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "2jGYj91R/fang.webp",
+          "name": "Fang",
+          "thumb": "RFMMGkWd/fang.png",
+          "ability": "狼之契约",
+          "ability_desc": "每当队友被敌人击倒时，获得EP/HP。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "VLh35x1T/hoot.webp",
+          "name": "Hoot",
+          "thumb": "prmM6RRf/hoot.png",
+          "ability": "远见卓识",
+          "ability_desc": "增加扫描物品和技能的范围和持续时间。无技能冷却时间。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "4dX0rZbK/finn.webp",
+          "name": "Finn",
+          "thumb": "d14Jf5dY/finn.png",
+          "ability": "冲击飞溅",
+          "ability_desc": "当附近玩家被击倒或消灭时，主人和队友将获得移动速度提升。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "sXyFs5yg/zasil.webp",
+          "name": "Zasil",
+          "thumb": "3w9Mrdwj/zasil.png",
+          "ability": "额外幸运",
+          "ability_desc": "每当主人使用 Inhaler/Med Kit/Repair Kit 时，有可能额外获得一个。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "hjbBdpMm/avron.webp",
+          "name": "Avron",
+          "thumb": "FHLsKgty/avron.png",
+          "ability": "双目望远",
+          "ability_desc": "探测区域内的敌人数量，不论他们处于何种位置。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "zvxYdvsX/flash.webp",
+          "name": "Flash",
+          "thumb": "jSPtTxNv/flash.png",
+          "ability": "钢壳",
+          "ability_desc": "减少从后方受到的伤害（来自 FF 刀和子弹）。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "26xs638F/yeti.webp",
+          "name": "Yeti",
+          "thumb": "nLnbtvnc/yeti.png",
+          "ability": "冰霜堡垒",
+          "ability_desc": "减少来自爆炸的伤害。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "GmWwgZ5Y/agent.webp",
+          "name": "Agent Hop",
+          "thumb": "GttbnvJs/agent-hop.png",
+          "ability": "弹跳奖励",
+          "ability_desc": "每当安全区缩小时，获得EP。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "RhFDZRY4/sensei.webp",
+          "name": "Sensei Tig",
+          "thumb": "7hjrvdZp/sensei.png",
+          "ability": "灵活忍者",
+          "ability_desc": "减少敌人标记技能的持续时间。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "ZRjQmgVw/beanie.webp",
+          "name": "DR.Beanie",
+          "thumb": "Prc5hV7f/beanie.png",
+          "ability": "轻快鸭行",
+          "ability_desc": "像 Dr.Beanine 一样行走时，移动速度更快。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "C5P9Gt8R/moony.webp",
+          "name": "Moony",
+          "thumb": "zfkNLxxg/moony.png",
+          "ability": "超自然保护",
+          "ability_desc": "在互动倒计时期间提供保护。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "28yskkph/dreki.webp",
+          "name": "Dreki",
+          "thumb": "bvfYSD8K/dreki.png",
+          "ability": "龙视",
+          "ability_desc": "在墙后恢复的对手将被暴露。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "3RHhNPj7/beaston.webp",
+          "name": "Beaston",
+          "thumb": "0j4PkrcX/beaston.png",
+          "ability": "助力之手",
+          "ability_desc": "有了Beaston在身边，你在投掷时将更强大！"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "02NszGS6/rockie.webp",
+          "name": "Rockie",
+          "thumb": "QNz3W9J0/rockie.png",
+          "ability": "保持冷静",
+          "ability_desc": "减少主人主动技能的冷却时间。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "W1Fcn2XT/waggor.webp",
+          "name": "MR.Waggor",
+          "thumb": "mgfW8vq9/waggor.png",
+          "ability": "光滑墙体",
+          "ability_desc": "在Clash Squad中生成Gloo Wall手榴弹，并在Battle Royale中提供Gloo Maker EXP。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "0yJhSVyN/falco.webp",
+          "name": "Falco",
+          "thumb": "QMg8Q8dV/falco.png",
+          "ability": "天际狂欢",
+          "ability_desc": "主人降落伞时禁用敌人的自动瞄准。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "kGXkt92r/ottero.webp",
+          "name": "Ottero",
+          "thumb": "VLSz7Bkx/ottero.png",
+          "ability": "双重脂肪",
+          "ability_desc": "使用治疗手枪或医疗包时，接收者将同时恢复一些EP。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "PrFkYLbS/robo.webp",
+          "name": "Robo",
+          "thumb": "j5grcL0q/robo.png",
+          "ability": "墙体强化",
+          "ability_desc": "在Gloo Wall上添加一个护盾。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "sfTFCBL3/spirit.webp",
+          "name": "Spirit Fox",
+          "thumb": "QdQGP6Gy/spirit.png",
+          "ability": "饱足",
+          "ability_desc": "使用Med Kit时额外恢复HP。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "VNXyxDxh/shiba.webp",
+          "name": "Shiba",
+          "thumb": "fT0h7zHZ/shiba.png",
+          "ability": "蘑菇感应",
+          "ability_desc": "Shiba将找到周围的蘑菇并在迷你地图上标记它们。"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "Bv9kB2jB/panda.webp",
+          "name": "Panda",
+          "thumb": "43GZNDQG/panda.png",
+          "ability": "熊猫祝福",
+          "ability_desc": "熊猫有各种各样的惊喜！"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "q7sYbgnV/night.webp",
+          "name": "夜豹",
+          "thumb": "SNwkH2XJ/night.png",
+          "ability": "重量训练",
+          "ability_desc": "每次夜豹进行重量训练时，主人都可以在游戏中获得更多的库存空间。"
+        }
+      ]
+    }
+  ]
+}
