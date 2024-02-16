@@ -1,0 +1,814 @@
+{
+  "date": [
+    {
+      "details": [
+        {
+          "image": "wvb8P0Dp/ignis.webp",
+          "name": "Ignis",
+          "thumb": "SRT1XKtw/ignis.png",
+          "ability": "Ngọn Lửa Dữ Dội",
+          "ability_desc": "Triệu hồi một màn cháy rực rỡ rộ rộng 12m và kéo dài trong vòng 10s (khoảng cách triển khai tối đa: 15m). Khi kẻ địch và tường Gloo tiếp xúc với màn hình sẽ trải qua hiệu ứng cháy: tức thì nhận 30 điểm sát thương và, sau mỗi giây tiếp theo, mất 10 điểm sát thương và giảm 20% khả năng chống đạn. Hiệu ứng cháy kéo dài 2s. Tường Gloo sẽ tức thì nhận 200 điểm sát thương, và 200 điểm sát thương/s trong 1s. Thời gian hồi: 60s.",
+          "gender": "Nam",
+          "age": "16",
+          "date": "17/07",
+          "bio": "Ignis là một thiếu niên siêu năng lực sở hữu khả năng bẩm sinh làm cháy rực vật thể. Trong thời gian rảnh rỗi, anh ta chiến đấu chống tội phạm và duy trì công lý, nhưng thường thấy mình gây ra rắc rối không ý muốn vì sức mạnh của mình. Công chúng phê phán Ignis vì những hành động của anh ta, và trong thời kỳ tuổi trẻ nổi loạn của mình, anh ta đáp trả bằng thái độ thách thức. Tuy nhiên, điều này không làm trở ngại anh ta đứng lên bảo vệ nhân dân và thành phố, ít nhất là cho đến bây giờ."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "25yfxsBw/ryden.webp",
+          "name": "Ryden",
+          "thumb": "2SB96rdK/ryden.png",
+          "ability": "Bẫy Nhện",
+          "ability_desc": "Phóng một con nhện nổ có thể phá hủy theo hướng mục tiêu. Kéo dài trong vòng 30s. Nhấn nút kỹ năng lại trong vòng 10s để dừng chuyển động của con nhện. Con nhện sẽ bắt kẻ địch đầu tiên nó phát hiện trong vòng 5m, giảm tốc độ của họ xuống 80% và khiến họ mất 10 HP/s. Hiệu ứng chảy máu kéo dài 3s. Thời gian hồi: 75s.",
+          "gender": "Nam",
+          "age": "16",
+          "date": "07/09",
+          "bio": "Là một thiên tài sáng tạo 16 tuổi, tính lý trí và kiến thức của Ryden vượt qua đồng trang lứa. Đứa bé trai trước đây thường ngồi dưới bờ cánh của chị gái Suzy, giờ đây đang chiến thắng trận chiến. Những phát minh tài năng của anh sẽ mở đường cho anh."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "44VRwbnr/sonia.webp",
+          "name": "Sonia",
+          "thumb": "kG4fdmXw/sonia.png",
+          "ability": "Nano Màng Sinh Học",
+          "ability_desc": "Sau khi nhận sát thương chết người, nhập vào một trạng thái bất tử và không thể di chuyển trong 0.4s. Sau đó, nhận một màng bảo vệ 50 HP kéo dài 2s. Người sử dụng kỹ năng sẽ bị loại bỏ khi màng bảo vệ biến mất. Thời gian hồi: 180s.",
+          "gender": "Nữ",
+          "age": "20",
+          "date": "04/08",
+          "bio": "Sonia là một nhà khoa học nano được biến đổi gen với trí tuệ xuất sắc và chuyên môn về công nghệ sinh học nano."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "tRxpwGvv/orion.webp",
+          "name": "Orion",
+          "thumb": "TPVkV04j/orion.png",
+          "ability": "Nát Huyết Đỏ",
+          "ability_desc": "Thay thế EP bằng 300 Năng Lượng Đỏ. Tiêu thụ 200 Năng Lượng Đỏ để kích hoạt bảo vệ, trong đó bạn không thể nhận sát thương hoặc tấn công kẻ địch và sẽ hấp thụ 10 HP (bỏ qua Điểm Bảo Vệ của kẻ địch) từ kẻ địch trong bán kính 5m. Kéo dài 3s, trong đó tốc độ di chuyển của bạn sẽ giảm 20%. Thời gian hồi: 3s.",
+          "gender": "Nam",
+          "age": "22",
+          "date": "13/08",
+          "bio": "Orion, một thú vịnh đầy thù hận chuyên sâu về việc sử dụng Năng Lượng Đỏ trong khi chiến đấu."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "W4ycY5GP/santino.webp",
+          "name": "Santino",
+          "thumb": "5td7QTnN/santino.png",
+          "ability": "Phân Khúc Hình Dạng",
+          "ability_desc": "Tạo ra một búp manocanh có 200 HP tự động di chuyển trong vòng 12s. Khi manocanh ở trong khoảng cách 60m, sử dụng kỹ năng lại để chuyển đổi vị trí với nó. Bạn chỉ có thể chuyển đổi một lần trong vòng 3s, tối đa 2 lần tổng cộng. Người chơi phá hủy manocanh sẽ bị đánh dấu trong 5s. Thời gian hồi: 60s.",
+          "gender": "Nam",
+          "age": "34",
+          "date": "14/10",
+          "bio": "Santino, sinh ra trong đói nghèo, Santino yêu nghệ thuật từ khi còn là trẻ. Anh ta học tại một trường nghệ thuật nổi tiếng nơi tài năng thiết kế của anh phát triển. Sau khi tốt nghiệp, Santino thành lập thương hiệu thời trang của mình, Angelic, và trở thành một người nổi tiếng có đôi mắt sắc bén về tiếp thị. Với thành công lớn trong lĩnh vực này, anh ta luôn nổi bật trong thế giới thời trang."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "CdTtTt1W/luna.webp",
+          "name": "Luna",
+          "thumb": "mZ85pd28/luna.png",
+          "ability": "Đánh Chiến hay Bỏ Chạy",
+          "ability_desc": "Kỹ năng này ban đầu tăng tốc độ bắn. Khi người dùng đánh trúng một kẻ thù, tốc độ bắn sẽ chuyển thành tăng tốc độ di chuyển.",
+          "gender": "NỮ",
+          "age": "28",
+          "date": "18/03",
+          "bio": "Luna là con gái của một người đàn ông phức tạp với một quá khứ phức tạp. Cô trưởng thành sớm khi phải đối mặt với sự bất cẩn của cha cô và sự bất cẩn của những người lớn xung quanh mà cô lớn lên. Khi sự lãnh đạo của cha cô trong Hội bị thách thức và cuối cùng là bị bắt cóc, Luna phải đứng lên và tạo ra những bước chân của riêng mình để đảm nhận nhóm và khôi phục lại trật tự trong cộng đồng."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "4N1kRf6P/tatsuya.webp",
+          "name": "Tatsuya",
+          "thumb": "PxK2cxhP/tatusya.png",
+          "ability": "Tấn Công Nổi Loạn",
+          "ability_desc": "Di chuyển với tốc độ nhanh chóng. Kỹ năng này có thể tích luỹ để sử dụng liên tục.",
+          "gender": "NAM",
+          "age": "16",
+          "date": "20/12",
+          "bio": "Tatsuya đứng giữa những cảm xúc phản bội và tình yêu đối với gia đình của mình. Anh không biết cách xử lý sự phân đôi của cảm xúc này và tự nguyện để bản thân bị cuốn vào rắc rối. Chỉ sau khi anh và em trai của mình, Shirou, cần phải hợp tác để giải quyết một âm mưu, anh nhận ra rằng anh không đơn độc trên thế giới này và có sức mạnh để thay đổi môi trường của mình cho tốt hơn."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "K8LGTSBg/a-patroa.webp",
+          "name": "A-Patroa",
+          "thumb": "L6W02nPP/patroa.png",
+          "ability": "",
+          "ability_desc": "Khe kỹ năng độc quyền có thể trang bị bất kỳ kỹ năng sở hữu nào và các khe còn lại sẽ tự động mở khi bạn có được nhân vật này.",
+          "gender": "NỮ",
+          "age": "28",
+          "date": "30/03",
+          "bio": "A-Patroa là một phụ nữ mạnh mẽ, tự tin, điều hành một cửa hàng âm nhạc giữa một khu vực nguy hiểm. Cửa hàng của cô cũng là một nơi trú ẩn, bất kỳ ai cũng có thể đến xin cô giúp đỡ. Hơn nữa, cô sử dụng âm nhạc của mình để giúp mọi người trải qua cuộc sống của họ theo cách mới và khác nhau để giúp họ."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "XqRMNq21/iris.webp",
+          "name": "Iris",
+          "thumb": "QxnpndYn/iris.png",
+          "ability": "Trận Chiến Trên Tường",
+          "ability_desc": "Trong vòng 15 giây, bắn vào một bức tường Gloo thành công sẽ đánh dấu kẻ thù trong phạm vi 7m và xuyên qua Gloo Wall để gây sát thương cho kẻ thù được đánh dấu (sát thương gây ra sẽ thấp hơn bình thường). Hiệu quả trên tối đa 5 Gloo Walls. Thời gian hồi: 60 giây.",
+          "gender": "NỮ",
+          "age": "30",
+          "date": "01/10",
+          "bio": "Với tầm nhìn sắc bén, Iris giỏi trong việc dự đoán hành động của kẻ thù để tận dụng cơ hội để chiến thắng. Nếu bạn lo lắng rằng lý luận của cô, lạc quan mù quáng và chủ nghĩa cá nhân quá mức sẽ ảnh hưởng đến sự hợp tác của bạn, đừng lo lắng. Iris không bao giờ hợp tác với bất kỳ ai - ngoại trừ Homer, người luôn chấp nhận cô mà không điều kiện và dọn dẹp tất cả rối bời của cô."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "MZNJm3W0/jbiebs.webp",
+          "name": "J.Biebs",
+          "thumb": "sDncdcxm/biebs.png",
+          "ability": "Người Gác Im Lặng",
+          "ability_desc": "Người dùng kỹ năng và đồng minh có thể chặn sát thương bằng cách sử dụng EP. Trong trường hợp này, lượng EP trừ từ đồng minh sẽ được thêm vào EP của người dùng kỹ năng.",
+          "gender": "NAM",
+          "age": "28",
+          "date": "01/03",
+          "bio": "J.Biebs là một người muốn đoàn kết một thế giới bị chia rẽ. Qua trải nghiệm thời thơ ấu, anh đã học được rằng câu trả lời cho vấn đề của con người không phải là tiền bạc hoặc quyền lực mà là mối quan hệ thực sự giữa con người. Anh quyết định sử dụng kỹ năng hát của mình để hiến dâng cuộc sống của mình để hòa nhập thế giới."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "cCgyNwc8/homer.webp",
+          "name": "Homer",
+          "thumb": "L4DkLTtS/homer.png",
+          "ability": "Cảm Nhận Sóng Chấn",
+          "ability_desc": "Phóng một drone về phía kẻ địch gần nhất trong phạm vi 100m phía trước, tạo ra một vụ nổ xung điện có đường kính 4m giảm tốc độ di chuyển đi 60% và tốc độ bắn đi 35%. Kéo dài trong 5 giây. Gây 25 sát thương. Thời gian hồi: 90 giây.",
+          "gender": "NAM",
+          "age": "30",
+          "date": "01/06",
+          "bio": "Homer là một người đàn ông mù không chỉ là một sát thủ, mà còn là một trong những người sáng lập của băng đảng công nghệ đang phát triển mạnh mẽ tại Griza. Tuy nhiên, Homer, người đã mờ nhạt khỏi quyền lực trong những năm qua, bây giờ chỉ muốn tìm ra sự thật đằng sau căn bệnh kỳ lạ khiến anh mù từ thuở thơ ấu của mình, viện nghiên cứu bí ẩn mà anh gọi là trường học của mình và khoáng sản trái đất hiếm gắn với tất cả những điều đó."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "XJqtwdmD/kenta.webp",
+          "name": "Kenta",
+          "thumb": "rswrQB1k/kenta.png",
+          "ability": "Sức Giận Kiếm Sĩ",
+          "ability_desc": "Tạo ra một lá chắn giảm sát thương vũ khí từ phía trước. Đặt lại khi người dùng bắn một viên đạn.",
+          "gender": "NAM",
+          "age": "38",
+          "date": "05/05",
+          "bio": "Kenta đã phục vụ như một vệ sĩ và thợ rèn cho gia đình của Hayato Yagami trong nhiều năm. Anh là một người ít nói nhưng bảo vệ ông chủ mới, trẻ tuổi của mình trong bất kỳ tình huống nào họ gặp phải. Anh có những mong muốn cá nhân riêng, nhưng anh đặt chúng vào vị trí sau khi phục vụ Hayato trong một thời điểm nguy hiểm cho gia đình Yagami."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "MHVwQ1jJ/nairi.webp",
+          "name": "Nairi",
+          "thumb": "mkkPQQ4Z/nairi.png",
+          "ability": "Sắt Lạnh",
+          "ability_desc": "Tường Gloo triển khai phục hồi 150 điểm bền mỗi giây khi bị tấn công, trong đó đồng đội trong vòng bán kính 5m phục hồi 20HP/s. Tối đa 40HP mỗi đồng đội từ mỗi Tường Gloo.",
+          "gender": "NAM",
+          "age": "23",
+          "date": "27/12",
+          "bio": "Nairi đã phát hiện ra sự quan tâm vào thời tiết từ khi còn nhỏ khi anh bị ép rời khỏi các khí hậu lạnh. Nhưng tình yêu của anh dành cho tuyết đã đưa anh quay lại đó. Anh đã phát triển công nghệ điều chỉnh khí hậu siêu nhỏ để có thể sống sót trong môi trường cực đoan nhất. Bây giờ anh dành thời gian của mình để leo núi, đi bộ và săn bão để tìm kiếm câu trả lời cho việc dự đoán thời tiết."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "dtRvQmY8/otho.webp",
+          "name": "Otho",
+          "thumb": "tC11JtD2/otho.png",
+          "ability": "Sương Mù Ký Ức",
+          "ability_desc": "Tạo ra một sương mù ký ức khi một kẻ địch bị loại bỏ, tiết lộ vị trí của những kẻ địch khác gần đó.",
+          "gender": "NAM",
+          "age": "21",
+          "date": "01/11",
+          "bio": "Otho có một tâm trí sáng tạo nhưng rất thực tế. Anh ta sợ quên những ký ức từ quá khứ và đang cố gắng tìm cách bảo tồn quá khứ. Anh ta đang gần hơn mỗi ngày và trong quá trình đó, anh ta đã phát triển một thiết bị cho phép anh ta nhìn thấy ý định của người khác. Khi anh ta không nghiên cứu thêm các cơ chế cho trí nhớ, anh ta đi ra ngoài với bạn bè và dành thời gian mơ mộng với con chó của mình."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "XqyhP3Vf/leon.webp",
+          "name": "Leon",
+          "thumb": "SNj98pQL/leon.png",
+          "ability": "Người Ghi Điểm",
+          "ability_desc": "Hồi phục HP sau khi tham gia vào combat.",
+          "gender": "NAM",
+          "age": "20",
+          "date": "30/09",
+          "bio": "Leon là một sinh viên đại học có kỹ năng bóng rổ cực kỳ tinh tế và không sợ thể hiện chúng. Anh có thể nhảy cao hơn hầu hết mọi người anh biết với sự giúp đỡ của chân bionics của mình. Anh có sở thích về điện tử và biết cách sửa chữa và chỉnh sửa chân của mình khi nó gặp sự cố. Anh có thể dường như chỉ quan tâm đến bóng rổ, nhưng anh sử dụng môn thể thao không chỉ để hỗ trợ gia đình mình mà còn để hỗ trợ bạn bè của mình."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "RZVrMkGB/thiva.webp",
+          "name": "Thiva",
+          "thumb": "prmd9RQp/thiva.png",
+          "ability": "Năng Lượng Sống",
+          "ability_desc": "Tăng tốc độ giúp đỡ đồng đội lên 70%. Thời gian hồi: 90 giây. Đồng đội được giúp đỡ hồi 60 HP trong 3 giây.",
+          "gender": "NAM",
+          "age": "25",
+          "date": "02/12",
+          "bio": "Thiva là em trai của Dimitri. Anh chàng này có tài năng bẩm sinh và chơi nhạc suốt tuổi thơ. Thiva thực sự muốn giúp đỡ thế giới và cải thiện cuộc sống của mọi người, nhưng tin rằng cách tốt nhất để làm điều đó là truyền đạt thông điệp chân thành đến từng người qua âm nhạc của mình."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "0NPsJ69L/dimitri.webp",
+          "name": "Dimitri",
+          "thumb": "7hHgjGyj/dimitri.png",
+          "ability": "Nhịp Tim Hồi Phục",
+          "ability_desc": "Tạo ra một khu vực hồi phục có bán kính 3.5m. Bên trong, người sử dụng và đồng minh hồi 10 HP/giây. Hỗ trợ đứng dậy sẽ tự động kích hoạt khi cần. Khu vực tồn tại trong 12 giây. Hiệu ứng giúp đỡ đồng đội có thể được cải thiện bằng các kỹ năng khác. Thời gian hồi: 90 giây.",
+          "gender": "NAM",
+          "age": "26",
+          "date": "16/05",
+          "bio": "Dimitri là anh trai của Thiva. Trong cuộc sống hàng ngày, anh ta thường dành phần lớn thời gian tại phòng thí nghiệm phát triển công nghệ âm thanh mới. Sau khi phát hiện đam mê âm nhạc, anh nhận ra rằng việc giúp đỡ thế giới và cải thiện cuộc sống của mọi người thông qua những sáng tạo công nghệ có thể là một trong những ước mơ của mình."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "L8dR2Cw4/d-bee.webp",
+          "name": "D-Bee",
+          "thumb": "prCBdQZ2/bee.png",
+          "ability": "Nhịp Đạn",
+          "ability_desc": "Khi bắn khi di chuyển, tăng tốc độ di chuyển và độ chính xác.",
+          "gender": "NAM",
+          "age": "19",
+          "date": "23/09",
+          "bio": "D-Bee có tính cách hướng ngoại và thích gặp gỡ những người mới. Anh chàng này tin rằng ý nghĩa của cuộc sống là sáng tạo, và đó là lý do tại sao anh trở thành người làm nhạc. Anh ấy cũng mê mẩn với nhảy múa và âm nhạc."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "7YSPGrgJ/maro.webp",
+          "name": "Maro",
+          "thumb": "zGgRtSgV/maro.png",
+          "ability": "Hồn Dữ Độc Hổ",
+          "ability_desc": "Sát thương tăng theo khoảng cách. Sát thương lên kẻ địch được đánh dấu tăng lên.",
+          "gender": "NAM",
+          "age": "32",
+          "date": "23/05",
+          "bio": "Maro thích sự gần gũi với thú vật hơn là con người. Anh ta cảm thấy con người thường suy nghĩ quá mức và quên đi ý nghĩa thực sự của cuộc sống. Anh ta muốn trở thành một tinh thần tự do và hy vọng có thể giúp đỡ con người khác gần gũi với thiên nhiên qua những chú chim của mình."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "HnwGxHfp/skyler.webp",
+          "name": "Skyler",
+          "thumb": "rmFskSKG/skyler.png",
+          "ability": "Nhịp Sóng Triều",
+          "ability_desc": "Phát sóng âm thanh phía trước gây sát thương cho tường Gloo. Ngoài ra, mỗi tường Gloo triển khai sẽ dẫn đến phục hồi HP. Hiệu ứng phục hồi không tích tụ.",
+          "gender": "NAM",
+          "age": "26",
+          "date": "05/07",
+          "bio": "Skyler nổi tiếng là ca sĩ và vũ công pop nổi bật nhất trong nước, và hiện là Giám đốc điều hành của công ty giải trí lớn nhất tại Việt Nam. Nỗ lực trở thành tài năng âm nhạc xuất sắc nhất trong ngành và cũng tìm kiếm tài năng xuất sắc nhất. Anh ta không thích thất bại và tin rằng sự sáng tạo giúp mọi người nhìn thấy điều tốt lành trong thế giới thay vì điều xấu xa."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "jjmB4LTx/xayne.webp",
+          "name": "Xayne",
+          "thumb": "Yqm9M2qP/xayne.png",
+          "ability": "Xtreme Encounter",
+          "ability_desc": "Nhận được 120 HP tạm thời, tăng sát thương đối với Tường Gloo và khiên. Kéo dài trong 6s.",
+          "gender": "NỮ",
+          "age": "23",
+          "date": "21/04",
+          "bio": "Xayne luôn quan tâm đến các hoạt động cực đoan ngay cả khi còn là một đứa trẻ. Cô ưa thích cảm giác hồi hộp của các môn thể thao cực đoan hơn là giao tiếp với con người. Tự do tự tại, cô muốn khám phá cuộc sống và tìm ra giới hạn của nó. Nếu có ai đặt câu hỏi về khả năng hoàn thành một nhiệm vụ của cô, cô nhất định sẽ tìm cách làm được."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "D0kknmpj/shirou.webp",
+          "name": "Shirou",
+          "thumb": "jjTC8VTF/shirou.png",
+          "ability": "Damage Delivered",
+          "ability_desc": "Khi người dùng bị tấn công từ bên trong 80m, kẻ tấn công sẽ được đánh dấu (chỉ nhìn thấy được với người dùng). Lần bắn đầu tiên vào kẻ địch đã được đánh dấu sẽ có thêm sự xâm nhập giáp.",
+          "gender": "NAM",
+          "age": "19",
+          "date": "20/11",
+          "bio": "Shirou là một thiếu niên có tinh thần trách nhiệm mạnh mẽ đã liều mạng để bảo vệ gia đình và quê hương của mình. Anh làm việc như một cậu bé giao hàng chuyển phát hàng hóa xung quanh thành phố Griza đông đúc và tắc nghẽn. Anh sẽ phải vượt qua nhiều trở ngại lớn và đối mặt với các lực lượng lớn hơn mình để tìm ra sự thật và ý nghĩa thực sự của cuộc sống."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "sXfsbM8p/chrono.webp",
+          "name": "Chrono",
+          "thumb": "CxXsdxjf/chrono.png",
+          "ability": "Time Turner",
+          "ability_desc": "Tạo ra một lực lượng chặn sát thương. Không thể tấn công kẻ thù bên ngoài từ bên trong lĩnh vực.",
+          "gender": "NAM",
+          "age": "35",
+          "date": "05/02",
+          "bio": "Chrono đến từ một vũ trụ song song nơi có một mức độ khoa học và công nghệ cao hơn so với mức độ trong thế giới Trái Đất hiện tại của chúng ta. Anh có một tuổi thơ bình thường trong vũ trụ ban đầu của mình. Ba mẹ anh là những luật sư nổi tiếng đã chiến đấu chống lại đói nghèo và giúp đỡ những người vô gia cư nghèo lên xã hội. Bởi vì điều này nên anh luôn có ý thức về các nhóm bất may từ khi còn rất nhỏ và khi anh lớn lên anh đã tìm cách làm phần của mình để giúp đỡ cũng."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "t4hbTdG3/dasha.webp",
+          "name": "Dasha",
+          "thumb": "QtrgkYY8/dasha.png",
+          "ability": "Partying On",
+          "ability_desc": "Giảm sát thương nhận được và thời gian phục hồi sau khi rơi. Giảm tỷ lệ tích tụ giật và giảm giật tối đa.",
+          "gender": "NỮ",
+          "age": "25",
+          "date": "08/12",
+          "bio": "Dasha là một cô gái mê tiệc theo câu ngạn ngữ \"làm việc chăm chỉ, chơi mạnh mẽ hơn\". Cô ấy hơi ranh mãnh, thường gây rắc rối khi cô ấy không có ý định. Cô ấy đã trải qua nhiều trong cuộc đời, nhưng cô ấy vui mừng khi đã tìm thấy Mambas đánh giá cao loạt kỹ năng đa dạng của cô. Nhưng bây giờ cô ấy đã bắt đầu tham gia vào một cái gì đó mà cô ấy không có ý định, nhưng chỉ có thời gian sẽ nói nếu nó đáng giá."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "GmJ0rcvz/k.webp",
+          "name": "K",
+          "thumb": "s257X9jt/k.png",
+          "ability": "Master of All",
+          "ability_desc": "Max EP tăng thêm 50. Chế độ Jiujitsu: Đồng minh trong phạm vi 6m nhận được tăng tỷ lệ chuyển đổi EP 500%. Chế độ Tâm lý học: Phục hồi 2 EP mỗi {4}s, tối đa {6} EP. CD chuyển đổi chế độ 3s.",
+          "gender": "NAM",
+          "age": "31",
+          "date": "06/10",
+          "bio": "K là một đứa trẻ thông minh, nhưng giống như hầu hết các đứa trẻ cùng tuổi của anh, anh không coi trọng việc học hành. Khi anh ấy 16 tuổi, vẫn là học sinh năm nhất trong trường trung học, anh gặp tai nạn giao thông và bị thương cột sống. Bác sĩ của anh ấy nói với anh ấy rằng anh ấy sẽ không bao giờ đi lại được nữa. Nhưng anh ấy từ chối từ bỏ - điều này sẽ không phải là điểm kết thúc cho anh ấy. Anh đi điều trị vật lý, thực hiện điều trị của mình tại nhà, và tìm thấy một huấn luyện viên để giúp anh ấy đẩy mạnh hơn. Trong một năm, anh ấy đã đi lại; trong hai năm anh ấy đã tham gia vào các môn thể thao. Kinh nghiệm này đã dạy cho anh một số điều sẽ đi theo anh cho đến cuộc đời: - Đừng coi nhẹ cuộc sống. - Anh phải đào sâu vào bản thân mình để vượt qua trải nghiệm và anh học được để hiểu bản thân mình, động lực cũng như vai trò của mình trong thế giới. - Một tác dụng phụ của điều này là anh ấy bây giờ có thể đọc và hiểu người xung quanh anh ấy theo cùng cách. - Anh ấy cũng muốn làm cho cơ thể và tâm trí của mình mạnh mẽ hơn để không bao giờ bị thương cùng cách lần nữa."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "tRZ4bxJ5/luqueta.webp",
+          "name": "Luqueta",
+          "thumb": "nc5DGwMy/luqueta.png",
+          "ability": "Kỹ Năng Kat Trick",
+          "ability_desc": "Mỗi lần giết tăng máu tối đa, lên đến 35.",
+          "gender": "NAM",
+          "age": "20",
+          "date": "10/06",
+          "bio": "Luqueta là sinh viên trao đổi từ nước ngoài. Anh ta chuyển đến vì công việc của bố. Bố anh muốn anh theo bước chân của mình, đạt được bằng MBA và tham gia kinh doanh. Nhưng Luqueta nhìn thấy cuộc sống của bố mình và không muốn cái gì của nó. Anh luôn là một đứa trẻ năng động. Khi chuyển đến, anh bắt đầu chơi bóng đá cho trường, anh biết mình giỏi từ khi còn nhỏ, nhưng ở trung học, anh trở thành ngôi sao. Anh ta thậm chí không cần phải cố gắng mạnh mẽ và vẫn tuyệt vời."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "nLHyh6kx/kelly.webp",
+          "name": "Kelly",
+          "thumb": "V6Rt9fbg/kelly.png",
+          "ability": "Kỹ Năng Dash",
+          "ability_desc": "Tăng tốc độ chạy.",
+          "gender": "NỮ",
+          "age": "17",
+          "date": "01/04",
+          "bio": "Trong thời thơ ấu, cô là một đứa trẻ vui vẻ với mẹ nuôi của mình, Rena, và bố kế, Andrew. Khi mẹ cô và Andrew ly hôn, cô rất buồn nhưng vẫn giữ liên lạc với Andrew. Kelly luôn là một vận động viên chạy xuất sắc, nhưng ở trung học, HLV đường đua phát hiện ra cô và cô trở thành ngôi sao của trường. Khi cô thấy mình ở trên một hòn đảo không xác định, cô sẽ buộc phải đưa ra những quyết định khó khăn quyết định tương lai của mình."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "W34cXQF8/hayato.webp",
+          "name": "Hayato",
+          "thumb": "yxLFK11x/hayato.png",
+          "ability": "Kỹ Năng Bushido",
+          "ability_desc": "Càng thấp HP, tỉ lệ xâm nhập giáp càng cao.",
+          "gender": "NAM",
+          "age": "20",
+          "date": "21/03",
+          "bio": "Hayato mang trên vai nhiều trách nhiệm như người thừa kế lớn tuổi nhất của tập đoàn Yagami. Anh được nuôi dưỡng trong một cuộc sống nơi sự tồn tại của anh đặc biệt để phục vụ danh dự và vinh quang của gia đình. Khi tập đoàn gia đình của họ bị Horizon mua lại, anh không ngần ngại tham gia vào công việc doanh nghiệp để đảm bảo rằng gia đình Yagami vẫn hoạt động với danh dự."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "bJGpq7yJ/moco.webp",
+          "name": "Moco",
+          "thumb": "zBJbGsPg/moco.png",
+          "ability": "Kỹ Năng Hacker's Eye",
+          "ability_desc": "Gắn nhãn cho kẻ thù mà Moco bắn trong vài giây.",
+          "gender": "NỮ",
+          "age": "20",
+          "date": "13/02",
+          "bio": "Moco là thiên tài công nghệ đã gia nhập Horizon, công ty công nghệ uy tín nhất trên lục địa. Nhưng khi cô phát hiện ra rằng họ đang thực hiện những hành động đen tối, cô thực hiện một cuộc biến mất, xóa danh tính của mình khỏi hồ sơ công khai và đi vào ẩn náu để tìm cách ngăn chặn kế hoạch của họ. Cô thích hoạt động một mình, nhưng sớm nhận ra rằng mối đe doạ này quá lớn đối với cô để đối mặt một mình."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "fTsnPt9k/steffie.webp",
+          "name": "Steffie",
+          "thumb": "G272hHyW/steffie.png",
+          "ability": "Kỹ Năng Graffiti's Blessing",
+          "ability_desc": "Tạo ra một khu vực chặn đối với vật ném. Đồng minh trong khu vực sẽ khôi phục độ bền giáp mỗi giây và sát thương đạn từ kẻ thù sẽ giảm đi.",
+          "gender": "NỮ",
+          "age": "23",
+          "date": "05/11",
+          "bio": "Steffie có mối thù lâu dài với các cơ sở kinh doanh, bắt đầu từ bố mẹ cô. Cô đã nổi loạn từ rất sớm trong cuộc sống và đã tiếp tục làm như vậy. Cuộc sống của cô gặp một bước ngoặt khó khăn khi cô làm tổn thương ông lớn công nghệ, Horizon, và bị buộc phải chạy trốn hoặc trở thành thí nghiệm cho kế hoạch của họ. Cô được Moco cứu và sớm sau đó tìm thấy Mambas, một lực lượng nổi dậy dường như là cuộc gọi đúng đắn của cô."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "LsQmK9Mw/misha.webp",
+          "name": "Misha",
+          "thumb": "zB0Lbx9P/misha.png",
+          "ability": "Chế Ngự Cơ",
+          "ability_desc": "Tăng tốc độ lái xe và giảm sát thương khi ở bên trong phương tiện. Khó bị nhắm mục khi lái xe.",
+          "gender": "Nữ",
+          "age": "19",
+          "date": "26/07",
+          "bio": "Sau khi bố mẹ của cô bị giết, cô từ bỏ học vụ và trở thành tay đua để kiếm tiền trang trải cuộc sống cho bản thân và em trai Maxim. Một ngày nọ, Maxim biến mất, và cô bỏ mọi thứ để tìm kiếm anh. Hành trình của cô chạm trán với của Andrew khi họ cùng tìm kiếm gia đình. Hành trình của họ sẽ đưa cô đi qua những con đường mới và nguy hiểm, với điểm đến xa xôi khó nhìn thấy."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "HWqskk7C/maxim.webp",
+          "name": "Maxim",
+          "thumb": "43RHr76w/maxim.png",
+          "ability": "Dục Vọng Ăn",
+          "ability_desc": "Giảm thời gian ăn nấm và sử dụng bộ y tế.",
+          "gender": "Nam",
+          "age": "17",
+          "date": "30/01",
+          "bio": "Maxim cảm thấy tội lỗi vì chị gái Misha bỏ học để chăm sóc anh. Nhưng anh không có nhiều kỹ năng thực tế và chuyển sang làm V-tuber ăn uống như công việc làm thêm của mình. Một ngày, anh và bạn học Kelly bị bắt cóc từ chiếc xe bus học và được gửi đến hòn đảo Bermuda. Hòn đảo này sẽ thay đổi anh - anh sẽ trở nên khỏe mạnh, mạnh mẽ hơn, tự tin hơn và sẵn sàng đối mặt với một thế giới khắc nghiệt."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "vmtGPrPY/andrew.webp",
+          "name": "Andrew",
+          "thumb": "TY294Sdh/andrew.png",
+          "ability": "Chuyên Gia Áo Giáp",
+          "ability_desc": "Giảm mức độ mất độ bền của áo giáp.",
+          "gender": "Nam",
+          "age": "42",
+          "date": "25/12",
+          "bio": "Vợ đầu tiên của Andrew có một người con gái là Kelly, người gần với anh như con gái ruột. Khi ly dị, anh vẫn cố gắng tham gia vào cuộc sống của Kelly. Andrew là một trung sĩ trong LLPD trước khi bạn gái mới của anh qua đời trong một cuộc tấn công băng đảng tàn bạo. Anh mất việc cố gắng tìm ra kẻ giết người của cô, đồng thời cũng đối mặt với Horizon, đang cố thôn tính bộ phận cảnh sát."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "CMQS6L4q/caroline.webp",
+          "name": "Caroline",
+          "thumb": "4xm1J9hg/caroline.png",
+          "ability": "Nhanh Nhẹn",
+          "ability_desc": "Tăng tốc độ di chuyển khi giữ một khẩu shotgun.",
+          "gender": "Nữ",
+          "age": "17",
+          "date": "10/10",
+          "bio": "Caroline sở hữu sự khéo léo, lịch lãm và tinh tế mà hầu hết các cô gái giàu có thiếu. Cô là một sinh viên, nhưng do mối quan hệ gia đình, đôi khi cô bị kéo vào kế hoạch của Horizon. Cô và Hayato là bạn bè và đôi khi giúp đỡ lẫn nhau."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "43xXSKjp/laura.webp",
+          "name": "Laura",
+          "thumb": "c1FYrJW4/laura.png",
+          "ability": "Xạ Thủ Nổi Tiếng",
+          "ability_desc": "Tăng độ chính xác khi nhắm ngắm.",
+          "gender": "Nữ",
+          "age": "29",
+          "date": "21/05",
+          "bio": "Laura đứng đầu lớp và là xạ thủ xuất sắc nhất trong đội quân của mình. Chỉ khi cha cô biến mất trong chiến tranh, cô mới chọn con đường trở thành một đặc vụ để cố gắng tìm ra anh. Vẫn đang trong hành trình tìm kiếm, cô làm việc cho một cơ quan tiêu diệt những kẻ xấu đang làm đau đầu thành phố của mình. Laura phải nghĩ lại về cuộc đời mình khi mục tiêu mới của cô, Rafael, không phải là người họ nói với cô."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "jSZbPxC2/rfael.webp",
+          "name": "Rafael",
+          "thumb": "W1gh6NBZ/rafael.png",
+          "ability": "Câm Lặng Tử Thần",
+          "ability_desc": "Hiệu ứng im lặng khi sử dụng súng bắn tỉa và súng trường. Kẻ địch bị trúng và bị hạ gục mất máu nhanh hơn.",
+          "gender": "Nam",
+          "age": "31",
+          "date": "09/09",
+          "bio": "Rafael trước đây là một người đàn ông gia đình dễ thương cho đến khi một bi kịch gia đình khủng khiếp đã khiến anh đi theo con đường lạnh lùng và trả thù. Hiện tại, anh đi khắp thế giới không chỉ để tìm kẻ đã phá hủy gia đình mình mà còn nhận các hợp đồng để đem lại công lý cho những cái ác khác. Khi năm tháng trôi qua, anh nhận ra cuộc sống không như là đen trắng như vẻ bề ngoài. Sự xuất hiện dễ thương của Laura trong cuộc sống của anh giờ đây đã đặt thêm một rắc rối vào cấu trúc cuộc sống cẩn thận đã được tạo ra của anh."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "zfrJStF2/alok.webp",
+          "name": "Alok",
+          "thumb": "qBxwQ0d9/alok.png",
+          "ability": "Drop The Beat",
+          "ability_desc": "Tạo ra một vùng phủ bóng rộng 5m, tăng tốc độ di chuyển và chạy cũng như phục hồi máu. Hiệu ứng không thể chồng chéo.",
+          "gender": "Nam",
+          "age": "28",
+          "date": "26/08",
+          "bio": "Sử dụng sức mạnh của âm nhạc, Alok rời khỏi Brazil và du lịch khắp thế giới. Tên của anh có nghĩa là 'ánh sáng'. Anh đã ký một hợp đồng và một buổi biểu diễn đóng cửa sẽ diễn ra trên đảo chiến trường của Garena Free Fire dành cho một số khách VIP!"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "kgdrkVRB/jota.webp",
+          "name": "Jota",
+          "thumb": "9Q6yCNhd/jota.png",
+          "ability": "Tấn Công Liên Tục",
+          "ability_desc": "Khi sử dụng súng, đánh trúng mục tiêu sẽ phục hồi một ít máu cho người chơi.",
+          "gender": "Nam",
+          "age": "31",
+          "date": "23/06",
+          "bio": "Jota lớn lên trong một gia đình tầng lớp trung bình, là một học sinh trung bình và có một gia đình yêu thương anh. Nói chung, cuộc sống của anh khá bình thường, nhưng anh cảm thấy bị mắc kẹt và cần nhiều hơn là hành động. Anh sống trong một thành phố với các tòa nhà chọc trời nên trời luôn bị che khuất, nên anh bắt đầu leo trèo để tìm nơi có thể nhìn thấy bầu trời."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "1tWsS9hb/clu.webp",
+          "name": "Clu",
+          "thumb": "7LzMzrVt/clu.png",
+          "ability": "Theo Dấu Bước",
+          "ability_desc": "Xác định vị trí của kẻ địch không ở trong tư thế nằm hay ngồi, Thời gian hồi chiêu 50 giây. Đồng đội chia sẻ hiệu ứng kỹ năng sau cấp độ 4.",
+          "gender": "Nữ",
+          "age": "24",
+          "date": "28/02",
+          "bio": "Clu lớn lên ở ngoại ô của một thành phố lớn. Bố mẹ của cô ấy giàu có, chưa bao giờ phải lo lắng về cơ bản của cuộc sống và cô ấy có một tuổi thơ rất yêu thương. Khi cô ấy còn là một thiếu niên, bố cô ấy đã được mời tham gia nỗ lực chiến tranh. Chiến tranh kết thúc một năm sau đó và ông không bao giờ về nhà. Ông không bao giờ được tìm thấy. Clu trở thành một thám tử tư sau khi tốt nghiệp trung học với hi vọng cô có thể khám phá ra chi tiết về sự biến mất của bố."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "P56gNSF8/wolfrahh.webp",
+          "name": "Wolfrahh",
+          "thumb": "5yD2LTpp/wolfrah.png",
+          "ability": "Đèn Sân Khấu",
+          "ability_desc": "Mỗi lượt xem thêm: Sát thương nhận từ đầu giảm, lên đến 25%. Sát thương tới chi nhánh của kẻ địch tăng lên.",
+          "gender": "Nam",
+          "age": "19",
+          "date": "29/04",
+          "bio": "Wolfrahh lớn lên trốn tránh thế giới sau một sự kiện đau lòng. Sau khi đối mặt với nỗi sợ, anh đã vượt qua một số vấn đề tự tin của mình nhưng vẫn gặp khó khăn trong việc tìm ra bản thân mình. Anh được mời tham gia cuộc thi VR lớn nhất dành cho những người chơi ẩn dật nhất trên lục địa để trình diễn kỹ năng của mình. Tuy nhiên, trong quá trình này, anh phát hiện ra bí mật - sự lựa chọn của anh xung quanh những điều đó sẽ xác định cuộc đời của anh."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "wM7HTS9M/alvaro.webp",
+          "name": "Alvaro",
+          "thumb": "63d0kx44/alvaro.png",
+          "ability": "Nghệ Thuật Phá Hủy",
+          "ability_desc": "Tăng sức mạnh vũ khí nổ, tăng phạm vi sát thương.",
+          "gender": "Nam",
+          "age": "26",
+          "date": "28/05",
+          "bio": "Alvaro là một người trẻ tuổi với tính cách nổ bùng. Một tai nạn trong thời thơ ấu đã ban tặng cho anh khả năng đặc biệt về vũ khí nổ, nhưng với cái giá là mất trí nhớ. Anh lạc quan trong một vòng lặp không ngừng tìm kiếm ký ức của mình và cần sử dụng sức mạnh của mình để cứu những người mình quan tâm. Điều duy nhất mà anh tìm thấy ổn định trong cuộc sống của mình là Kapella, người bạn thân thiết từ thuở thơ ấu, mà anh không còn nhớ đến một cách có ý thức nữa."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "jdntV08k/antonio.webp",
+          "name": "Antonio",
+          "thumb": "MHqDx31P/antonio.png",
+          "ability": "Tinh Thần Xã Hội",
+          "ability_desc": "Nhận thêm điểm máu khi ván bắt đầu.",
+          "gender": "Nam",
+          "age": "30",
+          "date": "01/08",
+          "bio": "Antonio là loại người mà mọi người cố tránh gặp mắt nhau. Dường như anh ta sẽ đấm bạn vào mặt nếu bạn nhìn chăm chú vào đôi mắt của anh quá lâu. Trong thực tế, dưới vẻ bề ngoài của một tên xã hội đen, anh ấy là một người rất nhút nhát và nhạy cảm. Lớn lên trong các cuộc chiến giữa các băng đảng địa phương, anh chưa bao giờ bạo lực vô lý - anh chỉ tự bảo vệ bản thân và những người anh yêu thương - vợ, gia đình và con chó Chihuahua tên Poncho của mình."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "MpWwnM6g/paloma.webp",
+          "name": "Paloma",
+          "thumb": "5NZXCYR1/paloma.png",
+          "ability": "Buôn Vũ Khí",
+          "ability_desc": "Có thể mang theo đạn AR mà không chiếm không gian trong hành trang.",
+          "gender": "Nữ",
+          "age": "28",
+          "date": "04/08",
+          "bio": "Mỗi người biết đến Paloma đều ngưỡng mộ cô ấy một cách nào đó. Một bông hoa dại nở rộ trong một khu ổ chuột nghèo khó. Điều này đôi khi đến từ sự tự tin vững chắc của cô khiến mọi người cảm thấy hấp dẫn với cô vì cô phản ánh một cảm giác an toàn và tầm nhìn về tương lai. Điều duy nhất có thể làm cô sa chân khỏi tầm nhìn về tương lai của mình là tình yêu của cuộc đời cô, Antonio."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "YCkrQD3n/miguel.webp",
+          "name": "Miguel",
+          "thumb": "ncL4kD2D/iguel.png",
+          "ability": "Kẻ Sát Nhân Cuồng Loạn",
+          "ability_desc": "Miguel có thể kiếm EP cho mỗi lần giết.",
+          "gender": "Nam",
+          "age": "26",
+          "date": "10/10",
+          "bio": "Dành cả cuộc đời cho luật pháp và công lý, Miguel đã dẫn dắt đội của mình qua vô số các cuộc chiến chống tội phạm với tỷ lệ thành công 100%. Đội của anh nổi tiếng với việc giải quyết những công việc không thể, đó là lý do tại sao không ai ngờ đến vụ tai nạn bi thảm từ 6 tháng trước. Miguel sẽ sớm nhận ra rằng, nỗi đau và sự tức giận sau một nhiệm vụ thất bại không gì sánh bằng với sự phản bội của một người bạn."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "mgwbj3pb/mikita.webp",
+          "name": "Nikita",
+          "thumb": "7L1JDHX4/mikita.png",
+          "ability": "Chuyên Gia Vũ Khí",
+          "ability_desc": "Tốc độ nạp đạn tăng 20%. Mỗi lần người sử dụng kỹ năng trúng một kẻ thù, mục tiêu đó sẽ bị giảm 30% máu hồi phục trong vòng 10 giây (giảm cực đại: 30%).",
+          "gender": "Nữ",
+          "age": "22",
+          "date": "11/11",
+          "bio": "Nhiệm vụ quan trọng nhất của cô là bảo vệ Caroline, con gái của Phó Chủ Tịch Horizon. Tốt nghiệp với tư cách một xạ thủ hàng đầu từ trường quân sự, Nikita chắc chắn có thể có những hoài bão lớn hơn là hộ tống một cô gái thiếu niên, nhưng có vẻ như cô hài lòng với tình hình hiện tại. Người ta không thể không tự hỏi liệu cô có mục tiêu riêng của mình, những mục tiêu có thể không phải lợi ích tốt nhất của Horizon."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "43Br7BL9/kapella.webp",
+          "name": "Kapella",
+          "thumb": "TwGmWLhh/kapella.png",
+          "ability": "Bài Hát Hồi Phục",
+          "ability_desc": "Tăng hiệu ứng của vật phẩm hồi phục và kỹ năng hồi phục. Giảm mất máu cho đồng đội. Hiệu ứng không tích tụ.",
+          "gender": "NỮ",
+          "age": "21",
+          "date": "17/07",
+          "bio": "Kapella mất cha mẹ từ nhỏ và được ông trùm công nghệ Joseph nhận nuôi. Cô gái trẻ năng động này rất quan sát và nhạy bén. Cô trở thành một ca sĩ nổi tiếng thế giới và là thành viên của đội Mambas. Tính cách của cô chắc chắn đóng vai trò quan trọng trong sự thành công của mình, nhưng tất nhiên, ngôi sao không phải một mình nở. Khi Alvaro, một ký ức từ quá khứ của cô, tái xuất, cô phải quyết định điều gì quan trọng nhất trong cuộc sống của mình."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "SN9FTLsB/joseph.webp",
+          "name": "Joseph",
+          "thumb": "bwDQXfKY/joseph.png",
+          "ability": "Chuyển Động Điên Rồ",
+          "ability_desc": "Trở nên miễn nhiễm với các hiệu ứng làm phiền (ví dụ: làm chậm, đánh dấu, làm im kỹ năng) và có tăng tốc độ di chuyển 10% trong 5 giây. Thời gian làm mới: 60 giây.",
+          "gender": "NAM",
+          "age": "45",
+          "date": "02/02",
+          "bio": "Vua của những người chơi đàn ông tại New Dawn, Joseph, sáng lập Nerve Labs, một công ty công nghệ thành công. Cuối cùng của Great Collapse, Joseph nghe nói về kế hoạch đen tối của Horizon dành cho nhân loại và trở thành kẻ thù của nhà khoa học phi thường thông minh."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "cHVZCFCc/notora.webp",
+          "name": "Notora",
+          "thumb": "hvYfMf4L/notora.png",
+          "ability": "Phúc Lợi Của Nhà Đua",
+          "ability_desc": "Khi lái xe, khôi phục HP cho tất cả thành viên trên xe. Hiệu ứng không tích tụ.",
+          "gender": "NỮ",
+          "age": "27",
+          "date": "22/03",
+          "bio": "Con gái của một gia đình băng đảng mô tô, Notora không bao giờ có quyền lựa chọn nhiều về lối sống của mình. Mặc dù cô mạnh mẽ và kiên cường, nhưng cô ấy giấu sâu trong lòng mình sự không chấp nhận với bạo lực không ý nghĩa. Toàn bộ đội của cô bị xóa sổ trong một cuộc tranh giành gay gắt giữa các băng đảng. May mắn thay, tử thần lại bỏ qua cô lần nữa. Notora sớm nhận ra, tuy nhiên, khi cô bị bắt sống và trục xuất đến quần đảo Bermuda, rằng đó không phải là may mắn đã đưa cô đến đó."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "cC2WKXJm/a124.webp",
+          "name": "A124",
+          "thumb": "MTk53pH8/a124.png",
+          "ability": "Niềm Hứng Thú Chiến Đấu",
+          "ability_desc": "Phóng một sóng elektromagnet 8m vô hiệu hóa kích hoạt kỹ năng của đối thủ và gián đoạn đếm ngược tương tác của họ. Kéo dài trong 20 giây. CD: 50 giây. Biểu tượng của A124.",
+          "gender": "NỮ",
+          "age": "18",
+          "date": "01/01",
+          "bio": "Sinh ra để phục vụ một mục đích, A124 được lập trình để trở thành một chiếc máy giết người. Cô chắc chắn không được xây dựng để tương tác với con người và cảm xúc phức tạp, nhưng ai có thể ngăn chặn tâm trí trẻ tuổi từ việc thử nghiệm không? Với những kỹ năng chiến đấu và một tâm trí hiếu kỳ, thế giới đối với cô đơn giản là một con hàu."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "0Q4FZrq5/kla.webp",
+          "name": "Kla",
+          "thumb": "WzYJK58J/kla.png",
+          "ability": "Muay Thái",
+          "ability_desc": "Tăng sát thương đấm.",
+          "gender": "NAM",
+          "age": "27",
+          "date": "14/12",
+          "bio": "Kla vượt qua nhiều trở ngại trong tuổi trẻ, nhưng vụ ám sát của bố mẹ là quá nhiều đối với anh - đẩy anh vào con đường của sự tức giận và bạo lực. Anh lạc lõng trong cảm giác tức giận và tội lỗi xoay quanh cái chết của bố mẹ và tìm thấy mình trong một hố sâu. Chỉ sau khi cuối cùng đối mặt với một trong những người chịu trách nhiệm về cái chết của bố mẹ anh mới tìm thấy sự rõ ràng và hướng đi trong cuộc sống."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "cJrV3fVk/wukong.webp",
+          "name": "Wukong",
+          "thumb": "8kY52fDW/wukong.png",
+          "ability": "Làm Nổi Bật",
+          "ability_desc": "Biến hình thành một bụi cây với tốc độ di chuyển giảm 5%, kéo dài 15 giây. Thời gian chờ: 200 giây. Biến hình kết thúc khi Wukong tấn công. Thời gian chờ reset khi Wukong hạ gục một kẻ địch.",
+          "gender": "Nam",
+          "age": "0",
+          "date": "13/12",
+          "bio": "Một con khỉ giống như con người. Nhưng nó vẫn thích ăn chuối."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "ZKz4hs1b/olivia.webp",
+          "name": "Olivia",
+          "thumb": "BZ7LJw5j/olivia.png",
+          "ability": "Chạm Lành",
+          "ability_desc": "Người chơi được hồi phục bởi Olivia sẽ nhận thêm HP.",
+          "gender": "Nữ",
+          "age": "29",
+          "date": "10/11",
+          "bio": "Sau một cuộc phẫu thuật từ một tai nạn ở tuổi thơ, Olivia phát triển khả năng đặc biệt để chữa trị và hồi phục - chỉ cần một cử chỉ kỳ diệu, cô có thể nhẹ nhàng xua đuổi cảm giác đau và thúc đẩy quá trình lành cho các vết thương. Mặc dù có một tuổi thơ đau thương, Olivia trở thành một trong những người chăm sóc và thông cảm nhất trong số đồng đội của mình. Tuy nhiên, cô ít tương tác xã hội ngoài khu vực an toàn của Ford và tránh xa thế giới bên ngoài."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "yNjzhVdW/ford.webp",
+          "name": "Ford",
+          "thumb": "k4FQjNLx/ford.png",
+          "ability": "Ý Chí Sắt",
+          "ability_desc": "Giảm sát thương nhận được ngoài khu vực an toàn.",
+          "gender": "Nam",
+          "age": "31",
+          "date": "23/01",
+          "bio": "Ford từng là thuyền trưởng trên biển mở. Giờ đây, anh đã cam kết xây dựng một nơi trú ẩn an toàn cho người tị nạn. Anh là chú thông minh và đáng tin cậy của mọi người, người biết đường vào và ra khỏi Bermuda. Biết rõ cách sự phản bội làm tổn thương, Ford nỗ lực tìm sự cân bằng giữa sự tin tưởng và sự thận trọng. Anh tưởng rằng ý chí của mình là không thể phá hủy, cho đến khi gặp Olivia..."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "4dhkDpPH/shani.webp",
+          "name": "Shani",
+          "thumb": "LsV5wy66/shani.png",
+          "ability": "Tái Chế Bộ Giáp",
+          "ability_desc": "Khôi phục độ bền giáp sau mỗi lần giết. Độ bền thêm có thể nâng cấp giáp của bạn lên đến cấp 3.",
+          "gender": "Nữ",
+          "age": "31",
+          "date": "23/06",
+          "bio": "Shani là một kỹ sư tự làm. Bố mẹ của cô đã bị giết trong một vụ nổ tòa nhà khi cô 18 tuổi và cô mất tất cả mọi thứ. Cô lang thang trong vài năm làm công việc linh tinh để kiếm sống, khi một chủ nhân nghĩa địa rác mang cô vào và cho cô một nơi gọi là nhà. Tại đó, cô có thể làm việc với các bộ phận rác và kỹ sư theo đuổi đam mê của mình."
+        }
+      ]
+    }
+  ]
+}

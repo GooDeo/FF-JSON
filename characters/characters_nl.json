@@ -1,0 +1,814 @@
+{
+  "date": [
+    {
+      "details": [
+        {
+          "image": "wvb8P0Dp/ignis.webp",
+          "name": "Ignis",
+          "thumb": "SRT1XKtw/ignis.png",
+          "ability": "Ongetemd Vuur",
+          "ability_desc": "Plaats een vlammenzee van 12 meter breed die 10 seconden aanhoudt (maximale plaatsingsafstand: 15 meter). Vijanden en Gloo-wanden die in contact komen met het vuur zullen een brandend effect ervaren: onmiddellijk 30 schade nemen en gedurende elke volgende seconde 10 schade en 20% pantserduurzaamheid verliezen. Het brandeffect duurt 2 seconden. Gloo-wanden ontvangen direct 200 schade en 200 schade/s gedurende 1 seconde. Cooldown: 60 seconden.",
+          "gender": "Man",
+          "age": "16",
+          "date": "17/07",
+          "bio": "Ignis is een bovennatuurlijke tiener met de aangeboren gave om objecten te ontsteken. In zijn vrije tijd bestrijdt hij criminaliteit en handhaaft hij gerechtigheid, maar hij belandt vaak onbedoeld in problemen vanwege zijn krachten. Het publiek bekritiseert Ignis voor zijn acties, en tijdens zijn rebelse adolescentie reageert hij met een uitdagende houding. Dit weerhoudt hem er echter niet van om op te komen voor de mensen en de stad, tenminste voor nu."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "25yfxsBw/ryden.webp",
+          "name": "Ryden",
+          "thumb": "2SB96rdK/ryden.png",
+          "ability": "Spinnenval",
+          "ability_desc": "Laat een vernietigbare explosieve spin los in de doelrichting. Duurt 30 seconden. Tik binnen 10 seconden opnieuw op de vaardigheidsknop om de beweging van de spin te stoppen. De spin vangt de eerste vijand binnen 5 meter, vermindert hun snelheid met 80% en zorgt ervoor dat ze 10 HP/s verliezen. Het bloedingseffect duurt 3 seconden. Cooldown: 75 seconden.",
+          "gender": "Man",
+          "age": "16",
+          "date": "07/09",
+          "bio": "Als een inventieve genie van 16 jaar overtreffen Rydens rationaliteit en kennis beide zijn leeftijdsgenoten. Het jongetje dat vroeger onder de vleugels van zijn zus Suzy zat, verovert nu de slagvelden. Zijn getalenteerde uitvindingen zullen de weg voor hem effenen."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "44VRwbnr/sonia.webp",
+          "name": "Sonia",
+          "thumb": "kG4fdmXw/sonia.png",
+          "ability": "Nano Levensschild",
+          "ability_desc": "Na dodelijke schade betreed je een onkwetsbare en onbeweeglijke toestand gedurende 0,4 seconden. Daarna krijg je een schild van 50 HP dat 2 seconden aanhoudt. De vaardigheidsgebruiker wordt geëlimineerd wanneer het schild verdwijnt. Cooldown: 180 seconden.",
+          "gender": "Vrouw",
+          "age": "20",
+          "date": "04/08",
+          "bio": "Sonia is een genetisch gemodificeerde nanowetenschapper met uitzonderlijke intelligentie en expertise op het gebied van nanobiotechnologie."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "tRxpwGvv/orion.webp",
+          "name": "Orion",
+          "thumb": "TPVkV04j/orion.png",
+          "ability": "Karmijnrode Pletser",
+          "ability_desc": "Vervangt EP door 300 Karmijnenergie. Verbruikt 200 Karmijnenergie om bescherming te activeren, waarbij je geen schade kunt oplopen of vijanden kunt aanvallen en 10 HP (vijandelijke schildpunten negerend) zult absorberen van vijanden binnen 5 meter. Duurt 3 seconden, waarin je bewegingssnelheid met 20% zal afnemen. Cooldown: 3 seconden.",
+          "gender": "Man",
+          "age": "22",
+          "date": "13/08",
+          "bio": "Orion, een wraakzuchtig wezen dat gespecialiseerd is in het hanteren van Karmijnenergie tijdens gevechten."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "W4ycY5GP/santino.webp",
+          "name": "Santino",
+          "thumb": "5td7QTnN/santino.png",
+          "ability": "Vormverdeler",
+          "ability_desc": "Spawn een mannequin met 200 HP die autonoom reist gedurende 12 seconden. Wanneer de mannequin binnen 60 meter is, gebruik je de vaardigheid opnieuw om van plaats te wisselen. Je kunt slechts één keer binnen 3 seconden wisselen, maximaal 2 keer in totaal. De speler die de mannequin vernietigt, wordt 5 seconden gemarkeerd. Cooldown: 60 seconden.",
+          "gender": "Man",
+          "age": "34",
+          "date": "14/10",
+          "bio": "Geboren in armoede, hield Santino al van kunst sinds zijn kindertijd. Hij studeerde aan een gerenommeerde kunstschool waar zijn talent voor ontwerp tot bloei kwam. Na zijn afstuderen richtte Santino zijn modemerk, Angelic, op en werd hij een beroemdheid met een scherp oog voor marketing. Met groot succes in het vak staat hij altijd in de schijnwerpers van de modewereld."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "CdTtTt1W/luna.webp",
+          "name": "Luna",
+          "thumb": "mZ85pd28/luna.png",
+          "ability": "Fight or Flight",
+          "ability_desc": "This skill initially increases firing rate. When the user hits an enemy, firing rate will convert into a movement speed boost.",
+          "gender": "Female",
+          "age": "28",
+          "date": "18/03",
+          "bio": "Luna is the daughter of a complicated man with a complicated past. She matured early dealing with his recklessness and the recklessness of the adults she grew up around. When her father’s leadership in the Guild was challenged and was eventually kidnapped, Luna had to step up and create her own footsteps to take charge of the group and restore order to the community."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "4N1kRf6P/tatsuya.webp",
+          "name": "Tatsuya",
+          "thumb": "PxK2cxhP/tatusya.png",
+          "ability": "Rebel Rush",
+          "ability_desc": "Moves forward at a rapid speed. This skill can be accumulated for consecutive use.",
+          "gender": "Male",
+          "age": "16",
+          "date": "20/12",
+          "bio": "Tatsuya is torn between his feelings of betrayal and his love for his family. He doesn’t know how to deal with this dichotomy of feelings and willingly allows himself to get pulled into trouble. It is only after he and his brother, Shirou, need to work together to solve a conspiracy that he realizes he is not alone in the world and has the power to change his environment for the better."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "K8LGTSBg/a-patroa.webp",
+          "name": "A-Patroa",
+          "thumb": "L6W02nPP/patroa.png",
+          "ability": "",
+          "ability_desc": "The exclusive skill slot can be equipped with any owned skill and the remaining slots are automatically unlocked when you obtain this character.",
+          "gender": "Female",
+          "age": "28",
+          "date": "30/03",
+          "bio": "A-Patroa is a strong, confident woman who runs a music shop in the middle of a dangerous neighborhood. Her shop doubles as a safe haven, anyone can come to her for help. On top of that, she uses her music to help people experience their lives in new and different ways to help them."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "XqRMNq21/iris.webp",
+          "name": "Iris",
+          "thumb": "QxnpndYn/iris.png",
+          "ability": "Wall Brawl",
+          "ability_desc": "For 15s, successfully firing at a Gloo Wall will mark enemies within 7m of it and penetrate the Gloo Wall to cause damage to marked enemies (damage inflicted will be lower than usual). Effective on 5 Gloo Walls max. Cooldown: 60s.",
+          "gender": "Female",
+          "age": "30",
+          "date": "01/10",
+          "bio": "With her keen vision, Iris is good at predicting enemy's actions to seize opportunities to win. If you're worried that her rhetoric, mindless optimism, and hyper-individualism will affect your cooperation, don’t. Iris never cooperates with anyone - except for Homer who unconditionally accepts her, and cleans up all her messes."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "MZNJm3W0/jbiebs.webp",
+          "name": "J.Biebs",
+          "thumb": "sDncdcxm/biebs.png",
+          "ability": "Silent Sentinel",
+          "ability_desc": "Skill user and allies can block damage using EP. In this case, the amount of EP deducted from allies will be added to the skill user EP.",
+          "gender": "Male",
+          "age": "28",
+          "date": "01/03",
+          "bio": "J.Biebs is a man who wants to unite a fractured world. Through his childhood experiences, he learned that the answer to people’s problems is not money or power but the actual connection between people. He has decided to use his singing skills to dedicate his life to reunite the world."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "cCgyNwc8/homer.webp",
+          "name": "Homer",
+          "thumb": "L4DkLTtS/homer.png",
+          "ability": "Voelt Schokgolf",
+          "ability_desc": "Laat een drone los naar de dichtstbijzijnde vijand binnen een frontale afstand van 100m, waarbij een puls-explosie met een diameter van 4 m wordt gecreëerd die de bewegingssnelheid met 60% en de vuursnelheid met 35% vermindert. Duurt 5s. Doet 25 schade. Cooldown: 90s.",
+          "gender": "MANNELIJK",
+          "age": "30",
+          "date": "01/06",
+          "bio": "Homer is een blinde man die niet alleen een huurmoordenaar is, maar ook een van de oprichters van de bloeiende tech-bende in Griza. Echter, Homer, die in de afgelopen jaren uit de macht is geraakt, wil nu alleen nog maar de waarheid vinden achter de vreemde ziekte die hem als kind blind maakte, het mysterieuze onderzoeksinstituut dat hij zijn school noemde en het zeldzame aardmineraal dat hier allemaal mee verbonden is."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "XJqtwdmD/kenta.webp",
+          "name": "Kenta",
+          "thumb": "rswrQB1k/kenta.png",
+          "ability": "Zwaardvechter's Woede",
+          "ability_desc": "Vormt een schild dat wapenschade van voren vermindert. Reset wanneer de gebruiker een schot lost.",
+          "gender": "MANNELIJK",
+          "age": "38",
+          "date": "05/05",
+          "bio": "Kenta diende jarenlang als lijfwacht en zwaardsmid voor de familie van Hayato Yagami. Hij is een man van weinig woorden, maar beschermt zijn nieuwe, jonge meester in welke situatie ze zich ook bevinden. Hij heeft wel zijn eigen persoonlijke verlangens, maar zet deze op een laag pitje terwijl hij Hayato dient tijdens een gevaarlijke tijd voor de familie Yagami."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "MHVwQ1jJ/nairi.webp",
+          "name": "Nairi",
+          "thumb": "mkkPQQ4Z/nairi.png",
+          "ability": "IJsijzer",
+          "ability_desc": "Ingezette Gloo Muren herstellen 150 duurzaamheid per seconde wanneer ze geraakt worden, gedurende welke teamgenoten binnen 5m 20HP/s herstellen. Maximaal 40HP per teamgenoot van elke Gloo Muur.",
+          "gender": "MANNELIJK",
+          "age": "23",
+          "date": "27/12",
+          "bio": "Nairi ontwikkelde op jonge leeftijd interesse in het weer toen hij gedwongen werd weg te gaan uit koude klimaten. Maar zijn liefde voor sneeuw bracht hem terug. Hij ontwikkelde micro-manipulatie klimaattechnologie om te kunnen overleven in de meest extreme omstandigheden. Nu brengt hij zijn tijd door met bergbeklimmen, wandelen en stormen najagen op zoek naar antwoorden over het voorspellen van het klimaat."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "dtRvQmY8/otho.webp",
+          "name": "Otho",
+          "thumb": "tC11JtD2/otho.png",
+          "ability": "Geheugenmist",
+          "ability_desc": "Vormt een geheugenmist wanneer een vijand wordt geëlimineerd, waarbij de posities van andere vijanden in de buurt worden onthuld.",
+          "gender": "MANNELIJK",
+          "age": "21",
+          "date": "01/11",
+          "bio": "Otho heeft een fantasierijke maar zeer praktische geest. Hij is doodsbang om de herinneringen aan zijn verleden te vergeten en probeert manieren te vinden om het verleden te behouden. Hij komt elke dag dichterbij en heeft in het proces een apparaat ontwikkeld waarmee hij de bedoelingen van anderen kan zien. Als hij niet meer mechanismen onderzoekt voor het geheugen, is hij buiten met zijn vrienden en brengt hij tijd door met dagdromen met zijn hond."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "XqyhP3Vf/leon.webp",
+          "name": "Leon",
+          "thumb": "SNj98pQL/leon.png",
+          "ability": "Buzzer Beater",
+          "ability_desc": "Herstelt HP na betrokkenheid bij gevecht.",
+          "gender": "MANNELIJK",
+          "age": "20",
+          "date": "30/09",
+          "bio": "Leon is een universiteitsstudent met extreme basketbalvaardigheden en hij is niet bang om ze te laten zien. Hij kan hoger springen dan bijna iedereen die hij kent dankzij zijn bionische been. Hij heeft interesse in elektronica en weet hoe hij zijn been moet repareren en eraan moet sleutelen als het defect raakt. Hij lijkt misschien alleen om basketbal te geven, maar hij gebruikt de sport niet alleen om zijn familie te ondersteunen, maar ook zijn vrienden."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "RZVrMkGB/thiva.webp",
+          "name": "Thiva",
+          "thumb": "prmd9RQp/thiva.png",
+          "ability": "Vitale Vibraties",
+          "ability_desc": "De snelheid van het helpen van teamgenoten wordt met 70% verhoogd. Cooldown: 90s. De geholpen teamgenoot herstelt 60 HP in 3s.",
+          "gender": "MAN",
+          "age": "25",
+          "date": "02/12",
+          "bio": "Thiva is de jongere broer van Dimitri. Hij was van nature getalenteerd en speelde muziek gedurende zijn hele jeugd. Hij wil echt de wereld helpen en het leven van mensen verbeteren, maar gelooft dat de beste manier om dat te doen is om het individu te bereiken met een ware boodschap via zijn muziek."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "0NPsJ69L/dimitri.webp",
+          "name": "Dimitri",
+          "thumb": "7hHgjGyj/dimitri.png",
+          "ability": "Helend Hartslag",
+          "ability_desc": "Creëert een genezingszone met een straal van 3,5 m. Binnenin herstellen gebruiker en bondgenoten 10 HP/s. Helpen bij het opstaan wordt automatisch geactiveerd wanneer nodig. Zone duurt 12s. De effecten van het helpen van teamgenoten kunnen worden versterkt door andere vaardigheden. Cooldown: 90s.",
+          "gender": "MAN",
+          "age": "26",
+          "date": "16/05",
+          "bio": "Dimitri is de oudere broer van Thiva. In zijn dagelijks leven spendeerde hij het grootste deel van zijn dag in het laboratorium om nieuwe geluidstechnologieën te ontwikkelen. Nadat hij zijn passie voor muziek ontdekte, realiseerde hij zich dat het helpen van de wereld en het verbeteren van mensenlevens door zijn technologische creaties een van zijn dromen zou kunnen zijn."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "L8dR2Cw4/d-bee.webp",
+          "name": "D-Bee",
+          "thumb": "prCBdQZ2/bee.png",
+          "ability": "Kogelritme",
+          "ability_desc": "Bij schieten tijdens het bewegen, neemt de bewegingssnelheid en nauwkeurigheid toe.",
+          "gender": "MAN",
+          "age": "19",
+          "date": "23/09",
+          "bio": "D-Bee heeft een extraverte persoonlijkheid en houdt ervan nieuwe mensen te ontmoeten. Hij gelooft dat de betekenis van het leven creëren is, en dat is de reden waarom hij muziekmaker is geworden. Hij is ook gefascineerd door dansen en muziek."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "7YSPGrgJ/maro.webp",
+          "name": "Maro",
+          "thumb": "zGgRtSgV/maro.png",
+          "ability": "Valken ijver",
+          "ability_desc": "Schade neemt toe met afstand. Schade aan gemarkeerde vijanden neemt toe.",
+          "gender": "MAN",
+          "age": "32",
+          "date": "23/05",
+          "bio": "Maro geeft de voorkeur aan het gezelschap van dieren boven mensen. Hij vindt dat mensen vaak alles overdenken en de ware betekenis van het leven vergeten. Hij wil een vrije geest zijn en hoopt ook andere mensen dichter bij de natuur te brengen via zijn vogels."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "HnwGxHfp/skyler.webp",
+          "name": "Skyler",
+          "thumb": "rmFskSKG/skyler.png",
+          "ability": "Getijdenritme",
+          "ability_desc": "Laat een sonische golf naar voren los die schade toebrengt aan Gloo-wanden. Bovendien zal elke geplaatste Gloo-wand leiden tot HP-herstel. Herstel-effecten stapelen niet.",
+          "gender": "MAN",
+          "age": "26",
+          "date": "05/07",
+          "bio": "Skyler kwam op als de heetste popzanger-danser in het land, en is nu de CEO van het grootste entertainmentbedrijf in Vietnam. Gedreven om het beste muzikale talent in de business te zijn en ook het beste talent te vinden. Hij houdt er niet van om te verliezen en gelooft dat creativiteit mensen in staat stelt het goede in de wereld te zien in plaats van het slechte."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "jjmB4LTx/xayne.webp",
+          "name": "Xayne",
+          "thumb": "Yqm9M2qP/xayne.png",
+          "ability": "Extreme Ontmoeting",
+          "ability_desc": "Krijgt tijdelijk 120 HP, verhoogt schade aan Gloo Walls en schilden. Duurt 6 seconden.",
+          "gender": "Vrouw",
+          "age": "23",
+          "date": "21/04",
+          "bio": "Xayne was altijd al geïnteresseerd in meer extreme activiteiten, zelfs toen ze nog een kind was. Ze geeft de voorkeur aan de adrenalinekick van extreme sporten boven menselijke interactie. Als een vrije geest wil ze het leven verkennen en haar grenzen vinden. Als iemand haar vermogen om een missie te volbrengen in twijfel trekt, zal ze zeker een manier vinden om het te doen."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "D0kknmpj/shirou.webp",
+          "name": "Shirou",
+          "thumb": "jjTC8VTF/shirou.png",
+          "ability": "Schade Geleverd",
+          "ability_desc": "Wanneer de gebruiker wordt geraakt van binnen 80m, wordt de aanvaller gemarkeerd (alleen zichtbaar voor de gebruiker). Het eerste schot op gemarkeerde vijanden heeft extra pantserdoorboring.",
+          "gender": "Man",
+          "age": "19",
+          "date": "20/11",
+          "bio": "Shirou is een tiener met een sterk gevoel van verantwoordelijkheid die alles heeft geriskeerd om zijn familie en thuisstad te beschermen. Hij werkt als koerier en bezorgt pakketten rond de drukke en drukke stad Griza. Hij zal grote kansen moeten overwinnen en te maken krijgen met krachten die groter zijn dan hij om zijn waarheid en ware roeping in het leven te vinden."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "sXfsbM8p/chrono.webp",
+          "name": "Chrono",
+          "thumb": "CxXsdxjf/chrono.png",
+          "ability": "Tijdkeerder",
+          "ability_desc": "Creëert een schadeblokkerend krachtveld. Kan geen externe vijanden aanvallen vanuit het veld.",
+          "gender": "Man",
+          "age": "35",
+          "date": "05/02",
+          "bio": "Chrono komt uit een parallel universum waar een hoger niveau van wetenschap en technologie is dan de niveaus in onze huidige wereld, de Aarde. Hij had een normale jeugd in zijn oorspronkelijke universum. Zijn ouders waren beroemde advocaten die vochten tegen armoede en hielpen dakloze arme mensen om deel uit te maken van de samenleving. Hierdoor had hij altijd bewustzijn over achtergestelde groepen sinds hij heel jong was, en naarmate hij ouder werd, vond hij manieren om ook zijn steentje bij te dragen."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "t4hbTdG3/dasha.webp",
+          "name": "Dasha",
+          "thumb": "QtrgkYY8/dasha.png",
+          "ability": "Feestend",
+          "ability_desc": "Vermindert ontvangen schade en hersteltijd van vallen. Vermindert de opbouwsnelheid van terugslag en maximale terugslag.",
+          "gender": "Vrouw",
+          "age": "25",
+          "date": "08/12",
+          "bio": "Dasha is een feestmeisje dat het motto 'hard werken, nog harder feesten' naleeft. Ze is een beetje ondeugend, vaak problemen veroorzakend wanneer ze het niet bedoelt. Ze heeft veel meegemaakt in haar leven, maar is blij dat ze de Mambas heeft gevonden die haar diverse vaardigheden waarderen. Maar nu is ze betrokken geraakt bij iets dat ze niet bedoelde, maar alleen de tijd zal uitwijzen of het de moeite waard is om te proberen."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "GmJ0rcvz/k.webp",
+          "name": "K",
+          "thumb": "s257X9jt/k.png",
+          "ability": "Meester van Alles",
+          "ability_desc": "Max EP neemt toe met 50. Jiujitsu-modus: Bondgenoten binnen 6m krijgen een verhoogd EP-conversiepercentage van 500%. Psychologiemodus: Herstel 2 EP elke {4} seconden, tot {6} EP. Modusschakeling CD 3s.",
+          "gender": "Man",
+          "age": "31",
+          "date": "06/10",
+          "bio": "K was een slimme jongen, maar net als de meeste kinderen van zijn leeftijd nam hij school niet serieus. Toen hij 16 was, nog steeds een derdejaars op de middelbare school, raakte hij betrokken bij een auto-ongeluk en verwondde zijn ruggengraat. Zijn artsen vertelden hem dat hij nooit meer zou kunnen lopen. Maar hij weigerde op te geven - dit zou niet het einde voor hem zijn. Hij ging naar fysiotherapie, deed zijn eigen therapie thuis, en vond een trainer om hem verder te helpen. In een jaar liep hij weer; in twee jaar speelde hij weer sport. Deze ervaring leerde hem een paar dingen die hem zijn hele leven bij zouden blijven. - Neem het leven niet voor lief. - Hij moest diep in zichzelf graven om de ervaring te doorstaan en hij leerde zichzelf te begrijpen, zijn motivaties evenals zijn plaats in de wereld. - Een neveneffect hiervan was dat hij nu mensen om hem heen op dezelfde manier kon lezen en begrijpen. - Hij wilde ook zijn lichaam en geest sterker maken om nooit meer op dezelfde manier gewond te raken."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "tRZ4bxJ5/luqueta.webp",
+          "name": "Luqueta",
+          "thumb": "nc5DGwMy/luqueta.png",
+          "ability": "Kat Truc",
+          "ability_desc": "Elke moord verhoogt het max HP, tot 35.",
+          "gender": "Mannelijk",
+          "age": "20",
+          "date": "10/06",
+          "bio": "Luqueta was een uitwisselingsstudent uit het buitenland. Hij verhuisde vanwege het werk van zijn vader. Zijn vader wilde dat hij in zijn voetsporen zou treden, een MBA zou halen en zich in het bedrijfsleven zou storten. Maar Luqueta zag het leven van zijn vader en wilde niets van dat alles. Hij was altijd een sportief kind. Toen hij verhuisde, begon hij met voetballen voor de school; hij wist dat hij goed was sinds zijn kindertijd, maar op de middelbare school werd hij een ster. Hij hoefde zelfs niet al te hard zijn best te doen om geweldig te zijn."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "nLHyh6kx/kelly.webp",
+          "name": "Kelly",
+          "thumb": "V6Rt9fbg/kelly.png",
+          "ability": "Sprint",
+          "ability_desc": "Verhoogt de sprint-snelheid.",
+          "gender": "Vrouwelijk",
+          "age": "17",
+          "date": "01/04",
+          "bio": "Als kind was ze een vrolijke meid met haar adoptiemoeder Rena en stiefvader Andrew. Toen haar moeder en Andrew scheidden, was ze erg verdrietig maar bleef in contact met Andrew. Kelly was altijd een goede hardloopster, maar op de middelbare school ontdekte de atletiekcoach haar en werd ze de ster van de schoolsprint. Wanneer ze zichzelf op een onbekend eiland bevindt, zal ze gedwongen worden moeilijke keuzes te maken die haar toekomst zullen bepalen."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "W34cXQF8/hayato.webp",
+          "name": "Hayato",
+          "thumb": "yxLFK11x/hayato.png",
+          "ability": "Bushido",
+          "ability_desc": "Hoe lager je HP, hoe hoger je pantserdoordringing wordt.",
+          "gender": "Mannelijk",
+          "age": "20",
+          "date": "21/03",
+          "bio": "Hayato had veel op zijn schouders als de oudste erfgenaam van de Yagami Corporation. Hij werd opgevoed in een leven waar zijn bestaan bedoeld was om de eer en glorie van zijn familie te dienen. Toen hun familiebedrijf werd overgenomen door Horizon, aarzelde hij niet om zich bezig te houden met zakelijke aangelegenheden om ervoor te zorgen dat de Yagami's nog steeds met eer zouden opereren."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "bJGpq7yJ/moco.webp",
+          "name": "Moco",
+          "thumb": "zBJbGsPg/moco.png",
+          "ability": "Hacker's Oog",
+          "ability_desc": "Markeert vijanden die Moco heeft neergeschoten gedurende enkele seconden.",
+          "gender": "Vrouwelijk",
+          "age": "20",
+          "date": "13/02",
+          "bio": "Moco is een tech-genie die zich bij Horizon heeft aangesloten, het meest prestigieuze techbedrijf op het continent. Maar toen ze ontdekte dat ze betrokken waren bij schimmige praktijken, verdween ze, wiste haar identiteit uit de publieke registers en dook onder om een manier te vinden om hun plannen te stoppen. Ze werkt graag alleen, maar zal al snel beseffen dat deze dreiging te groot is om in haar eentje aan te pakken."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "fTsnPt9k/steffie.webp",
+          "name": "Steffie",
+          "thumb": "G272hHyW/steffie.png",
+          "ability": "Graffiti's Zegen",
+          "ability_desc": "Creëert een gebied dat projectielen blokkeert. Bondgenoten in het gebied herstellen elke seconde pantserduurzaamheid, en schade aan munitie van vijanden wordt verminderd.",
+          "gender": "Vrouwelijk",
+          "age": "23",
+          "date": "05/11",
+          "bio": "Steffie heeft een lange vete met instellingen, te beginnen met haar ouders. Ze rebelleerde al vroeg in haar leven en bleef dat doen. Haar leven nam een moeilijke wending toen ze de tech-gigant Horizon beledigde en gedwongen werd om te vluchten of proefkonijn te worden voor hun experimenten. Ze werd gered door Moco en vond al snel de Mambas, een rebellengroep die haar echte roeping lijkt te zijn."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "LsQmK9Mw/misha.webp",
+          "name": "Misha",
+          "thumb": "zB0Lbx9P/misha.png",
+          "ability": "Afterburner",
+          "ability_desc": "Verhoogt de rijsnelheid en vermindert de schade die wordt toegebracht terwijl je in voertuigen zit. Moeilijker te richten terwijl je rijdt.",
+          "gender": "Vrouwelijk",
+          "age": "19",
+          "date": "26/07",
+          "bio": "Nadat haar ouders waren vermoord, gaf ze school op en werd Misha een autocoureur om de rekeningen te betalen en zichzelf en haar broer, Maxim, te ondersteunen. Op een dag verdween Maxim, en ze liet alles vallen om hem te vinden. Haar zoektocht kruiste het pad van Andrew terwijl ze zochten naar hun respectieve families. Hun reis zal haar langs nieuwe en gevaarlijke wegen leiden, met het einde ver uit het zicht."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "HWqskk7C/maxim.webp",
+          "name": "Maxim",
+          "thumb": "43RHr76w/maxim.png",
+          "ability": "Gulzigheid",
+          "ability_desc": "Vermindert de tijd om paddenstoelen te eten en medkits te gebruiken.",
+          "gender": "Mannelijk",
+          "age": "17",
+          "date": "30/01",
+          "bio": "Maxim voelde zich schuldig dat zijn zus, Misha, stopte met school om voor hem te zorgen. Maar hij had niet veel praktische vaardigheden en wendde zich tot voedsel-etend v-tuben als zijn parttime baan. Op een dag werden hij en zijn schoolgenoot Kelly ontvoerd uit een schoolbus en naar het eiland Bermuda gestuurd. Het eiland zou hem veranderen - hij zou gezonder, sterker, zelfverzekerder en beter voorbereid worden om een harde wereld het hoofd te bieden."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "vmtGPrPY/andrew.webp",
+          "name": "Andrew",
+          "thumb": "TY294Sdh/andrew.png",
+          "ability": "Pantser Specialist",
+          "ability_desc": "Vermindert de slijtage van de pantserduurzaamheid.",
+          "gender": "Mannelijk",
+          "age": "42",
+          "date": "25/12",
+          "bio": "Andrew's eerste vrouw had een dochter, Kelly, die zo dicht bij hem stond als een biologische dochter. Toen hij gescheiden was, probeerde hij nog steeds betrokken te blijven bij het leven van Kelly. Andrew was sergeant bij de LLPD voordat zijn nieuwe verloofde stierf in een brute bendeaanval. Hij verloor zijn baan terwijl hij haar moordenaars probeerde te vinden en ook terugvocht tegen Horizon, dat probeerde de politieafdeling over te nemen."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "CMQS6L4q/caroline.webp",
+          "name": "Caroline",
+          "thumb": "4xm1J9hg/caroline.png",
+          "ability": "Behendigheid",
+          "ability_desc": "Verhoogde bewegingssnelheid bij het vasthouden van een hagelgeweer.",
+          "gender": "Vrouwelijk",
+          "age": "17",
+          "date": "10/10",
+          "bio": "Caroline bezat de behendigheid, beleefdheid en verfijning die de meeste rijke meisjes ontbraken. Ze werkte volgens sociale normen, maar manipuleerde mensen handig naar haar zin. Ze is nog steeds student, maar vanwege haar familieconnecties wordt ze soms betrokken bij plannen van Horizon. Ze en Hayato zijn bekenden en helpen elkaar soms."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "43xXSKjp/laura.webp",
+          "name": "Laura",
+          "thumb": "c1FYrJW4/laura.png",
+          "ability": "Scherpschutter",
+          "ability_desc": "Toename van nauwkeurigheid tijdens het richten.",
+          "gender": "Vrouwelijk",
+          "age": "29",
+          "date": "21/05",
+          "bio": "Laura was de beste van haar klas en de meest opvallende scherpschutter die haar peloton ooit voortbracht. Pas toen haar vader verdween in de oorlog, koos ze haar pad om speciaal agent te worden en hem proberen te vinden. Nog steeds op zoek werkt ze voor een bureau dat de slechteriken uit haar stad elimineert. Laura moet nu haar leven heroverwegen wanneer haar nieuwe doel, Rafael, niet is wie ze haar vertellen dat hij is."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "jSZbPxC2/rfael.webp",
+          "name": "Rafael",
+          "thumb": "W1gh6NBZ/rafael.png",
+          "ability": "Doodse Stilte",
+          "ability_desc": "Onderdrukkend effect bij het gebruik van sluipschutters- en scherpschuttersgeweren. Vijanden die geraakt en neergeschoten worden, verliezen sneller HP.",
+          "gender": "MAN",
+          "age": "31",
+          "date": "09/09",
+          "bio": "Rafael was een lieve familieman totdat een vreselijke familietragedie hem op het pad van koelbloedigheid en wraak stuurde. Nu zoekt hij de wereld af, niet alleen naar de man die zijn familie verwoestte, maar ook naar contracten om gerechtigheid te brengen aan andere kwaadaardigheden. Naarmate de jaren verstreken, realiseerde hij zich dat het leven niet zo zwart-wit is als het leek. Het verschijnen van de mooie Laura in zijn leven heeft nu nog een ander probleem in de zorgvuldig opgebouwde structuur van zijn leven geworpen."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "zfrJStF2/alok.webp",
+          "name": "Alok",
+          "thumb": "qBxwQ0d9/alok.png",
+          "ability": "Laat de Beat Vallen",
+          "ability_desc": "Creëert een aura van 5m die de bewegings- en sprintssnelheid verhoogt en HP herstelt. Het effect kan niet worden gestapeld.",
+          "gender": "MAN",
+          "age": "28",
+          "date": "26/08",
+          "bio": "Met behulp van de kracht van muziek verliet Alok Brazilië en reisde hij de wereld rond. Zijn naam betekent 'licht'. Hij heeft een contract getekend en een besloten concert zal plaatsvinden op het slagveld van Free Fire voor enkele VIP-gasten!"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "kgdrkVRB/jota.webp",
+          "name": "Jota",
+          "thumb": "9Q6yCNhd/jota.png",
+          "ability": "Voortdurende Aanvallen",
+          "ability_desc": "Bij gebruik van wapens wordt bij het raken van een vijand wat HP hersteld voor de gebruiker.",
+          "gender": "MAN",
+          "age": "31",
+          "date": "23/06",
+          "bio": "Jota groeide op in een middenklassegezin, was een gemiddelde student en had een familie die van hem hield. Over het algemeen een vrij normaal leven - maar hij voelde zich gevangen en had meer actie nodig in zijn leven. Hij woonde in een stad met wolkenkrabbers die de skyline vulden en voelde zich gevangen, dus begon hij te klimmen om plaatsen te vinden om de lucht te zien."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "1tWsS9hb/clu.webp",
+          "name": "Clu",
+          "thumb": "7LzMzrVt/clu.png",
+          "ability": "Sporen Volgen",
+          "ability_desc": "Bepaalt posities van vijanden die niet in een liggende of gehurkte positie zijn, CD 50s. Teamgenoten delen vaardigheidseffecten na niveau 4.",
+          "gender": "VROUW",
+          "age": "24",
+          "date": "28/02",
+          "bio": "Clu groeide op in een buitenwijk van een grote stad. Haar ouders waren rijk, hoefden zich nooit zorgen te maken over de basisbehoeften van het leven en ze had een heel liefdevolle jeugd. Toen ze een tiener was, werd haar vader gerekruteerd voor de oorlogsinspanningen. Een jaar later eindigde de oorlog en kwam hij nooit meer thuis. Hij werd nooit gevonden. Clu werd privédetective na haar afstuderen aan de middelbare school in de hoop dat ze details over de verdwijning van haar vader kon achterhalen."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "P56gNSF8/wolfrahh.webp",
+          "name": "Wolfrahh",
+          "thumb": "5yD2LTpp/wolfrah.png",
+          "ability": "Spotlicht",
+          "ability_desc": "Bij elke extra kijker: Schade van hoofdschoten neemt af tot 25%. Schade aan vijandelijke ledematen neemt toe.",
+          "gender": "MAN",
+          "age": "19",
+          "date": "29/04",
+          "bio": "Wolfrahh groeide op terwijl hij zich verstopte voor de wereld na een traumatische gebeurtenis. Na zijn angsten onder ogen te hebben gezien, slaagde hij erin om enkele van zijn zelfvertrouwensproblemen te overwinnen, maar had nog steeds moeite om zijn identiteit te vinden. Hij werd uitgenodigd voor de grootste ondergrondse VR-gamecompetitie op het continent om zijn vaardigheden te laten zien. In het proces ontdekte hij echter geheimen - zijn keuzes rondom die geheimen zullen zijn leven bepalen."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "wM7HTS9M/alvaro.webp",
+          "name": "Alvaro",
+          "thumb": "63d0kx44/alvaro.png",
+          "ability": "Kunst van de Vernietiging",
+          "ability_desc": "Verhoogt schade van explosief wapen, vergroot bereik van schade.",
+          "gender": "MAN",
+          "age": "26",
+          "date": "28/05",
+          "bio": "Alvaro is een jongeman met een explosieve persoonlijkheid. Een jeugdongeluk schonk hem speciale explosieve krachten, maar ten koste van zijn herinneringen. Hij raakt verloren in een voortdurende cirkel van het zoeken naar zijn herinneringen en de noodzaak om zijn krachten te gebruiken om degenen van wie hij houdt te redden. De enige constante in zijn leven is Kapella, zijn jeugdvriend, die hij niet langer bewust herinnert."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "jdntV08k/antonio.webp",
+          "name": "Antonio",
+          "thumb": "MHqDx31P/antonio.png",
+          "ability": "Geest van de Gangster",
+          "ability_desc": "Ontvang extra HP bij het begin van de ronde.",
+          "gender": "MAN",
+          "age": "30",
+          "date": "01/08",
+          "bio": "Antonio is het soort man waar mensen oogcontact mee vermijden. Het lijkt alsof hij je in het gezicht slaat als je te lang naar hem staart. In werkelijkheid is hij onder die gangster-look verlegen en gevoelig. Opgegroeid in lokale bendeoorlogen, was hij nooit gewelddadig zonder reden - hij beschermde alleen zichzelf en zijn geliefden - zijn vrouw, zijn familie en zijn Chihuahua genaamd Poncho."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "MpWwnM6g/paloma.webp",
+          "name": "Paloma",
+          "thumb": "5NZXCYR1/paloma.png",
+          "ability": "Wapenhandel",
+          "ability_desc": "In staat om AR-ammo te dragen zonder inventarisruimte in te nemen.",
+          "gender": "VROUW",
+          "age": "28",
+          "date": "04/08",
+          "bio": "Iedereen die Paloma leert kennen, kijkt op een of andere manier tegen haar op. Een wilde bloem die bloeit in een arme sloppenwijk. Dit komt soms door haar onwrikbare zelfvertrouwen waardoor mensen naar haar toe worden getrokken, omdat ze een gevoel van toekomstige veiligheid en visie projecteert. Het enige dat haar kan afleiden van haar eigen toekomstvisie, is de liefde van haar leven, Antonio."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "YCkrQD3n/miguel.webp",
+          "name": "Miguel",
+          "thumb": "ncL4kD2D/iguel.png",
+          "ability": "Waanzinnige Jager",
+          "ability_desc": "Miguel kan EP krijgen voor elk dodental.",
+          "gender": "MAN",
+          "age": "26",
+          "date": "10/10",
+          "bio": "Miguel heeft zijn leven gewijd aan wet en rechtvaardigheid, hij heeft zijn team door talloze misdaadbestrijdingsoperaties geleid met een succespercentage van 100%. Zijn team staat bekend om het aanpakken van onmogelijke klussen, daarom verwachtte niemand het tragische incident van 6 maanden geleden. Miguel zou al snel beseffen dat de pijn en woede na een mislukte missie niets voorstellen vergeleken met dat van het verraad van een vriend."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "mgwbj3pb/mikita.webp",
+          "name": "Nikita",
+          "thumb": "7L1JDHX4/mikita.png",
+          "ability": "Wapenexpert",
+          "ability_desc": "Herlaadsnelheid neemt toe met 20%. Telkens wanneer de gebruiker van de vaardigheid een vijand treft, krijgt die doelwit een 30% vermindering van het herstel dat 10 seconden aanhoudt (max. aftrek: 30%).",
+          "gender": "VROUW",
+          "age": "22",
+          "date": "11/11",
+          "bio": "Haar belangrijkste missie is om Caroline, de dochter van de vice-president van Horizon, te beschermen. Afgestudeerd als topschutter van de militaire school, zou Nikita zeker grotere ambities kunnen hebben dan het begeleiden van een tienermeisje, maar het lijkt erop dat ze tevreden is met hoe de dingen gaan. Men vraagt zich af of ze haar eigen doelstellingen heeft, die misschien niet in het belang zijn van Horizon."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "43Br7BL9/kapella.webp",
+          "name": "Kapella",
+          "thumb": "TwGmWLhh/kapella.png",
+          "ability": "Helende Zang",
+          "ability_desc": "Verhoogt de effecten van genezende items en genezende vaardigheden. Vermindert het verlies van HP bij bondgenoten. Effecten stapelen niet.",
+          "gender": "VROUWELIJK",
+          "age": "21",
+          "date": "17/07",
+          "bio": "Kapella werd als kind wees en geadopteerd door de techmagnaat Joseph. De energieke jonge vrouw was uiterst waarnemend en intuïtief. Ze werd een wereldberoemde zangeres en lid van de Mambas. Haar persoonlijkheid speelt zeker een sleutelrol in haar succes, maar natuurlijk wordt een ster niet alleen geboren. Wanneer Alvaro, een herinnering uit haar verleden, weer verschijnt, moet ze beslissen wat het belangrijkst is in haar leven."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "SN9FTLsB/joseph.webp",
+          "name": "Joseph",
+          "thumb": "bwDQXfKY/joseph.png",
+          "ability": "Dwaze Beweging",
+          "ability_desc": "Wordt immuun voor verstorende effecten (bijv. vertraging, markeren, vaardigheidsonderdrukking) en krijgt 10% bewegingssnelheid gedurende 5s. Herlaadtijd: 60s.",
+          "gender": "MAN",
+          "age": "45",
+          "date": "02/02",
+          "bio": "De gekroonde koning van de damesman van New Dawn, Joseph, richtte Nerve Labs op, een succesvol technologiebedrijf. Aan het einde van de Great Collapse kreeg Joseph lucht van de sinistere plannen van Horizon voor de mensheid en maakte een vijand van de buitengewoon intelligente wetenschapper."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "cHVZCFCc/notora.webp",
+          "name": "Notora",
+          "thumb": "hvYfMf4L/notora.png",
+          "ability": "Zegen van de Racer",
+          "ability_desc": "Herstelt HP van alle leden op het voertuig tijdens het rijden. Effecten stapelen niet.",
+          "gender": "VROUWELIJK",
+          "age": "27",
+          "date": "22/03",
+          "bio": "Als dochter van een familie van motorrijders had Notora niet veel te zeggen over haar levensstijl. Ondanks haar kracht en stoerheid heeft ze diep van binnen een verborgen afkeer van zinloos geweld. Haar hele team werd uitgeroeid tijdens een meedogenloze bendeoorlog. Gelukkig keerde de dood haar opnieuw de rug toe. Notora zou al snel echter beseffen, terwijl ze levend gevangen werd genomen en verbannen naar de Bermuda-eilanden, dat het niet geluk was dat haar daar bracht."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "cC2WKXJm/a124.webp",
+          "name": "A124",
+          "thumb": "MTk53pH8/a124.png",
+          "ability": "Extase van de Strijd",
+          "ability_desc": "Laat een elektromagnetische golf van 8m los die de vaardigheidsactivatie van vijanden uitschakelt en hun interactietimer onderbreekt. Duurt 20s. CD: 50s. A124's Banier.",
+          "gender": "VROUWELIJK",
+          "age": "18",
+          "date": "01/01",
+          "bio": "Geboren om een doel te dienen, werd A124 geprogrammeerd om een moordmachine te zijn. Ze was zeker niet gebouwd voor menselijke interacties en gecompliceerde emoties, maar wie kon een jonge geest stoppen van proberen? Met die gevechtsvaardigheden en een nieuwsgierige geest is de wereld letterlijk haar oester."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "0Q4FZrq5/kla.webp",
+          "name": "Kla",
+          "thumb": "WzYJK58J/kla.png",
+          "ability": "Muay Thai",
+          "ability_desc": "Verhoogde vuistenschade.",
+          "gender": "MAN",
+          "age": "27",
+          "date": "14/12",
+          "bio": "Kla overwon vele obstakels in zijn jeugd, maar de moord op zijn ouders was te veel voor hem - het zette hem op het pad van woede en geweld. Hij verloor zichzelf in de woede en schuldgevoelens rond hun dood en belandde in een diepe put. Het was pas nadat hij eindelijk een van de mannen die verantwoordelijk waren voor de dood van zijn ouders onder ogen zag, dat hij helderheid vond en zijn levenspad."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "cJrV3fVk/wukong.webp",
+          "name": "Wukong",
+          "thumb": "8kY52fDW/wukong.png",
+          "ability": "Camouflage",
+          "ability_desc": "Transformeert in een struik met 5% vermindering van de bewegingssnelheid, duurt 15 seconden. CD: 200 seconden. Transformatie eindigt wanneer Wukong aanvalt. CD wordt gereset wanneer Wukong een vijand uitschakelt.",
+          "gender": "MAN",
+          "age": "0",
+          "date": "13/12",
+          "bio": "Een aap die eruitziet als een mens. Hij houdt nog steeds van bananen, hoewel."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "ZKz4hs1b/olivia.webp",
+          "name": "Olivia",
+          "thumb": "BZ7LJw5j/olivia.png",
+          "ability": "Helende Aanraking",
+          "ability_desc": "Spelers die door Olivia worden opgewekt, krijgen extra HP.",
+          "gender": "VROUW",
+          "age": "29",
+          "date": "10/11",
+          "bio": "Na een operatie als gevolg van een kinderongeluk ontwikkelde Olivia een speciale gave om te genezen en te herstellen - met één wonderbaarlijke aanraking kan ze voorzichtig de pijn wegnemen en genezing bevorderen bij verwondingen. Ondanks haar traumatische kindertijd groeide Olivia uit tot een van de zorgzaamste en meest medelevende onder haar leeftijdsgenoten. Ze heeft echter weinig sociale interactie buiten de veilige zone van Ford en vermijdt de wereld."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "yNjzhVdW/ford.webp",
+          "name": "Ford",
+          "thumb": "k4FQjNLx/ford.png",
+          "ability": "IJzeren Wil",
+          "ability_desc": "Vermindert schade buiten de veilige zone.",
+          "gender": "MAN",
+          "age": "31",
+          "date": "23/01",
+          "bio": "Ford was ooit kapitein op volle zee. Nu heeft hij zich toegewijd aan het bouwen van een veilige haven voor vluchtelingen. Hij is ieders wijze en betrouwbare oom, die de waterwegen naar en uit Bermuda kent. Wetende hoe verraden wordt, streeft Ford naar een balans tussen vertrouwen en voorzichtigheid. Hij dacht dat zijn wil onvernietigbaar was, totdat hij Olivia ontmoette..."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "4dhkDpPH/shani.webp",
+          "name": "Shani",
+          "thumb": "LsV5wy66/shani.png",
+          "ability": "Herstel van uitrusting",
+          "ability_desc": "Herstelt pantserschade na elke dood. Extra duurzaamheid kan je uitrusting upgraden, tot niveau 3.",
+          "gender": "VROUW",
+          "age": "31",
+          "date": "23/06",
+          "bio": "Shani is een zelfgemaakte ingenieur. Haar ouders werden gedood bij een gebouwexplosie toen ze 18 was en ze verloor alles. Ze zwierf een paar jaar rond en deed tijdelijke klusjes om de kost te verdienen, toen een eigenaar van een schroothoop haar in huis nam en haar een plek gaf die ze thuis kon noemen. Daar kon ze werken met schrootonderdelen en ingenieur zijn naar hartelust."
+        }
+      ]
+    }
+  ]
+}

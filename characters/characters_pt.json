@@ -1,0 +1,814 @@
+{
+  "date": [
+    {
+      "details": [
+        {
+          "image": "wvb8P0Dp/ignis.webp",
+          "name": "Ignis",
+          "thumb": "SRT1XKtw/ignis.png",
+          "ability": "Chama Indomada",
+          "ability_desc": "Implante uma tela em chamas com 12m de largura que dura por 10s (distância máxima de implantação: 15m). Inimigos e paredes de Gloo que entram em contato com a tela experimentarão um efeito de queimadura: instantaneamente recebem 30 de dano e, a cada segundo subsequente, sofrem 10 de dano e perdem 20% da durabilidade da armadura. O efeito de queima dura 2s. As paredes de Gloo receberão instantaneamente 200 de dano e 200 de dano/s por 1s. Tempo de recarga: 60s.",
+          "gender": "Masculino",
+          "age": "16",
+          "date": "17/07",
+          "bio": "Ignis é um adolescente superpoderoso que possui a habilidade inata de incendiar objetos. Em seu tempo livre, ele combate o crime e defende a justiça, mas frequentemente se vê causando problemas não intencionais devido aos seus poderes. O público critica Ignis por suas ações, e durante sua adolescência rebelde, ele responde com uma atitude desafiadora. No entanto, isso não o impede de se levantar pelas pessoas e pela cidade, pelo menos por enquanto."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "25yfxsBw/ryden.webp",
+          "name": "Ryden",
+          "thumb": "2SB96rdK/ryden.png",
+          "ability": "Armadilha de Aranha",
+          "ability_desc": "Libere uma aranha explosiva destrutível na direção alvo. Dura por 30s. Toque no botão de habilidade novamente dentro de 10s para parar o movimento da aranha. A aranha pegará o primeiro inimigo que avistar dentro de 5m, reduzirá a velocidade deles em 80% e os fará perder 10 de HP/s. O efeito de sangramento durará por 3s. Tempo de recarga: 75s.",
+          "gender": "Masculino",
+          "age": "16",
+          "date": "07/09",
+          "bio": "Como um gênio inventivo de 16 anos, a racionalidade e o conhecimento de Ryden ultrapassam seus colegas. O menino, que costumava ficar sob as asas de sua irmã Suzy, agora está conquistando os campos de batalha. Suas invenções talentosas abrirão caminho para ele."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "44VRwbnr/sonia.webp",
+          "name": "Sonia",
+          "thumb": "kG4fdmXw/sonia.png",
+          "ability": "Nano Escudovida",
+          "ability_desc": "Após receber dano fatal, entre em um estado invulnerável e imóvel por 0,4s. Em seguida, ganhe um escudo de 50 de HP que dura por 2s. O usuário da habilidade será eliminado quando o escudo desaparecer. Tempo de recarga: 180s.",
+          "gender": "Feminino",
+          "age": "20",
+          "date": "04/08",
+          "bio": "Sonia é uma nanocientista geneticamente modificada com inteligência excepcional e expertise em nanobioteconologia."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "tRxpwGvv/orion.webp",
+          "name": "Orion",
+          "thumb": "TPVkV04j/orion.png",
+          "ability": "Esmagamento Carmesim",
+          "ability_desc": "Substitui EP por 300 de Energia Carmesim. Consome 200 de Energia Carmesim para ativar sua proteção, durante a qual você não pode receber dano ou atacar inimigos e absorverá 10 de HP (ignorando os Pontos de Escudo do inimigo) de inimigos dentro de 5m. Dura por 3s, durante os quais sua velocidade de movimento diminuirá em 20%. Tempo de recarga: 3s.",
+          "gender": "Masculino",
+          "age": "22",
+          "date": "13/08",
+          "bio": "Orion, uma besta vingativa que se especializa no uso da Energia Carmesim durante o combate."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "W4ycY5GP/santino.webp",
+          "name": "Santino",
+          "thumb": "5td7QTnN/santino.png",
+          "ability": "Divisor de Forma",
+          "ability_desc": "Crie um manequim com 200 de HP que viaja autonomamente por 12s. Quando o manequim está dentro de 60m, use a habilidade novamente para trocar de posição com ele. Você só pode trocar uma vez dentro de 3s, até 2 vezes no total. O jogador que destruir o manequim será marcado por 5s. Tempo de recarga: 60s.",
+          "gender": "Masculino",
+          "age": "34",
+          "date": "14/10",
+          "bio": "Nascido na pobreza, Santino amava a arte desde criança. Ele estudou em uma renomada escola de arte onde seu talento em design floresceu. Após se formar, Santino fundou sua marca de moda, Angelic, e se tornou uma celebridade com olhar afiado para o marketing. Com grande sucesso no campo, ele está sempre sob os holofotes do mundo da moda."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "CdTtTt1W/luna.webp",
+          "name": "Luna",
+          "thumb": "mZ85pd28/luna.png",
+          "ability": "Lutar ou Fugir",
+          "ability_desc": "Esta habilidade aumenta inicialmente a taxa de tiro. Quando o usuário atinge um inimigo, a taxa de tiro se converte em um impulso de velocidade de movimento.",
+          "gender": "Feminino",
+          "age": "28",
+          "date": "18/03",
+          "bio": "Luna é filha de um homem complicado com um passado complicado. Ela amadureceu lidando precocemente com a imprudência de seu pai e a imprudência dos adultos ao seu redor. Quando a liderança de seu pai na Guilda foi desafiada e ele foi sequestrado, Luna teve que assumir e criar seu próprio caminho para liderar o grupo e restaurar a ordem na comunidade."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "4N1kRf6P/tatsuya.webp",
+          "name": "Tatsuya",
+          "thumb": "PxK2cxhP/tatusya.png",
+          "ability": "Investida Rebelde",
+          "ability_desc": "Move-se rapidamente para a frente. Essa habilidade pode ser acumulada para uso consecutivo.",
+          "gender": "Masculino",
+          "age": "16",
+          "date": "20/12",
+          "bio": "Tatsuya está dividido entre seus sentimentos de traição e seu amor pela família. Ele não sabe lidar com essa dicotomia de sentimentos e se permite ser arrastado para encrenca. É apenas depois que ele e seu irmão, Shirou, precisam trabalhar juntos para resolver uma conspiração que ele percebe que não está sozinho no mundo e tem o poder de mudar seu ambiente para melhor."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "K8LGTSBg/a-patroa.webp",
+          "name": "A-Patroa",
+          "thumb": "L6W02nPP/patroa.png",
+          "ability": "",
+          "ability_desc": "O slot de habilidade exclusivo pode ser equipado com qualquer habilidade possuída, e os slots restantes são desbloqueados automaticamente ao obter este personagem.",
+          "gender": "Feminino",
+          "age": "28",
+          "date": "30/03",
+          "bio": "A-Patroa é uma mulher forte e confiante que administra uma loja de música no meio de um bairro perigoso. Sua loja também serve como um refúgio seguro, onde qualquer pessoa pode procurá-la em busca de ajuda. Além disso, ela usa sua música para ajudar as pessoas a experimentarem suas vidas de maneiras novas e diferentes para ajudá-las."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "XqRMNq21/iris.webp",
+          "name": "Iris",
+          "thumb": "QxnpndYn/iris.png",
+          "ability": "Briga de Parede",
+          "ability_desc": "Por 15s, atirar com sucesso em uma Parede de Gloo marcará os inimigos dentro de 7m e penetrará na Parede de Gloo para causar dano aos inimigos marcados (o dano causado será menor que o normal). Eficaz em no máximo 5 Paredes de Gloo. Tempo de recarga: 60s.",
+          "gender": "Feminino",
+          "age": "30",
+          "date": "01/10",
+          "bio": "Com sua visão aguçada, Iris é boa em prever as ações do inimigo para aproveitar as oportunidades de vitória. Se você está preocupado que sua retórica, otimismo desenfreado e hiperindividualismo afetarão sua cooperação, não se preocupe. Iris nunca coopera com ninguém - exceto Homer, que a aceita incondicionalmente e limpa toda a bagunça dela."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "MZNJm3W0/jbiebs.webp",
+          "name": "J.Biebs",
+          "thumb": "sDncdcxm/biebs.png",
+          "ability": "Sentinela Silenciosa",
+          "ability_desc": "O usuário da habilidade e os aliados podem bloquear danos usando EP. Nesse caso, a quantidade de EP deduzida dos aliados será adicionada ao EP do usuário da habilidade.",
+          "gender": "Masculino",
+          "age": "28",
+          "date": "01/03",
+          "bio": "J.Biebs é um homem que deseja unir um mundo fraturado. Através de suas experiências na infância, ele aprendeu que a resposta para os problemas das pessoas não é dinheiro ou poder, mas a conexão real entre as pessoas. Ele decidiu usar suas habilidades vocais para dedicar sua vida a reunir o mundo."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "cCgyNwc8/homer.webp",
+          "name": "Homer",
+          "thumb": "L4DkLTtS/homer.png",
+          "ability": "Sente a Onda de Choque",
+          "ability_desc": "Liberta um drone em direção ao inimigo mais próximo dentro de uma distância frontal de 100m, criando uma explosão de pulso com 4 m de diâmetro que reduz a velocidade de movimento em 60% e a velocidade de disparo em 35%. Dura 5s. Causa 25 de dano. Tempo de recarga: 90s.",
+          "gender": "MASCULINO",
+          "age": "30",
+          "date": "01/06",
+          "bio": "Homer é um homem cego que não é apenas um assassino, mas também um dos fundadores da próspera gangue tecnológica em Griza. No entanto, Homer, que havia desaparecido do poder nos últimos anos, agora só quer encontrar a verdade por trás da estranha doença que o cegou na infância, do misterioso instituto de pesquisa que ele chamava de escola e do raro mineral terrestre ligado a tudo isso."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "XJqtwdmD/kenta.webp",
+          "name": "Kenta",
+          "thumb": "rswrQB1k/kenta.png",
+          "ability": "Ira do Espadachim",
+          "ability_desc": "Forma um escudo que reduz o dano da arma pela frente. Reseta quando o usuário dispara um tiro.",
+          "gender": "MASCULINO",
+          "age": "38",
+          "date": "05/05",
+          "bio": "Kenta serviu como guarda-costas e ferreiro para a família de Hayato Yagami por anos. Ele é um homem de poucas palavras, mas protege seu novo, jovem mestre em qualquer situação em que se encontrem. Ele tem seus próprios desejos pessoais, mas os coloca em segundo plano enquanto serve a Hayato durante um período perigoso para a família Yagami."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "MHVwQ1jJ/nairi.webp",
+          "name": "Nairi",
+          "thumb": "mkkPQQ4Z/nairi.png",
+          "ability": "Ferro de Gelo",
+          "ability_desc": "As Paredes de Gloo implantadas restauram 150 de durabilidade por segundo quando atingidas, durante as quais os colegas de equipe dentro de 5m restauram 20HP/s. Máx. 40HP por colega de equipe de cada Parede de Gloo.",
+          "gender": "MASCULINO",
+          "age": "23",
+          "date": "27/12",
+          "bio": "Nairi encontrou interesse pelo clima em uma idade jovem quando foi forçado a se afastar de climas frios. Mas seu amor pela neve o levou de volta. Ele desenvolveu tecnologia de micro-manipulação climática para poder sobreviver nos ambientes mais extremos. Agora ele passa seu tempo escalando, caminhando e perseguindo tempestades em busca de respostas para prever o clima."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "dtRvQmY8/otho.webp",
+          "name": "Otho",
+          "thumb": "tC11JtD2/otho.png",
+          "ability": "Névoa da Memória",
+          "ability_desc": "Forma uma névoa de memória quando um inimigo é eliminado, revelando as posições de outros inimigos próximos.",
+          "gender": "MASCULINO",
+          "age": "21",
+          "date": "01/11",
+          "bio": "Otho tem uma mente imaginativa mas muito prática. Ele tem medo de esquecer as memórias de seu passado e está tentando encontrar maneiras de preservar o passado. Ele está se aproximando a cada dia e, no processo, desenvolveu um dispositivo que permite ver as intenções dos outros. Quando não está pesquisando mais mecanismos para a memória, ele está fora com seus amigos e passando tempo sonhando acordado com seu cachorro."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "XqyhP3Vf/leon.webp",
+          "name": "Leon",
+          "thumb": "SNj98pQL/leon.png",
+          "ability": "Cestinha",
+          "ability_desc": "Recupera HP após o envolvimento em combate.",
+          "gender": "MASCULINO",
+          "age": "20",
+          "date": "30/09",
+          "bio": "Leon é um estudante universitário com habilidades extremas no basquete e não tem medo de mostrá-las. Ele pode saltar mais alto do que quase qualquer pessoa que ele conhece com a ajuda de sua perna biônica. Ele tem interesse em eletrônicos e sabe como consertar e mexer com sua perna quando ela falha. Ele pode parecer que se preocupa apenas com basquete, mas ele usa o esporte não apenas para apoiar sua família, mas também seus amigos."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "RZVrMkGB/thiva.webp",
+          "name": "Thiva",
+          "thumb": "prmd9RQp/thiva.png",
+          "ability": "Vibrações Vitais",
+          "ability_desc": "A velocidade de ajudar os colegas de equipe é aumentada em 70%. Tempo de recarga: 90s. O colega ajudado recupera 60 HP em 3s.",
+          "gender": "MASCULINO",
+          "age": "25",
+          "date": "02/12",
+          "bio": "Thiva é o irmão mais novo de Dimitri. Ele tinha talento inato e tocou música durante toda a infância. Ele realmente quer ajudar o mundo e melhorar a vida das pessoas, mas acredita que a melhor maneira de fazer isso é alcançar o indivíduo com uma mensagem verdadeira através de sua música."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "0NPsJ69L/dimitri.webp",
+          "name": "Dimitri",
+          "thumb": "7hHgjGyj/dimitri.png",
+          "ability": "Batimento Cardíaco Curativo",
+          "ability_desc": "Cria uma zona de cura com raio de 3,5m. Dentro, usuário e aliados recuperam 10 HP/s. A ajuda ao levantar será acionada automaticamente quando necessário. A zona dura 12s. Os efeitos de ajudar colegas de equipe podem ser aprimorados por outras habilidades. Tempo de recarga: 90s.",
+          "gender": "MASCULINO",
+          "age": "26",
+          "date": "16/05",
+          "bio": "Dimitri é o irmão mais velho de Thiva. Em sua vida diária, ele passaria a maior parte do dia no laboratório desenvolvendo novas tecnologias sonoras. Depois de encontrar sua paixão pela música, percebeu que ajudar o mundo e melhorar a vida das pessoas através de suas criações tecnológicas poderia ser um de seus sonhos."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "L8dR2Cw4/d-bee.webp",
+          "name": "D-Bee",
+          "thumb": "prCBdQZ2/bee.png",
+          "ability": "Batidas de Balas",
+          "ability_desc": "Ao disparar em movimento, a velocidade de movimento e precisão aumentam.",
+          "gender": "MASCULINO",
+          "age": "19",
+          "date": "23/09",
+          "bio": "D-Bee tem uma personalidade extrovertida e gosta de conhecer novas pessoas. Ele acredita que o significado da vida é criar, e é por isso que se tornou um criador de música. Ele também é fascinado por dança e música."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "7YSPGrgJ/maro.webp",
+          "name": "Maro",
+          "thumb": "zGgRtSgV/maro.png",
+          "ability": "Fervor do Falcão",
+          "ability_desc": "O dano aumenta com a distância. O dano a inimigos marcados aumenta.",
+          "gender": "MASCULINO",
+          "age": "32",
+          "date": "23/05",
+          "bio": "Maro prefere a companhia de animais em vez de humanos. Ele sente que os humanos muitas vezes pensam demais em tudo e esquecem o verdadeiro significado da vida. Ele quer ser um espírito livre e espera poder ajudar outros humanos a se aproximarem da natureza através de seus pássaros."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "HnwGxHfp/skyler.webp",
+          "name": "Skyler",
+          "thumb": "rmFskSKG/skyler.png",
+          "ability": "Ritmo da Ressaca",
+          "ability_desc": "Liberte uma onda sonora para a frente que danifica as paredes de Gloo. Além disso, cada parede de Gloo implantada resultará em recuperação de HP. Os efeitos de recuperação não se acumulam.",
+          "gender": "MASCULINO",
+          "age": "26",
+          "date": "05/07",
+          "bio": "Skyler subiu à fama como o cantor e dançarino pop mais quente do país e agora é o CEO da maior empresa de entretenimento no Vietnã. Motivado a ser o melhor talento musical nos negócios e também encontrar o melhor talento. Ele não gosta de perder e acredita que a criatividade permite que as pessoas vejam o lado bom do mundo em vez do ruim."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "jjmB4LTx/xayne.webp",
+          "name": "Xayne",
+          "thumb": "Yqm9M2qP/xayne.png",
+          "ability": "Encontro Extremo",
+          "ability_desc": "Recebe temporariamente 120 HP, aumenta o dano às Paredes de Gloo e escudos. Dura por 6s.",
+          "gender": "Feminino",
+          "age": "23",
+          "date": "21/04",
+          "bio": "Xayne sempre esteve interessada em atividades mais extremas, mesmo quando criança. Ela prefere a adrenalina dos esportes extremos em vez da interação humana. Espírito livre, ela quer explorar a vida e encontrar seus limites. Se alguém questionar sua capacidade de realizar uma missão, ela definitivamente encontrará uma maneira de fazê-lo."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "D0kknmpj/shirou.webp",
+          "name": "Shirou",
+          "thumb": "jjTC8VTF/shirou.png",
+          "ability": "Dano Entregue",
+          "ability_desc": "Quando o usuário é atingido de dentro de 80m, o agressor é marcado (apenas visível para o usuário). O primeiro tiro em inimigos marcados tem penetração adicional de armadura.",
+          "gender": "Masculino",
+          "age": "19",
+          "date": "20/11",
+          "bio": "Shirou é um adolescente com um forte senso de responsabilidade que arriscou tudo para proteger sua família e cidade natal. Ele trabalha como entregador de pacotes pela movimentada e congestionada cidade de Griza. Ele terá que superar grandes chances e enfrentar forças maiores do que ele para encontrar sua verdade e verdadeira vocação na vida."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "sXfsbM8p/chrono.webp",
+          "name": "Chrono",
+          "thumb": "CxXsdxjf/chrono.png",
+          "ability": "Volta do Tempo",
+          "ability_desc": "Cria um campo de força de bloqueio de dano. Incapaz de atacar inimigos externos do campo.",
+          "gender": "Masculino",
+          "age": "35",
+          "date": "05/02",
+          "bio": "Chrono vem de um universo paralelo onde há um nível de ciência e tecnologia mais avançado do que os níveis em nosso mundo atual, a Terra. Ele teve uma infância normal em seu universo original. Seus pais eram advogados famosos que lutavam contra a pobreza e ajudavam a trazer os pobres sem-teto para a sociedade. Por causa disso, ele sempre teve consciência sobre grupos desfavorecidos desde muito jovem e, à medida que crescia, encontrava maneiras de fazer a sua parte para ajudar também."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "t4hbTdG3/dasha.webp",
+          "name": "Dasha",
+          "thumb": "QtrgkYY8/dasha.png",
+          "ability": "Festa em Alta",
+          "ability_desc": "Reduz o dano recebido e o tempo de recuperação de quedas. Reduz a taxa de acumulação de recuo e recuo máximo.",
+          "gender": "Feminino",
+          "age": "25",
+          "date": "08/12",
+          "bio": "Dasha é uma garota festeira que segue o ditado \"trabalhe duro, festeje mais ainda\". Ela é um pouco travessa, muitas vezes causando problemas quando não pretende. Ela passou por muitas coisas em sua vida, mas está feliz por ter encontrado os Mambas, que apreciam sua variedade de habilidades. Mas agora ela se envolveu em algo que não pretendia, mas só o tempo dirá se vale a pena tentar."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "GmJ0rcvz/k.webp",
+          "name": "K",
+          "thumb": "s257X9jt/k.png",
+          "ability": "Mestre de Tudo",
+          "ability_desc": "Aumenta o EP máximo em 50. Modo Jiujitsu: Aliados dentro de 6m recebem aumento de 500% na taxa de conversão de EP. Modo de Psicologia: Recupera 2 EP a cada {4} segundos, até {6} EP. CD de troca de modo 3s.",
+          "gender": "Masculino",
+          "age": "31",
+          "date": "06/10",
+          "bio": "K era um garoto inteligente, mas como a maioria das crianças de sua idade, ele não levava a escola a sério. Quando tinha 16 anos, ainda no ensino médio, sofreu um acidente de carro e feriu a coluna. Seus médicos disseram que ele nunca mais andaria. Mas ele se recusou a desistir - isso não seria o fim para ele. Ele foi para a fisioterapia, fez sua própria terapia em casa e encontrou um treinador para ajudá-lo a se esforçar mais. Em um ano, ele estava andando; em dois, estava praticando esportes. Essa experiência lhe ensinou algumas coisas que ficariam com ele para sempre. - Não tome a vida como garantida. - Ele teve que se aprofundar em si mesmo para passar pela experiência e aprendeu a se entender, suas motivações e seu lugar no mundo. - Um efeito colateral disso foi que ele agora podia ler e entender as pessoas ao seu redor da mesma forma. - Ele também queria tornar seu corpo e mente mais fortes para nunca ser ferido da mesma forma novamente."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "tRZ4bxJ5/luqueta.webp",
+          "name": "Luqueta",
+          "thumb": "nc5DGwMy/luqueta.png",
+          "ability": "Truque de Kat",
+          "ability_desc": "Cada morte aumenta o HP máximo, até 35.",
+          "gender": "Masculino",
+          "age": "20",
+          "date": "10/06",
+          "bio": "Luqueta era um estudante de intercâmbio vindo do exterior. Mudou-se devido ao trabalho do pai. Seu pai desejava que ele seguisse seus passos, fizesse um MBA e entrasse nos negócios. Mas Luqueta viu a vida de seu pai e não queria nada disso. Ele sempre foi uma criança atlética. Quando se mudou, começou a jogar futebol na escola; sabia que era bom desde criança, mas no ensino médio se tornou uma estrela. Nem precisava se esforçar muito para ser incrível."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "nLHyh6kx/kelly.webp",
+          "name": "Kelly",
+          "thumb": "V6Rt9fbg/kelly.png",
+          "ability": "Corrida",
+          "ability_desc": "Aumenta a velocidade de corrida.",
+          "gender": "Feminino",
+          "age": "17",
+          "date": "01/04",
+          "bio": "Na infância, era uma criança alegre com sua mãe adotiva, Rena, e o padrasto, Andrew. Quando sua mãe e Andrew se divorciaram, ela ficou extremamente triste, mas manteve contato com Andrew. Kelly sempre foi uma boa corredora, mas no ensino médio o treinador de atletismo a descobriu e ela se tornou a estrela da pista da escola. Quando se encontra em uma ilha desconhecida, será forçada a tomar decisões difíceis que definirão seu caminho futuro."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "W34cXQF8/hayato.webp",
+          "name": "Hayato",
+          "thumb": "yxLFK11x/hayato.png",
+          "ability": "Bushido",
+          "ability_desc": "Quanto menor a HP, maior a penetração de armadura.",
+          "gender": "Masculino",
+          "age": "20",
+          "date": "21/03",
+          "bio": "Hayato tinha muita responsabilidade como herdeiro mais velho da corporação Yagami. Foi criado em uma vida onde sua existência deveria servir à honra e glória de sua família. Quando a corporação da família foi adquirida pela Horizon, ele não hesitou em se envolver nos assuntos corporativos para garantir que os Yagamis continuassem a operar com honra."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "bJGpq7yJ/moco.webp",
+          "name": "Moco",
+          "thumb": "zBJbGsPg/moco.png",
+          "ability": "Olho do Hacker",
+          "ability_desc": "Marca os inimigos que Moco atira por alguns segundos.",
+          "gender": "Feminino",
+          "age": "20",
+          "date": "13/02",
+          "bio": "Moco é uma gênio da tecnologia que se juntou à Horizon, a empresa de tecnologia mais prestigiada do continente. Mas quando descobre que eles estão envolvidos em atos nefastos, ela some, apaga sua identidade dos registros públicos e se esconde para encontrar uma maneira de impedir seus planos. Ela gosta de operar sozinha, mas logo perceberá que essa ameaça é grande demais para enfrentar sozinha."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "fTsnPt9k/steffie.webp",
+          "name": "Steffie",
+          "thumb": "G272hHyW/steffie.png",
+          "ability": "Bênção do Grafite",
+          "ability_desc": "Cria uma área que bloqueia projéteis. Aliados na área terão a durabilidade da armadura restaurada a cada segundo, e o dano de munição recebido dos inimigos será reduzido.",
+          "gender": "Feminino",
+          "age": "23",
+          "date": "05/11",
+          "bio": "Steffie tem uma longa disputa com as instituições, começando com seus pais. Ela se rebelou desde cedo na vida e continuou a fazer isso. Sua vida deu uma reviravolta difícil quando ela provocou o gigante da tecnologia, Horizon, e foi forçada a fugir ou se tornar uma cobaia para seus experimentos. Ela foi salva por Moco e logo depois encontrou os Mambas, uma força rebelde que parece ser sua verdadeira vocação."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "LsQmK9Mw/misha.webp",
+          "name": "Misha",
+          "thumb": "zB0Lbx9P/misha.png",
+          "ability": "Afterburner",
+          "ability_desc": "Aumenta a velocidade de condução e reduz o dano recebido enquanto estiver dentro de veículos. Mais difícil de ser alvo enquanto dirige.",
+          "gender": "Feminino",
+          "age": "19",
+          "date": "26/07",
+          "bio": "Depois que seus pais foram assassinados, ela abandonou a escola e Misha se tornou uma piloto de corrida para pagar as contas e sustentar a si mesma e seu irmão, Maxim. Um dia, Maxim desapareceu, e ela largou tudo para encontrá-lo. Sua jornada se cruzou com a de Andrew enquanto procuravam por suas respectivas famílias. Sua jornada a levará por caminhos novos e perigosos, com o fim longe de vista."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "HWqskk7C/maxim.webp",
+          "name": "Maxim",
+          "thumb": "43RHr76w/maxim.png",
+          "ability": "Gula",
+          "ability_desc": "Reduz o tempo para comer cogumelos e usar kits médicos.",
+          "gender": "Masculino",
+          "age": "17",
+          "date": "30/01",
+          "bio": "Maxim se sentia culpado por sua irmã, Misha, ter abandonado a escola para cuidar dele. Mas ele não tinha muitas habilidades práticas e se voltou para a v-tubing de alimentação como seu trabalho de meio período. Um dia, ele e sua colega de escola Kelly foram sequestrados de um ônibus escolar e enviados para a ilha de Bermuda. A ilha o transformaria - ele ficaria mais saudável, mais forte, mais confiante e melhor preparado para enfrentar um mundo difícil."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "vmtGPrPY/andrew.webp",
+          "name": "Andrew",
+          "thumb": "TY294Sdh/andrew.png",
+          "ability": "Especialista em Armaduras",
+          "ability_desc": "Diminui a perda de durabilidade do colete.",
+          "gender": "Masculino",
+          "age": "42",
+          "date": "25/12",
+          "bio": "A primeira esposa de Andrew tinha uma filha, Kelly, que era tão próxima dele quanto uma filha biológica. Mesmo após o divórcio, ele ainda tentava se envolver na vida de Kelly. Andrew era sargento na LLPD antes de sua nova noiva morrer em um brutal ataque de gangue. Ele perdeu o emprego tentando descobrir os assassinos dela, enquanto também lutava contra a Horizon, que estava tentando tomar conta do departamento de polícia."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "CMQS6L4q/caroline.webp",
+          "name": "Caroline",
+          "thumb": "4xm1J9hg/caroline.png",
+          "ability": "Agilidade",
+          "ability_desc": "Aumenta a velocidade de movimento ao segurar uma espingarda.",
+          "gender": "Feminino",
+          "age": "17",
+          "date": "10/10",
+          "bio": "Caroline possuía a destreza, a cortesia e a sofisticação que a maioria das garotas ricas não tinha. Ela trabalhava dentro dos padrões sociais, mas manipulava habilmente as pessoas ao seu gosto. Ainda é estudante, mas devido às suas conexões familiares, às vezes é envolvida nos planos da Horizon. Ela e Hayato são conhecidos e se ajudam às vezes."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "43xXSKjp/laura.webp",
+          "name": "Laura",
+          "thumb": "c1FYrJW4/laura.png",
+          "ability": "Atirador de Elite",
+          "ability_desc": "Precisão aumentada ao mirar.",
+          "gender": "Feminino",
+          "age": "29",
+          "date": "21/05",
+          "bio": "Laura era a melhor de sua classe e a atiradora de elite mais destacada que seu pelotão já produziu. Foi apenas quando seu pai desapareceu na guerra que ela escolheu seu caminho para se tornar uma agente especial e tentar encontrá-lo. Ainda em sua busca, ela trabalha para uma agência eliminando os bandidos que assolam sua cidade. Laura agora precisa repensar sua vida quando seu novo alvo, Rafael, não é quem dizem que ele é."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "jSZbPxC2/rfael.webp",
+          "name": "Rafael",
+          "thumb": "W1gh6NBZ/rafael.png",
+          "ability": "Silêncio Mortal",
+          "ability_desc": "Efeito de silêncio ao usar rifles de sniper e rifles de atirador. Inimigos atingidos e derrubados sofrem perda de HP mais rápida.",
+          "gender": "MASCULINO",
+          "age": "31",
+          "date": "09/09",
+          "bio": "Rafael era um homem de família doce até uma terrível tragédia familiar levá-lo ao caminho da frieza e da vingança. Agora, ele percorre o mundo não apenas em busca do homem que destruiu sua família, mas também aceitando contratos para trazer justiça a outros males. Com o passar dos anos, ele percebeu que a vida não era tão preto no branco como parecia. O aparecimento da adorável Laura em sua vida agora lançou outra chave na estrutura cuidadosamente elaborada de sua vida."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "zfrJStF2/alok.webp",
+          "name": "Alok",
+          "thumb": "qBxwQ0d9/alok.png",
+          "ability": "Largar o Beat",
+          "ability_desc": "Cria uma aura de 5m que aumenta a velocidade de movimento e de corrida e restaura HP. O efeito não pode ser acumulado.",
+          "gender": "MASCULINO",
+          "age": "28",
+          "date": "26/08",
+          "bio": "Usando o poder da música, Alok deixou o Brasil e viajou pelo mundo. Seu nome significa 'luz'. Ele assinou um contrato e um concerto fechado acontecerá na ilha de batalha do Free Fire para alguns convidados VIP!"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "kgdrkVRB/jota.webp",
+          "name": "Jota",
+          "thumb": "9Q6yCNhd/jota.png",
+          "ability": "Ataques Sustentados",
+          "ability_desc": "Ao usar armas, acertar um inimigo recupera algum HP para o usuário.",
+          "gender": "MASCULINO",
+          "age": "31",
+          "date": "23/06",
+          "bio": "Jota cresceu em uma família de classe média, era um aluno médio e tinha uma família que o amava. No geral, uma vida bastante normal - mas ele se sentia preso e precisava de mais ação em sua vida. Ele morava em uma cidade com arranha-céus que preenchiam o horizonte e se sentia preso, então começou a escalar para encontrar lugares para ver o céu."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "1tWsS9hb/clu.webp",
+          "name": "Clu",
+          "thumb": "7LzMzrVt/clu.png",
+          "ability": "Rastreamento de Passos",
+          "ability_desc": "Localiza posições de inimigos que não estão na posição deitada ou agachada, CD 50s. Os membros da equipe compartilham efeitos de habilidade após o nível 4.",
+          "gender": "FEMININO",
+          "age": "24",
+          "date": "28/02",
+          "bio": "Clu cresceu nos subúrbios de uma grande cidade. Seus pais eram ricos, nunca tiveram que se preocupar com o básico da vida e ela teve uma infância muito amorosa. Quando ela era adolescente, seu pai foi recrutado para o esforço de guerra. A guerra acabou um ano depois e ele nunca voltou para casa. Ele nunca foi encontrado. Clu se tornou detetive particular depois de se formar no ensino médio na esperança de poder descobrir detalhes sobre o desaparecimento de seu pai."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "P56gNSF8/wolfrahh.webp",
+          "name": "Wolfrahh",
+          "thumb": "5yD2LTpp/wolfrah.png",
+          "ability": "Refletor de Luz",
+          "ability_desc": "Com cada espectador adicional: O dano causado por tiros na cabeça diminui, até 25%. O dano aos membros do inimigo aumenta.",
+          "gender": "MASCULINO",
+          "age": "19",
+          "date": "29/04",
+          "bio": "Wolfrahh cresceu escondido do mundo após um evento traumático. Depois de enfrentar seus medos, ele conseguiu superar alguns de seus problemas de confiança, mas ainda tinha dificuldade em encontrar sua identidade. Ele foi convidado para a maior competição de jogos de VR do continente para mostrar suas habilidades. No entanto, no processo, ele descobriu segredos - suas escolhas em relação a esses definirão sua vida."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "wM7HTS9M/alvaro.webp",
+          "name": "Alvaro",
+          "thumb": "63d0kx44/alvaro.png",
+          "ability": "Arte da Demolição",
+          "ability_desc": "Aumenta o dano de armas explosivas, aumenta o alcance do dano.",
+          "gender": "MASCULINO",
+          "age": "26",
+          "date": "28/05",
+          "bio": "Alvaro é um jovem com uma personalidade explosiva. Um acidente na infância concedeu-lhe poderes especiais explosivos, ao custo de suas memórias. Ele está perdido em um círculo constante de busca por suas memórias e precisando usar seus poderes para salvar aqueles de quem ele se importa. A única constante que ele encontrou em sua vida é Kapella, sua melhor amiga de infância, que ele não lembra mais conscientemente."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "jdntV08k/antonio.webp",
+          "name": "Antonio",
+          "thumb": "MHqDx31P/antonio.png",
+          "ability": "Espírito Gangster",
+          "ability_desc": "Recebe HP extra quando a rodada começa.",
+          "gender": "MASCULINO",
+          "age": "30",
+          "date": "01/08",
+          "bio": "Antonio é o tipo de cara que as pessoas tentam evitar contato visual. Parece que ele iria te socar se você mantivesse o olhar fixo por muito tempo. Na realidade, por baixo daquela aparência de gangster, ele é tímido e sensível. Crescendo em guerras de gangues locais, ele nunca foi violento sem motivo - ele apenas se protegia e protegia seus entes queridos - sua esposa, sua família e seu chihuahua chamado Poncho."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "MpWwnM6g/paloma.webp",
+          "name": "Paloma",
+          "thumb": "5NZXCYR1/paloma.png",
+          "ability": "Armas de Negociação",
+          "ability_desc": "Capaz de carregar munição de AR sem ocupar espaço no inventário.",
+          "gender": "FEMININO",
+          "age": "28",
+          "date": "04/08",
+          "bio": "Todos que conhecem Paloma a admiram de uma forma ou de outra. Uma flor selvagem florescendo em uma favela empobrecida. Isso às vezes vem de sua autoconfiança inabalável que faz as pessoas se aproximarem dela, pois ela projeta um senso de segurança e visão futura. A única coisa que pode distraí-la de sua própria visão do futuro é o amor de sua vida, Antonio."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "YCkrQD3n/miguel.webp",
+          "name": "Miguel",
+          "thumb": "ncL4kD2D/iguel.png",
+          "ability": "Caçador Louco",
+          "ability_desc": "Miguel pode ganhar EP para cada abate.",
+          "gender": "MASCULINO",
+          "age": "26",
+          "date": "10/10",
+          "bio": "Dedicando sua vida à lei e à justiça, Miguel liderou sua equipe por inúmeras operações de combate ao crime com uma taxa de sucesso de 100%. Sua equipe é conhecida por enfrentar trabalhos impossíveis, por isso ninguém esperava o trágico incidente de 6 meses atrás. Miguel logo perceberia que a dor e a raiva após uma missão fracassada não se comparam à de uma traição de um amigo."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "mgwbj3pb/mikita.webp",
+          "name": "Nikita",
+          "thumb": "7L1JDHX4/mikita.png",
+          "ability": "Especialista em Armas",
+          "ability_desc": "A velocidade de recarga aumenta em 20%. Cada vez que o usuário da habilidade acerta um inimigo, o alvo afetado terá uma dedução de cura de 30% que dura 10s (máximo de dedução: 30%).",
+          "gender": "FEMININO",
+          "age": "22",
+          "date": "11/11",
+          "bio": "Sua missão mais importante é proteger Caroline, a filha do Vice-Presidente da Horizon. Formada como uma das melhores atiradoras da escola militar, Nikita certamente poderia ter ambições maiores do que escoltar uma adolescente, mas parece que ela está feliz com as coisas como estão. É preciso se perguntar se ela tem seus próprios objetivos, que podem não ter o melhor interesse da Horizon em mente."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "43Br7BL9/kapella.webp",
+          "name": "Kapella",
+          "thumb": "TwGmWLhh/kapella.png",
+          "ability": "Canção Curativa",
+          "ability_desc": "Aumenta os efeitos de itens de cura e habilidades de cura. Reduz a perda de HP para aliados. Efeitos não se acumulam.",
+          "gender": "FEMININO",
+          "age": "21",
+          "date": "17/07",
+          "bio": "Kapella ficou órfã quando criança e foi adotada pelo magnata da tecnologia Joseph. A jovem energética era extremamente observadora e intuitiva. Ela se tornou uma cantora mundialmente famosa e membro do Mambas. Sua personalidade certamente desempenha um papel fundamental em seu sucesso, mas, é claro, uma estrela não nasce sozinha. Quando Alvaro, uma memória de seu passado, reaparece, ela precisa decidir o que é mais importante em sua vida."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "SN9FTLsB/joseph.webp",
+          "name": "Joseph",
+          "thumb": "bwDQXfKY/joseph.png",
+          "ability": "Movimento Maluco",
+          "ability_desc": "Torna-se imune a efeitos disruptivos (por exemplo, desaceleração, marcação, silenciamento de habilidades) e obtém um aumento de 10% na velocidade de movimento por 5s. Tempo de recarga: 60s.",
+          "gender": "MASCULINO",
+          "age": "45",
+          "date": "02/02",
+          "bio": "O rei coroado dos conquistadores de New Dawn, Joseph, fundou a Nerve Labs, uma empresa de tecnologia bem-sucedida. No final do Grande Colapso, Joseph descobriu os planos malignos da Horizon para a humanidade e tornou-se inimigo do cientista extraordinariamente inteligente."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "cHVZCFCc/notora.webp",
+          "name": "Notora",
+          "thumb": "hvYfMf4L/notora.png",
+          "ability": "Bênção do Corredor",
+          "ability_desc": "Restaura HP de todos os membros no veículo durante a condução. Efeitos não se acumulam.",
+          "gender": "FEMININO",
+          "age": "27",
+          "date": "22/03",
+          "bio": "Filha de uma família de gangues de motoqueiros, Notora nunca teve muita palavra sobre seu estilo de vida. Apesar de sua força e resistência, ela tem uma aversão oculta à violência sem propósito. Toda a sua equipe foi dizimada durante uma violenta rivalidade entre gangues. Felizmente, a morte mais uma vez ignorou-a. Notora logo perceberia, no entanto, ao ser capturada viva e exilada para as ilhas Bermuda, que não foi a sorte que a trouxe lá."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "cC2WKXJm/a124.webp",
+          "name": "A124",
+          "thumb": "MTk53pH8/a124.png",
+          "ability": "Êxtase de Batalha",
+          "ability_desc": "Libera uma onda eletromagnética de 8m que desabilita a ativação de habilidades dos inimigos e interrompe a contagem regressiva de interação deles. Dura por 20s. Tempo de recarga: 50s. Bandeira de A124.",
+          "gender": "FEMININO",
+          "age": "18",
+          "date": "01/01",
+          "bio": "Criada para servir a um propósito, A124 foi programada para ser uma máquina de matar. Ela certamente não foi construída para interações humanas e emoções complicadas, mas quem poderia deter uma mente jovem tentando? Com essas habilidades de batalha e uma mente curiosa, o mundo literalmente é sua ostra."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "0Q4FZrq5/kla.webp",
+          "name": "Kla",
+          "thumb": "WzYJK58J/kla.png",
+          "ability": "Muay Thai",
+          "ability_desc": "Aumenta o dano de punho.",
+          "gender": "MASCULINO",
+          "age": "27",
+          "date": "14/12",
+          "bio": "Kla superou muitos obstáculos em sua juventude, mas o assassinato de seus pais foi demais para ele - colocando-o em um caminho de raiva e violência. Ele se perdeu na raiva e culpa que giravam em torno de suas mortes e se viu em um buraco profundo. Foi somente depois de enfrentar finalmente um dos homens responsáveis pela morte de seus pais que ele encontrou clareza e seu caminho na vida."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "cJrV3fVk/wukong.webp",
+          "name": "Wukong",
+          "thumb": "8kY52fDW/wukong.png",
+          "ability": "Camuflagem",
+          "ability_desc": "Transforma-se em um arbusto com redução de 5% na velocidade de movimento, com duração de 15s. CD: 200s. A transformação termina quando Wukong ataca. CD é redefinido quando Wukong elimina um inimigo.",
+          "gender": "MASCULINO",
+          "age": "0",
+          "date": "13/12",
+          "bio": "Um macaco que parece um ser humano. Ainda gosta de bananas, no entanto."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "ZKz4hs1b/olivia.webp",
+          "name": "Olivia",
+          "thumb": "BZ7LJw5j/olivia.png",
+          "ability": "Toque Curativo",
+          "ability_desc": "Jogadores revividos por Olivia recebem HP extra.",
+          "gender": "FEMININO",
+          "age": "29",
+          "date": "10/11",
+          "bio": "Após uma operação de um acidente na infância, Olivia desenvolveu uma habilidade especial para curar e reviver - com um toque miraculoso, ela consegue suavizar a dor e promover a cicatrização de ferimentos. Apesar de sua infância traumática, Olivia cresceu para se tornar uma das pessoas mais carinhosas e compassivas entre seus pares. No entanto, ela tem pouca interação social fora da zona segura de Ford e se esquiva do mundo."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "yNjzhVdW/ford.webp",
+          "name": "Ford",
+          "thumb": "k4FQjNLx/ford.png",
+          "ability": "Vontade de Ferro",
+          "ability_desc": "Reduzir o dano recebido fora da zona segura.",
+          "gender": "MASCULINO",
+          "age": "31",
+          "date": "23/01",
+          "bio": "Ford já foi capitão em mar aberto. Agora, ele se comprometeu a construir um refúgio seguro para refugiados. Ele é o tio sábio e confiável de todos, que conhece as vias navegáveis dentro e fora de Bermuda. Sabendo muito bem como as traições doem, Ford busca um equilíbrio entre confiança e cautela. Ele achava que sua vontade era indestrutível, até conhecer Olivia..."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "4dhkDpPH/shani.webp",
+          "name": "Shani",
+          "thumb": "LsV5wy66/shani.png",
+          "ability": "Reciclagem de Equipamento",
+          "ability_desc": "Restaura a durabilidade da armadura após cada eliminação. Durabilidade extra pode melhorar sua armadura, até o nível 3.",
+          "gender": "FEMININO",
+          "age": "31",
+          "date": "23/06",
+          "bio": "Shani é uma engenheira autodidata. Seus pais foram mortos em uma explosão de prédio quando ela tinha 18 anos, e ela perdeu tudo o que tinha. Ela vagou por alguns anos fazendo trabalhos temporários para sobreviver, até que um dono de ferro-velho a acolheu e deu a ela um lugar para chamar de lar. Lá, ela podia trabalhar com peças de sucata e engenheirar conforme o seu coração desejava."
+        }
+      ]
+    }
+  ]
+}
