@@ -1,0 +1,813 @@
+{
+  "date": [
+    {
+      "details": [
+        {
+          "image": "wvb8P0Dp/ignis.webp",
+          "name": "Ignis",
+          "thumb": "SRT1XKtw/ignis.png",
+          "ability": "Flacără Neîmblânzită",
+          "ability_desc": "Deployează un ecran în flăcări cu o lățime de 12m, care durează 10s (distanța maximă de deployare: 15m). Inamicii și zidurile Gloo care intră în contact cu ecranul vor experimenta un efect de ardere: primesc instant 30 DMG și, pentru fiecare secundă ulterioară, primesc 10 DMG și pierd 20% durabilitate a armurii. Efectul de ardere durează 2s. Zidurile Gloo primesc instant 200 DMG și 200 DMG/s timp de 1s. Recuperare: 60s.",
+          "gender": "Masculin",
+          "age": "16",
+          "date": "17/07",
+          "bio": "Ignis este un adolescent superputernic care posedă abilitatea innăscută de a aprinde obiecte. În timpul liber, luptă împotriva criminalității și susține justiția, dar se găsește adesea provocând probleme neintenționate din cauza puterilor sale. Publicul îl critică pe Ignis pentru acțiunile sale, iar în adolescența sa rebelă, răspunde cu o atitudine sfidătoare. Cu toate acestea, acest lucru nu-l împiedică să se ridice în apărarea oamenilor și a orașului, cel puțin pentru moment."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "25yfxsBw/ryden.webp",
+          "name": "Ryden",
+          "thumb": "2SB96rdK/ryden.png",
+          "ability": "Capcană de Păianjen",
+          "ability_desc": "Eliberează un păianjen exploziv distructibil în direcția țintă. Durează 30s. Apasă din nou pe butonul abilității în decurs de 10s pentru a opri mișcarea păianjenului. Păianjenul va prinde primul inamic pe care îl zărește într-un perimetru de 5m, îi va reduce viteza cu 80% și îl va face să piardă 10 HP/s. Efectul de sângerare va dura 3s. Recuperare: 75s.",
+          "gender": "Masculin",
+          "age": "16",
+          "date": "07/09",
+          "bio": "Ryden, un geniu inventiv de 16 ani, rațional și cu cunoștințe care îl depășesc pe cei de vârsta sa. Puștiul care obișnuia să stea sub aripile surorii sale Suzy acum înfruntă câmpurile de luptă. Inventiile sale talentate îi vor deschide drumul."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "44VRwbnr/sonia.webp",
+          "name": "Sonia",
+          "thumb": "kG4fdmXw/sonia.png",
+          "ability": "Nucleu de Viață Nano",
+          "ability_desc": "După ce primește o lovitură fatală, intră într-o stare invulnerabilă și imobilă timp de 0,4s. Apoi, primește un scut de 50 HP care durează 2s. Utilizatorul abilității va fi eliminat când scutul dispare. Recuperare: 180s.",
+          "gender": "FEMEIE",
+          "age": "20",
+          "date": "04/08",
+          "bio": "Sonia este o nanocientistă modificată genetic, cu o inteligență excepțională și experiență în nanobiotehnologie."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "tRxpwGvv/orion.webp",
+          "name": "Orion",
+          "thumb": "TPVkV04j/orion.png",
+          "ability": "Zdrobire Cremene",
+          "ability_desc": "Înlocuiește EP cu 300 Energie Cremene. Consumă 200 Energie Cremene pentru a activa protecția, în timpul căreia nu poți primi daune sau ataca inamicii și vei absorbi 10 HP (ignorând Punctele de Scut ale inamicului) de la dușmani într-un perimetru de 5m. Durează 3s, în timpul căruia viteza ta de deplasare va scădea cu 20%. Recuperare: 3s.",
+          "gender": "MASCULIN",
+          "age": "22",
+          "date": "13/08",
+          "bio": "Orion, o fiară mâniată care se specializează în manevrarea Energiei Cremene în timpul luptei."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "W4ycY5GP/santino.webp",
+          "name": "Santino",
+          "thumb": "5td7QTnN/santino.png",
+          "ability": "Divizor de Forme",
+          "ability_desc": "Generează o marionetă cu 200 HP care călătorește autonom timp de 12s. Când marioneta este într-un perimetru de 60m, folosește din nou abilitatea pentru a schimba pozițiile cu ea. Poți face schimb doar o dată în decurs de 3s, până la 2 ori în total. Jucătorul care distruge marioneta va fi marcat timp de 5s. Recuperare: 60s.",
+          "gender": "MASCULIN",
+          "age": "34",
+          "date": "14/10",
+          "bio": "Născut în sărăcie, Santino a iubit arta încă de când era copil. A studiat la o școală de artă renumită unde talentul său în design a înflorit. După absolvire, Santino a înființat marca sa de modă, Angelic, și a devenit o celebritate cu un simț ascuțit pentru marketing. Cu mare succes în domeniu, el este întotdeauna în lumina reflectoarelor lumii modei."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "CdTtTt1W/luna.webp",
+          "name": "Luna",
+          "thumb": "mZ85pd28/luna.png",
+          "ability": "Luptă sau Fugi",
+          "ability_desc": "Această abilitate crește inițial rata de tragere. Atunci când utilizatorul lovește un inamic, rata de tragere se transformă într-un impuls de viteză de mișcare.",
+          "gender": "Feminin",
+          "age": "28",
+          "date": "18/03",
+          "bio": "Luna este fiica unui om complicat cu un trecut complicat. A crescut rapid confruntându-se cu iresponsabilitatea tatălui său și cu iresponsabilitatea adulților din jurul ei. Când liderul tatălui ei în Cetate a fost contestat și, în cele din urmă, răpit, Luna a trebuit să ia inițiativa și să își croiască propriul drum pentru a prelua conducerea grupului și pentru a restabili ordinea în comunitate."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "4N1kRf6P/tatsuya.webp",
+          "name": "Tatsuya",
+          "thumb": "PxK2cxhP/tatusya.png",
+          "ability": "Asalt Rebel",
+          "ability_desc": "Se deplasează înainte cu viteză rapidă. Această abilitate poate fi acumulată pentru utilizare consecutivă.",
+          "gender": "Masculin",
+          "age": "16",
+          "date": "20/12",
+          "bio": "Tatsuya este sfâșiat între sentimentele de trădare și dragostea pentru familia sa. Nu știe cum să gestioneze această dicotomie de sentimente și își permite să fie tras în necazuri. Abia când el și fratele său, Shirou, trebuie să lucreze împreună pentru a rezolva o conspirație, își dă seama că nu este singur în lume și are puterea de a schimba mediul său într-un mod pozitiv."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "K8LGTSBg/a-patroa.webp",
+          "name": "A-Patroa",
+          "thumb": "L6W02nPP/patroa.png",
+          "ability": "",
+          "ability_desc": "Slotul exclusiv de abilități poate fi echipat cu orice abilitate deținută, iar sloturile rămase se deblochează automat când obții acest personaj.",
+          "gender": "Feminin",
+          "age": "28",
+          "date": "30/03",
+          "bio": "A-Patroa este o femeie puternică și încrezătoare care conduce un magazin de muzică în mijlocul unui cartier periculos. Magazinul ei servește și ca refugiu sigur, iar oricine poate veni la ea pentru ajutor. În plus, folosește muzica ei pentru a ajuta oamenii să trăiască experiențe noi și diferite pentru a-i ajuta."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "XqRMNq21/iris.webp",
+          "name": "Iris",
+          "thumb": "QxnpndYn/iris.png",
+          "ability": "Bătaie pe Perete",
+          "ability_desc": "Timp de 15s, tragerile reușite într-un Zid Gloo vor marca inamicii în raza de 7m și vor penetra Zidul Gloo pentru a provoca daune inamicilor marcați (daunele provocate vor fi mai mici decât de obicei). Eficient pe maximum 5 Ziduri Gloo. Recuperare: 60s.",
+          "gender": "Feminin",
+          "age": "30",
+          "date": "01/10",
+          "bio": "Cu viziunea sa ageră, Iris este expertă în a anticipa acțiunile inamicilor pentru a profita de oportunități de victorie. Dacă vă faceți griji că retorica ei, optimismul lipsit de gândire și individualismul hipersunt folosite la toate tipurile de evenimente."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "MZNJm3W0/jbiebs.webp",
+          "name": "J.Biebs",
+          "thumb": "sDncdcxm/biebs.png",
+          "ability": "Sentinelă Silentă",
+          "ability_desc": "Utilizatorul abilității și aliații pot bloca daunele folosind EP. În acest caz, cantitatea de EP dedusă de la aliați va fi adăugată la EP-ul utilizatorului abilității.",
+          "gender": "Masculin",
+          "age": "28",
+          "date": "01/03",
+          "bio": "J.Biebs este un om care vrea să unească o lume fragmentată. Prin experiențele sale din copilărie, a învățat că răspunsul la problemele oamenilor nu este banii sau puterea, ci conexiunea reală dintre oameni. A decis să-și folosească abilitățile de cântat pentru a-și dedica viața unificării lumii."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "cCgyNwc8/homer.webp",
+          "name": "Homer",
+          "thumb": "L4DkLTtS/homer.png",
+          "ability": "Simte Unda de Șoc",
+          "ability_desc": "Eliberează un dron către cel mai apropiat inamic într-o distanță frontală de 100m, creând o explozie puls în diametru de 4 m, care reduce viteza de deplasare cu 60% și viteza de tragere cu 35%. Durează 5s. Provocă 25 DMG. Recuperare: 90s.",
+          "gender": "Masculin",
+          "age": "30",
+          "date": "01/06",
+          "bio": "Homer este un om orb care nu este doar un asasin, ci și unul dintre fondatorii bandei tech prospere din Griza. Cu toate acestea, Homer, care a dispărut din putere în ultimii ani, vrea acum doar să afle adevărul din spatele bolii ciudate care l-a orbit în copilărie, institutul de cercetare misterios pe care l-a numit școală și mineralul de pământ rar legat de toate acestea."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "XJqtwdmD/kenta.webp",
+          "name": "Kenta",
+          "thumb": "rswrQB1k/kenta.png",
+          "ability": "Furia Sabiei",
+          "ability_desc": "Formează un scut care reduce daunele de armă din față. Se resetează când utilizatorul trage un foc.",
+          "gender": "Masculin",
+          "age": "38",
+          "date": "05/05",
+          "bio": "Kenta a servit ca paznic și fierar pentru familia lui Hayato Yagami timp de ani de zile. Este un om al puținilor cuvinte, dar își protejează noul maestru tânăr în orice situație se află. Are și dorințele sale personale, dar le pune în plan secundar în timp ce îl slujește pe Hayato într-o perioadă periculoasă pentru familia Yagami."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "MHVwQ1jJ/nairi.webp",
+          "name": "Nairi",
+          "thumb": "mkkPQQ4Z/nairi.png",
+          "ability": "Fier de Gheață",
+          "ability_desc": "Zidurile Gloo desfășurate restabilesc 150 de durabilitate pe secundă atunci când sunt lovite, în timpul cărora colegii de echipă în raza de 5m restabilesc 20HP/s. Max 40HP per coleg de echipă de la fiecare Zid Gloo.",
+          "gender": "Masculin",
+          "age": "23",
+          "date": "27/12",
+          "bio": "Nairi a dezvoltat un interes pentru vreme înca de la o vârstă fragedă, când a fost forțat să se îndepărteze de climatul rece. Dar dragostea sa pentru zăpadă l-a condus să găsească o modalitate de a se întoarce acolo. A dezvoltat tehnologie de micromanipulare a climei pentru a-i permite să supraviețuiască în cele mai extreme medii. Acum își petrece timpul cățărându-se pe stânci, făcând drumeții și urmărind furtunile în căutarea răspunsurilor la prezicerea climatului."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "dtRvQmY8/otho.webp",
+          "name": "Otho",
+          "thumb": "tC11JtD2/otho.png",
+          "ability": "Cețea Memoriei",
+          "ability_desc": "Formează o ceață de memorie când un inamic este eliminat, dezvăluind pozițiile altor inamici aproape.",
+          "gender": "Masculin",
+          "age": "21",
+          "date": "01/11",
+          "bio": "Otho are o minte imaginațivă, dar foarte practică. Îi este frică să uite amintirile trecutului său și încearcă să găsească modalități de a păstra trecutul. Se apropie tot mai mult în fiecare zi și, în proces, a dezvoltat un dispozitiv care îi permite să vadă intențiile altora. Când nu cercetează mai multe mecanisme pentru memorie, petrece timpul cu prietenii săi și visează cu câinele său."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "XqyhP3Vf/leon.webp",
+          "name": "Leon",
+          "thumb": "SNj98pQL/leon.png",
+          "ability": "Aruncare La Coș",
+          "ability_desc": "Recuperează HP după angajarea în luptă.",
+          "gender": "Masculin",
+          "age": "20",
+          "date": "30/09",
+          "bio": "Leon este un student universitar care are abilități extreme de baschet și nu se teme să le arate. Poate sări mai sus decât aproape oricine știe cu ajutorul piciorului său bionic. Are un interes în electronică și știe cum să repare și să experimenteze cu piciorul său atunci când întâmpină defecțiuni. S-ar putea să pară că îi pasă doar de baschet, dar folosește sportul nu numai pentru a-și susține familia, ci și prietenii."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "RZVrMkGB/thiva.webp",
+          "name": "Thiva",
+          "thumb": "prmd9RQp/thiva.png",
+          "ability": "Vital Vibes",
+          "ability_desc": "Viteza de ridicare a colegilor de echipă este crescută cu 70%. Cooldown: 90s. Colegul de echipă ajutat se recuperează cu 60 HP în 3s.",
+          "gender": "Bărbat",
+          "age": "25",
+          "date": "02/12",
+          "bio": "Thiva este fratele mai mic al lui Dimitri. A fost talentat din naștere și a cântat muzică pe tot parcursul copilăriei. Dorește cu adevărat să ajute lumea și să îmbunătățească viețile oamenilor, dar crede că cel mai bun mod de a face acest lucru este să atingă individul cu un mesaj real prin muzica sa."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "0NPsJ69L/dimitri.webp",
+          "name": "Dimitri",
+          "thumb": "7hHgjGyj/dimitri.png",
+          "ability": "Healing Heartbeat",
+          "ability_desc": "Creează o zonă de vindecare cu rază de 3.5m. În interior, utilizatorul și aliații recuperează 10 HP/s. Ridicarea ajutorului va fi declanșată automat când este nevoie. Zona durează 12s. Efectele de ajutorare a colegilor de echipă pot fi îmbunătățite de alte abilități. Cooldown: 90s.",
+          "gender": "Bărbat",
+          "age": "26",
+          "date": "16/05",
+          "bio": "Dimitri este fratele mai mare al lui Thiva. În viața de zi cu zi, își petrecea cea mai mare parte a zilei în laborator dezvoltând noi tehnologii sonore. După ce a descoperit pasiunea pentru muzică, a realizat că ajutarea lumii și îmbunătățirea vieților oamenilor prin creațiile sale tehnologice ar putea fi unul dintre visele sale."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "L8dR2Cw4/d-bee.webp",
+          "name": "D-Bee",
+          "thumb": "prCBdQZ2/bee.png",
+          "ability": "Bullet Beats",
+          "ability_desc": "Atunci când trage în timp ce se deplasează, viteza de deplasare și precizia cresc.",
+          "gender": "Bărbat",
+          "age": "19",
+          "date": "23/09",
+          "bio": "D-Bee are o personalitate extrovertită și își bucură întâlnirea cu oameni noi. Crede că sensul vieții constă în creare, iar acesta este motivul pentru care a devenit producător de muzică. Este, de asemenea, fascinat de dans și muzică."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "7YSPGrgJ/maro.webp",
+          "name": "Maro",
+          "thumb": "zGgRtSgV/maro.png",
+          "ability": "Falcon Fervor",
+          "ability_desc": "Daunele cresc odată cu distanța. Daunele la inamicii marcați cresc.",
+          "gender": "Bărbat",
+          "age": "32",
+          "date": "23/05",
+          "bio": "Maro preferă compania animalelor față de cea a oamenilor. Simte că oamenii tind să gândească excesiv totul și uită adevărata înțeles a vieții. Vrea să fie un spirit liber și speră că poate ajuta și alți oameni să se apropie mai mult de natură prin intermediul păsărilor sale."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "HnwGxHfp/skyler.webp",
+          "name": "Skyler",
+          "thumb": "rmFskSKG/skyler.png",
+          "ability": "Riptide Rhythm",
+          "ability_desc": "Dezlănțuie o undă sonică înainte care provoacă daune Gloo Wall-urilor. De asemenea, fiecare Gloo Wall plasată va rezulta în recuperarea HP-ului. Efectele de recuperare nu se acumulează.",
+          "gender": "Bărbat",
+          "age": "26",
+          "date": "05/07",
+          "bio": "Skyler a devenit celebru ca cel mai apreciat cântăreț și dansator pop din țară, și acum este CEO-ul celei mai mari companii de divertisment din Vietnam. Motivat să fie cel mai bun talent muzical din industrie și să găsească cel mai bun talent. Nu îi place să piardă și crede că creativitatea îi ajută pe oameni să vadă partea bună a lumii în loc de cea rea."
+        }
+      ]
+    },
+    {
+      "detalii": [
+        {
+          "imagine": "jjmB4LTx/xayne.webp",
+          "nume": "Xayne",
+          "miniatura": "Yqm9M2qP/xayne.png",
+          "abilitate": "Întâlnire Extremă",
+          "descriere_abilitate": "Primește temporar 120 HP, daune crescute la pereții de Gloo și scuturi. Durează 6 secunde.",
+          "gen": "FEMEIE",
+          "vârstă": "23",
+          "dată": "21/04",
+          "bio": "Xayne a fost întotdeauna interesată de activități mai extreme încă de când era copil. Ea preferă adrenalina sporturilor extreme în locul interacțiunii umane. Un spirit liber, ea vrea să exploreze viața și să îi găsească limitele. Dacă cineva îi pune la îndoială capacitatea de a duce la îndeplinire o misiune, cu siguranță va găsi o modalitate de a o face."
+        }
+      ]
+    },
+    {
+      "detalii": [
+        {
+          "imagine": "D0kknmpj/shirou.webp",
+          "nume": "Shirou",
+          "miniatura": "jjTC8VTF/shirou.png",
+          "abilitate": "Daune Livrate",
+          "descriere_abilitate": "Atunci când utilizatorul este lovit de la o distanță de 80m, atacantul este marcat (vizibil doar pentru utilizator). Primul foc asupra inamicilor marcați are o penetrare suplimentară a armurii.",
+          "gen": "BĂRBAT",
+          "vârstă": "19",
+          "dată": "20/11",
+          "bio": "Shirou este un adolescent cu un simț puternic al responsabilității care și-a risipit totul pentru a-și proteja familia și orașul natal. Lucrează ca un băiat de livrare care livrează pachete în orașul aglomerat și congestionat Griza. Va trebui să înfrunte obstacole mari și să se confrunte cu forțe mai mari decât el pentru a-și găsi adevărul și chemarea adevărată în viață."
+        }
+      ]
+    },
+    {
+      "detalii": [
+        {
+          "imagine": "sXfsbM8p/chrono.webp",
+          "nume": "Chrono",
+          "miniatura": "CxXsdxjf/chrono.png",
+          "abilitate": "Turnul Timpului",
+          "descriere_abilitate": "Creează un câmp de blocare a daunelor. Imposibilitatea de a ataca inamicii din exterior din interiorul câmpului.",
+          "gen": "BĂRBAT",
+          "vârstă": "35",
+          "dată": "05/02",
+          "bio": "Chrono vine dintr-un univers paralel în care există un nivel mai ridicat de știință și tehnologie decât în nivelurile din lumea noastră actuală, Pământul. A avut o copilărie normală în universul său original. Părinții săi erau avocați faimoși care au luptat împotriva sărăciei și au contribuit la ridicarea oamenilor săraci și fără adăpost în societate. Din acest motiv, a avut mereu o conștientizare despre grupurile defavorizate încă de când era foarte tânăr și, pe măsură ce a crescut, a găsit modalități de a-și aduce și el aportul pentru a-i ajuta."
+        }
+      ]
+    },
+    {
+      "detalii": [
+        {
+          "imagine": "t4hbTdG3/dasha.webp",
+          "nume": "Dasha",
+          "miniatura": "QtrgkYY8/dasha.png",
+          "abilitate": "Petrecere Activă",
+          "descriere_abilitate": "Reduce daunele primite și timpul de recuperare de la căderi. Reduce rata de acumulare a reculului și reculul maxim.",
+          "gen": "FEMEIE",
+          "vârstă": "25",
+          "dată": "08/12",
+          "bio": "Dasha este o fata de petrecere care respectă zicala 'muncește din greu, petrece și mai mult'. Ea este puțin șugubeață, pornind adesea necazuri atunci când nu intenționează. A trecut prin multe în viața ei, dar este fericită că a găsit Mambas care apreciază gama sa variată de abilități. Dar acum s-a implicat în ceva ce nu intenționa, dar doar timpul va spune dacă merită efortul."
+        }
+      ]
+    },
+    {
+      "detalii": [
+        {
+          "imagine": "GmJ0rcvz/k.webp",
+          "nume": "K",
+          "miniatura": "s257X9jt/k.png",
+          "abilitate": "Maestrul Tuturor",
+          "descriere_abilitate": "Max EP crește cu 50. Modul Jiujitsu: Aliații într-un raza de 6m primesc o creștere de 500% în rata de conversie a EP-ului. Modul Psihologie: Recuperați 2 EP la fiecare {4} secunde, până la {6} EP. CD de comutare a modului 3s.",
+          "gen": "BĂRBAT",
+          "vârstă": "31",
+          "dată": "06/10",
+          "bio": "K a fost un copil isteț, dar ca majoritatea copiilor de vârsta lui, nu a luat școala în serios. Când avea 16 ani, încă fiind elev în clasa a zecea, a fost implicat într-un accident de mașină și și-a rănit coloana vertebrală. Medicii i-au spus că nu va mai putea să meargă niciodată. Dar a refuzat să renunțe - aceasta nu ar fi fost sfârșitul pentru el. A mers la terapie fizică, a făcut terapie și acasă și a găsit un antrenor să-l ajute să meargă mai departe. Într-un an a început să meargă; în doi juca sporturi. Această experiență i-a învățat câteva lucruri care i-au rămas pentru tot restul vieții. - Nu lua viața de-a gata. - A trebuit să se adâncească în el însuși pentru a trece prin experiență și a învățat să se înțeleagă pe sine, motivațiile sale și locul său în lume. - Un efect secundar al acestui lucru a fost că acum putea citi și înțelege oamenii din jur în aceleași moduri. - De asemenea, a vrut să-și facă corpul și mintea mai puternice pentru a nu fi rănit în același mod niciodată."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "tRZ4bxJ5/luqueta.webp",
+          "name": "Luqueta",
+          "thumb": "nc5DGwMy/luqueta.png",
+          "ability": "Kat Trick",
+          "ability_desc": "Fiecare ucidere crește HP-ul maxim, până la 35.",
+          "gender": "Bărbat",
+          "age": "20",
+          "date": "10/06",
+          "bio": "Luqueta a fost un student de schimb din străinătate. S-a mutat din cauza slujbei tatălui său. Tatăl său voia să-i urmeze pașii și să obțină un MBA și să intre în afaceri. Dar Luqueta a văzut viața tatălui său și nu a vrut nimic din toate acestea. A fost mereu un copil atletic. Când s-a mutat, a început să joace fotbal pentru școală, știa că este bun încă din copilărie, dar la liceu a devenit o vedetă. Nici măcar nu a trebuit să se străduiască prea tare și a fost uimitor."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "nLHyh6kx/kelly.webp",
+          "name": "Kelly",
+          "thumb": "V6Rt9fbg/kelly.png",
+          "ability": "Dash",
+          "ability_desc": "Crește viteza de alergare.",
+          "gender": "Femeie",
+          "age": "17",
+          "date": "01/04",
+          "bio": "În copilărie, era un copil fericit alături de mama ei adoptivă, Rena, și tatăl ei vitreg, Andrew. Când mama ei și Andrew au divorțat, a fost extrem de tristă, dar a păstrat legătura cu Andrew. Kelly a fost întotdeauna o bună alergătoare, dar în liceu antrenorul de atletism a descoperit-o și a devenit vedeta școlii la atletism. Când se găsește pe o insulă necunoscută, va fi forțată să ia decizii dificile care îi vor decide viitorul."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "W34cXQF8/hayato.webp",
+          "name": "Hayato",
+          "thumb": "yxLFK11x/hayato.png",
+          "ability": "Bushido",
+          "ability_desc": "Cu cât HP-ul este mai mic, cu atât penetrarea în armură devine mai mare.",
+          "gender": "Bărbat",
+          "age": "20",
+          "date": "21/03",
+          "bio": "Hayato avea multe responsabilități pe umerii săi în calitate de moștenitor al corporației Yagami. A fost crescut într-o viață în care existența sa era menită să servească onoarea și gloria familiei sale. Când corporația lor a fost achiziționată de Horizon, nu a ezitat să se implice în afacerile corporative pentru a se asigura că Yagami vor opera în continuare cu onoare."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "bJGpq7yJ/moco.webp",
+          "name": "Moco",
+          "thumb": "zBJbGsPg/moco.png",
+          "ability": "Hacker's Eye",
+          "ability_desc": "Marchează inamicii pe care Moco îi împușcă pentru câteva secunde.",
+          "gender": "Femeie",
+          "age": "20",
+          "date": "13/02",
+          "bio": "Moco este un geniu în tehnologie care s-a alăturat Horizon, cea mai prestigioasă companie de tehnologie din continent. Dar când află că sunt implicați în acțiuni nelegitime, ea își șterge identitatea din registrele publice și intră în ascundere pentru a găsi o modalitate de a opri planurile lor. Îi place să opereze singură, dar va realiza curând că amenințarea este prea mare pentru a o aborda singură."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "fTsnPt9k/steffie.webp",
+          "name": "Steffie",
+          "thumb": "G272hHyW/steffie.png",
+          "ability": "Graffiti's Blessing",
+          "ability_desc": "Creează o zonă care blochează obiectele aruncate. Aliații din zonă își vor restabili durabilitatea armurii în fiecare secundă, iar daunele de muniție primite de la dușmani vor fi reduse.",
+          "gender": "Femeie",
+          "age": "23",
+          "date": "05/11",
+          "bio": "Steffie a avut o lungă feudă cu instituțiile, începând cu părinții ei. S-a răzvrătit devreme în viața sa și a continuat să o facă. Viața ei a luat o cotitură dificilă când a defavorizat gigantul tech, Horizon, și a fost forțată să fugă sau să devină hrană pentru experimentele lor. A fost salvată de Moco și curând a descoperit Mambas, o forță rebelă care pare să fie chemarea sa adevărată."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "LsQmK9Mw/misha.webp",
+          "name": "Misha",
+          "thumb": "zB0Lbx9P/misha.png",
+          "ability": "Afterburner",
+          "ability_desc": "Crește viteza de conducere și reduce daunele primite în timp ce ești în vehicule. Este mai dificil să fii țintit în timp ce conduci.",
+          "gender": "FEMEIE",
+          "age": "19",
+          "date": "26/07",
+          "bio": "După ce părinții ei au fost uciși, ea a renunțat la școală și Misha a devenit pilot de curse pentru a-și plăti facturile și a-și susține fratele, Maxim. Într-o zi, Maxim a dispărut și ea a renunțat la tot pentru a-l găsi. Căutarea ei se intersectează cu cea a lui Andrew în timp ce își caută familiile respective. Călătoria lor o va purta pe noi căi periculoase, cu sfârșitul departe de vedere."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "HWqskk7C/maxim.webp",
+          "name": "Maxim",
+          "thumb": "43RHr76w/maxim.png",
+          "ability": "Gluttony",
+          "ability_desc": "Reduce timpul necesar pentru a mânca ciuperci și pentru a folosi kit-uri medicale.",
+          "gender": "BĂIAT",
+          "age": "17",
+          "date": "30/01",
+          "bio": "Maxim s-a simțit vinovat că sora lui, Misha, a renunțat la școală pentru a avea grijă de el. Dar nu avea multe abilități practice și s-a orientat către video-uri în care mânca ca un loc de muncă part-time. Într-o zi, el și colega lui de clasă Kelly au fost răpiți dintr-un autobuz școlar și trimiși pe insula Bermuda. Insula l-a schimbat - a devenit mai sănătos, mai puternic, mai încrezător și mai bine pregătit să înfrunte o lume aspră."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "vmtGPrPY/andrew.webp",
+          "name": "Andrew",
+          "thumb": "TY294Sdh/andrew.png",
+          "ability": "Armor Specialist",
+          "ability_desc": "Scade pierderea durabilității vestei.",
+          "gender": "BĂIAT",
+          "age": "42",
+          "date": "25/12",
+          "bio": "Prima sa soție avea o fiică, Kelly, care i-a fost aproape ca o fiică biologică. Când s-a despărțit, a încercat în continuare să fie implicat în viața lui Kelly. Andrew a fost sergent în LLPD înainte ca logodnica sa nouă să moară într-un atac brutal al unei bande. A pierdut slujba încercând să afle cine sunt ucigașii ei, luptând și împotriva Horizon, care încerca să preia departamentul de poliție."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "CMQS6L4q/caroline.webp",
+          "name": "Caroline",
+          "thumb": "4xm1J9hg/caroline.png",
+          "ability": "Agility",
+          "ability_desc": "Viteză sporită de deplasare când ții o pușcă cu țeavă scurtă.",
+          "gender": "FEMEIE",
+          "age": "17",
+          "date": "10/10",
+          "bio": "Caroline poseda agilitatea, politețea și sofisticarea pe care majoritatea fetelor bogate le aveau în lipsă. Lucra în limitele sociale, dar manipula abil oamenii după bunul său plac. Este încă elevă, dar datorită conexiunilor familiale, uneori este implicată în planurile Horizon. Ea și Hayato sunt cunoștințe și uneori se ajută reciproc."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "43xXSKjp/laura.webp",
+          "name": "Laura",
+          "thumb": "c1FYrJW4/laura.png",
+          "ability": "Sharp Shooter",
+          "ability_desc": "Precizia crescută atunci când ești în vizor.",
+          "gender": "FEMEIE",
+          "age": "29",
+          "date": "21/05",
+          "bio": "Laura a fost cea mai bună din clasa ei și cel mai remarcabil lunetist pe care plutonul ei l-a produs vreodată. Abia când tatăl ei a dispărut în război a ales calea de a deveni agent special pentru a încerca să-l găsească. Încă în căutarea ei, lucrează pentru o agenție care elimină răufăcătorii care macină orașul ei. Laura acum trebuie să-și reconsidere viața când ținta ei nouă, Rafael, nu este cine i se spune că este."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "jSZbPxC2/rfael.webp",
+          "name": "Rafael",
+          "thumb": "W1gh6NBZ/rafael.png",
+          "ability": "Tăcere Mortală",
+          "ability_desc": "Efect de înăbușire atunci când folosește puști și puști cu lunetă. Inamicii loviți și doborâți suferă o pierdere mai rapidă a HP-ului.",
+          "gender": "BĂRBAT",
+          "age": "31",
+          "date": "09/09",
+          "bio": "Rafael era un om de familie dulce până când o tragedie familială teribilă l-a transformat într-un om fără inimă și plin de răzbunare. Acum străbate lumea nu doar pentru omul care i-a distrus familia, ci și pentru a executa contracte de aducere a justiției altor răutăți. Pe măsură ce anii au trecut, și-a dat seama că viața nu era atât de alb-negru pe cât părea. Apariția frumoasei Laura în viața lui a aruncat acum o altă cheie în structura cu grijă construită a vieții sale."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "zfrJStF2/alok.webp",
+          "name": "Alok",
+          "thumb": "qBxwQ0d9/alok.png",
+          "ability": "Dă-i Bătaie",
+          "ability_desc": "Creează o aură de 5m care crește viteza de deplasare și de sprint și restabilește HP-ul. Efectul nu poate fi acumulat.",
+          "gender": "BĂRBAT",
+          "age": "28",
+          "date": "26/08",
+          "bio": "Folosind puterea muzicii, Alok a părăsit Brazilia și a călătorit în lume. Numele său înseamnă „lumină”. A semnat un contract și un concert închis va avea loc pe insula câmpului de luptă Free Fire pentru niște invitați VIP!"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "kgdrkVRB/jota.webp",
+          "name": "Jota",
+          "thumb": "9Q6yCNhd/jota.png",
+          "ability": "Razi Sustenabile",
+          "ability_desc": "Atunci când folosește arme, lovitul unui inamic recuperează o parte din HP-ul utilizatorului.",
+          "gender": "BĂRBAT",
+          "age": "31",
+          "date": "23/06",
+          "bio": "Jota a crescut într-o familie de clasă mijlocie, a fost un elev mediu și a avut o familie care l-a iubit. În general, o viață destul de normală - dar s-a simțit captiv și a avut nevoie de mai multă acțiune în viața sa. A locuit într-un oraș cu zgârie-nori care umpleau orizontul și s-a simțit captiv, așa că a început să urce pentru a găsi locuri de unde să vadă cerul."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "1tWsS9hb/clu.webp",
+          "name": "Clu",
+          "thumb": "7LzMzrVt/clu.png",
+          "ability": "Urmărirea Pașilor",
+          "ability_desc": "Localizează pozițiile inamicilor care nu sunt în poziție culcat sau aplecat, CD 50s. Efectele abilității sunt distribuite membrilor echipei după nivelul 4.",
+          "gender": "FEMEIE",
+          "age": "24",
+          "date": "28/02",
+          "bio": "Clu a crescut într-un cartier rezidențial al unui oraș mare. Părinții ei erau bogați, nu au trebuit niciodată să-și facă griji despre necesitățile vieții și ea a avut o copilărie foarte iubită. Când era adolescentă, tatăl ei a fost recrutat pentru efortul de război. Războiul s-a încheiat un an mai târziu și el nu s-a mai întors acasă. Nu a fost niciodată găsit. Clu a devenit detectiv particular după absolvirea liceului, sperând că ar putea descoperi detalii despre dispariția tatălui său."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "P56gNSF8/wolfrahh.webp",
+          "name": "Wolfrahh",
+          "thumb": "5yD2LTpp/wolfrah.png",
+          "ability": "Rampă de Lumină",
+          "ability_desc": "Cu fiecare spectator adițional: Daunele primite din lovituri la cap scad, până la 25%. Daunele la membrele inamicilor cresc.",
+          "gender": "BĂRBAT",
+          "age": "19",
+          "date": "29/04",
+          "bio": "Wolfrahh a crescut ascuns de lume după un eveniment traumatic. După ce și-a înfruntat temerile, a reușit să depășească unele dintre problemele sale de încredere, dar tot avea dificultăți în găsirea identității sale. A fost invitat la cea mai mare competiție de jocuri VR de pe continent pentru a-și arăta abilitățile. Cu toate acestea, în proces, a descoperit secrete - alegerile sale legate de acestea îi vor defini viața."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "wM7HTS9M/alvaro.webp",
+          "name": "Alvaro",
+          "thumb": "63d0kx44/alvaro.png",
+          "ability": "Arta Distrugerii",
+          "ability_desc": "Crește daunele armei explozive, crește raza de acțiune a daunelor.",
+          "gender": "BĂRBAT",
+          "age": "26",
+          "date": "28/05",
+          "bio": "Alvaro este un tânăr cu o personalitate explozivă. Un accident din copilărie i-a dăruit puteri explozive speciale, în detrimentul memoriei sale. Este pierdut într-un cerc constant de căutare a amintirilor și de nevoie de a-și folosi puterile pentru a-i salva pe cei dragi. Singurul lucru constant pe care l-a găsit în viața sa este Kapella, prietena sa cea mai bună din copilărie, pe care nu o mai recunoaște conștient."
+        }
+      ]},
+    {
+      "details": [
+        {
+          "image": "jdntV08k/antonio.webp",
+          "name": "Antonio",
+          "thumb": "MHqDx31P/antonio.png",
+          "ability": "Sufletul Gangsterului",
+          "ability_desc": "Primește HP suplimentar la începutul rundei.",
+          "gender": "BĂRBAT",
+          "age": "30",
+          "date": "01/08",
+          "bio": "Antonio este tipul de om pe care oamenii încearcă să-l evite privindu-l în ochi. Pare că te-ar lovi în față dacă îi ții privirea prea mult timp. În realitate, sub acea înfățișare de gangster, el este timid și sensibil. Crescând în războaie locale între bande, nu a fost violent fără motiv - s-a apărat doar pe sine și pe cei dragi - soția sa, familia sa și Chihuahua-ul său numit Poncho."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "MpWwnM6g/paloma.webp",
+          "name": "Paloma",
+          "thumb": "5NZXCYR1/paloma.png",
+          "ability": "Trafic de Arme",
+          "ability_desc": "Poate transporta muniție AR fără a ocupa spațiu în inventar.",
+          "gender": "FEMEIE",
+          "age": "28",
+          "date": "04/08",
+          "bio": "Toți cei care vin să o cunoască pe Paloma, o admiră într-un fel sau altul. O floare sălbatică înflorind într-un sărăcios cartier de muncitori. Acest lucru se datorează unei încrederi de neclintit în sine, care îi determină pe oameni să graviteze în jurul ei, proiectând un sentiment de siguranță și viziune asupra viitorului. Singurul lucru care o poate distrage de la propria ei viziune a viitorului este dragostea vieții ei, Antonio."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "YCkrQD3n/miguel.webp",
+          "name": "Miguel",
+          "thumb": "ncL4kD2D/iguel.png",
+          "ability": "Ucigaș Nebun",
+          "ability_desc": "Miguel poate obține EP pentru fiecare ucidere.",
+          "gender": "BĂRBAT",
+          "age": "26",
+          "date": "10/10",
+          "bio": "Dedicându-și viața legii și justiției, Miguel a condus echipa sa prin numeroase operațiuni de combatere a criminalității cu o rată de succes de 100%. Echipa sa este cunoscută pentru abordarea unor sarcini imposibile, motiv pentru care nimeni nu s-ar fi așteptat la incidentul tragic din urmă cu 6 luni. Miguel avea să-și dea seama curând că durerea și furia după o misiune eșuată nu se compară cu cea a trădării unui prieten."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "mgwbj3pb/mikita.webp",
+          "name": "Nikita",
+          "thumb": "7L1JDHX4/mikita.png",
+          "ability": "Expert în Arme de Foc",
+          "ability_desc": "Viteza de reîncărcare crește cu 20%. De fiecare dată când utilizatorul abilității lovește un dușman, acesta va avea o reducere a vindecării de 30% care durează 10 secunde (deducere maximă: 30%).",
+          "gender": "FEMEIE",
+          "age": "22",
+          "date": "11/11",
+          "bio": "Misiunea ei cea mai importantă este să o protejeze pe Caroline, fiica Vicepreședintelui Horizon. Absolvind ca un lunetist de top de la școala militară, Nikita ar putea avea cu siguranță ambiții mai mari decât să escorteze o fată adolescentă, dar se pare că este fericită cu felul în care stau lucrurile. Trebuie să ne întrebăm dacă are propriile obiective, unele care s-ar putea să nu aibă cel mai bun interes al Horizon în minte."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "43Br7BL9/kapella.webp",
+          "name": "Kapella",
+          "thumb": "TwGmWLhh/kapella.png",
+          "ability": "Cântecul Vindecător",
+          "ability_desc": "Crește efectele obiectelor de vindecare și abilitățile de vindecare. Reduce pierderea de HP pentru aliați. Efectele nu se suprapun.",
+          "gender": "FEMEIE",
+          "age": "21",
+          "date": "17/07",
+          "bio": "Kapella a fost orfană în copilărie și adoptată de magnatul tehnologiei, Joseph. Tânăra energică era extrem de observatoare și intuitivă. Ea a devenit o cântăreață celebră în întreaga lume și membră a trupei Mambas. Personalitatea ei joacă cu siguranță un rol cheie în succesul ei, dar desigur, o stea nu se naște singură. Atunci când Alvaro, o amintire din trecutul ei, reapare, ea trebuie să decidă ce este cel mai important în viața ei."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "SN9FTLsB/joseph.webp",
+          "name": "Joseph",
+          "thumb": "bwDQXfKY/joseph.png",
+          "ability": "Mișcarea Amuzantă",
+          "ability_desc": "Devine imun la efectele perturbatoare (cum ar fi încetinirea, marcarea, tăcerea abilităților) și primește un impuls de viteză de 10% pentru 5 secunde. Recuperare: 60 secunde.",
+          "gender": "BĂRBAT",
+          "age": "45",
+          "date": "02/02",
+          "bio": "Regele inimilor frânte al New Dawn, Joseph, a fondat Nerve Labs, o companie de tehnologie de succes. La sfârșitul Marii Colaps, Joseph a aflat de planurile nelegiuite ale lui Horizon pentru umanitate și a făcut un dușman dintr-un om de știință extraordinar de inteligent."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "cHVZCFCc/notora.webp",
+          "name": "Notora",
+          "thumb": "hvYfMf4L/notora.png",
+          "ability": "Binecuvântarea Curselor",
+          "ability_desc": "Atunci când conduce un vehicul, reface HP-ul tuturor membrilor de pe vehicul. Efectele nu se suprapun.",
+          "gender": "FEMEIE",
+          "age": "27",
+          "date": "22/03",
+          "bio": "Fiica unei familii de gășcari de motocicliști, Notora nu a avut niciodată prea mult de spus în ceea ce privește stilul ei de viață. În ciuda puterii și rezistenței sale, ea are un dezgust ascuns pentru violența fără sens adânc în interiorul ei. Echipa ei întreagă a fost eliminată în timpul unei rivalități vicioase între găști. Din fericire, moartea i-a ignorat din nou. În curând, Notora ar realiza, totuși, că nu norocul a adus-o acolo, când a fost capturată vie și exilată pe insulele Bermuda."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "cC2WKXJm/a124.webp",
+          "name": "A124",
+          "thumb": "MTk53pH8/a124.png",
+          "ability": "Fiorul Bătăliei",
+          "ability_desc": "Declanșează o undă electromagnetică de 8m care dezactivează activarea abilităților inamicilor și întrerupe numărătoarea inversă a interacțiunii lor. Durează 20 de secunde. Recuperare: 50 de secunde.",
+          "gender": "FEMEIE",
+          "age": "18",
+          "date": "01/01",
+          "bio": "Născută pentru a sluji un scop, A124 a fost programată să fie o mașină de ucis. Ea cu siguranță nu a fost construită pentru interacțiunile umane și emoțiile complicate, dar cine ar putea opri o minte tânără să încerce? Cu acele abilități de luptă și o minte curioasă, lumea este literalmente o stridie pentru ea."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "0Q4FZrq5/kla.webp",
+          "name": "Kla",
+          "thumb": "WzYJK58J/kla.png",
+          "ability": "Muay Thai",
+          "ability_desc": "Daune crescute cu pumnul.",
+          "gender": "BĂRBAT",
+          "age": "27",
+          "date": "14/12",
+          "bio": "Kla a depășit multe obstacole în tinerețea sa, dar asasinarea părinților săi a fost prea mult pentru el - conducându-l pe un drum al furiei și violenței. S-a pierdut în furia și vinovăția care gravitează în jurul morții lor și s-a găsit într-un mare impas. A fost doar după ce a confruntat în cele din urmă unul dintre bărbații responsabili pentru moartea părinților săi că a găsit claritatea și drumul său în viață."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "cJrV3fVk/wukong.webp",
+          "name": "Wukong",
+          "thumb": "8kY52fDW/wukong.png",
+          "ability": "Camuflaj",
+          "ability_desc": "Se transformă într-un tufiș cu o reducere a vitezei de deplasare cu 5%, timp de 15s. CD: 200s. Transformarea se încheie când Wukong atacă. CD se resetează când Wukong doboară un inamic.",
+          "gender": "BĂRBAT",
+          "age": "0",
+          "date": "13/12",
+          "bio": "O maimuță care arată ca un om. Totuși, îi plac în continuare bananele."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "ZKz4hs1b/olivia.webp",
+          "name": "Olivia",
+          "thumb": "BZ7LJw5j/olivia.png",
+          "ability": "Atingere Vindecătoare",
+          "ability_desc": "Jucătorii reviviți de Olivia vor primi HP suplimentar.",
+          "gender": "FEMEIE",
+          "age": "29",
+          "date": "10/11",
+          "bio": "După o operație dintr-un accident din copilărie, Olivia a dezvoltat o abilitate specială de a vindeca și revigora - cu o singură atingere miraculoasă, ea poate îndepărta ușor durerea și poate promova vindecarea rănilor. În ciuda copilăriei traumatice, Olivia a crescut și a devenit una dintre cele mai atente și compătimitoare din rândul colegilor ei. Cu toate acestea, ea are puțină interacțiune socială în afara zonei sigure a lui Ford și se retrage de la lume."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "yNjzhVdW/ford.webp",
+          "name": "Ford",
+          "thumb": "k4FQjNLx/ford.png",
+          "ability": "Voință de Fier",
+          "ability_desc": "Reduce daunele primite în afara zonei sigure.",
+          "gender": "BĂRBAT",
+          "age": "31",
+          "date": "23/01",
+          "bio": "Ford a fost odată căpitan pe mare deschisă. Acum s-a dedicat construirii unui adăpost sigur pentru refugiați. El este „unchiul înțelept și de încredere” al tuturor, care cunoaște căile navigabile în și din Bermuda. Știind prea bine cum rănesc trădările, Ford se străduiește pentru un echilibru între încredere și precauție. Credea că voința sa este indestructibilă, până când l-a întâlnit pe Olivia..."
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "image": "4dhkDpPH/shani.webp",
+          "name": "Shani",
+          "thumb": "LsV5wy66/shani.png",
+          "ability": "Reciclarea Echipamentului",
+          "ability_desc": "Restabilește durabilitatea armurii după fiecare ucidere. Durabilitatea suplimentară poate îmbunătăți armura, până la nivelul 3.",
+          "gender": "FEMEIE",
+          "age": "31",
+          "date": "23/06",
+          "bio": "Shani este o ingineră autodidactă. Părinții ei au fost uciși într-o explozie de clădire când avea 18 ani și a pierdut tot ce avea. A rătăcit câțiva ani făcând diferite slujbe pentru a supraviețui, când proprietarul unui depozit de gunoaie a luat-o și i-a oferit un loc unde să se simtă acasă. Acolo a putut lucra cu piese de gunoi și să-și urmeze pasiunea pentru inginerie."
+        }
+      ]
+    }
+  ]
+}
